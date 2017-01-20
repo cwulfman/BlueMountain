@@ -33,7 +33,7 @@
     
     
     <xsl:template match="mods:name">
-        <xsl:variable name="display-string" select="mods:displayForm/text()" />
+        <xsl:variable name="display-string" select="mods:displayForm[1]/text()" />
         <xsl:variable name="viafid" select="local:viafid-from-displayForm($display-string)"/>
         <mods:name>
             <xsl:attribute name="type" select="@type"/>
