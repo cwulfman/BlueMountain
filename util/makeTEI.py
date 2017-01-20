@@ -5,11 +5,11 @@ Created on September 12, 2014
 '''
 
 import os
-import re
 import argparse
 
 xslpath = '/Users/cwulfman/BlueMountain/util/xsl/metsalto2tei.xsl'
 targetroot = '/tmp'
+
 
 def gen_commands(sourcedir, targetdir):
     '''Generate saxon command to convert METS/ALTO file group to TEI.'''
@@ -18,21 +18,26 @@ def gen_commands(sourcedir, targetdir):
         print 'mkdir -p ' + target_subdir
         for fname in files:
             if fname.endswith('.mets.xml'):
-                inpath  = '/'.join((root, fname))
-                outpath = '/'.join((target_subdir, fname.replace("mets.xml", "tei.xml")))
-                expr    = "saxon -s:%s -xsl:%s path=%s -o:%s" % (inpath, xslpath, root, outpath)
+                inpath = '/'.join((root, fname))
+                outpath = '/'.join((target_subdir,
+                                    fname.replace("mets.xml", "tei.xml")))
+                expr = "saxon -s:%s -xsl:%s path=%s -o:%s" % (inpath,
+                                                              xslpath,
+                                                              root, outpath)
                 print "echo 'transforming %s'" % inpath
                 print expr
                 print "echo 'wrote %s'" % outpath
-            if 'alto' in dirs: dirs.remove('alto')
+            if 'alto' in dirs:
+                dirs.remove('alto')
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument("-i", "--input_dir", help="top-level directory of source METS/ALTO.")
-    parser.add_argument("-o", "--output_dir", help="target directory.")
+    parser.add_argument("-i", "--input_dir",
+                        help="top-level directory of source METS/ALTO.")
+    parser.add_argument("-o", "--output_dir",
+                        help="target directory.")
     args = parser.parse_args()
 
     if args.input_dir and args.output_dir:
         gen_commands(args.input_dir, args.output_dir)
-
-
