@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnabh_1907-12-15_01">
 	  <metsHdr>
@@ -152,12 +152,14 @@
 							              <titleInfo lang="fre">
 								                <title>LETTRE-PREFACE DE JOSEPH JOACHIM</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/287110204">
 								                <displayForm>Joseph Joachim</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -316,12 +318,14 @@
 							              <titleInfo lang="fre">
 								                <title>REPONSE DE PAGANINI DANS L'ANNOTATEUR DU 3 JUILLET 1834</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/93850871">
 								                <displayForm>Nicolo Paganini</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -400,12 +404,14 @@
 							              <titleInfo lang="fre">
 								                <title>ANNOTATEUR 10 JUILLET 1834</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/10114319">
 								                <displayForm>Alberto Bachmann</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -446,12 +452,14 @@
 						            <titleInfo lang="fre">
 							              <title>MAURICE MAETERLINCK ET CLAUDE DEBUSSY</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/27200042">
 							              <displayForm>Robert de Souza</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -504,12 +512,14 @@
 							              <nonSort>Les</nonSort>
 							              <title>musiciens de Philippe le Hardi D'APRÈS UN LIVRE RÉCENT</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/44405963">
 							              <displayForm>Michel Brenet</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -562,12 +572,12 @@
 							              <nonSort>UNE</nonSort>
 							              <title>BELLE VENTE D'AUTOGRAPHES</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>Jean Le Roux</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -644,12 +654,14 @@
 							              <nonSort>LA</nonSort>
 							              <title>NOTATION MUSICALE</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/24603781">
 							              <displayForm>Louis Laloy</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -702,12 +714,12 @@
 							              <nonSort>Un</nonSort>
 							              <title>Théâtre de Musique à Paris</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>P. Dollien</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -786,12 +798,14 @@
 							              <titleInfo lang="fre">
 								                <title>THÈATRES</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/24603781">
 								                <displayForm>Louis Laloy</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -819,12 +833,14 @@
 							              <titleInfo lang="fre">
 								                <title>ART DE LA DANSE.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/24603781">
 								                <displayForm>Louis Laloy</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -852,12 +868,14 @@
 							              <titleInfo lang="fre">
 								                <title>CONCERTS DU DIMANCHE.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/24603781">
 								                <displayForm>Louis Laloy</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -886,12 +904,14 @@
 								                <nonSort>LA</nonSort>
 								                <title>MAISON DES ARTS.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/24603781">
 								                <displayForm>Louis Laloy</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -934,12 +954,14 @@
 							              <titleInfo lang="fre">
 								                <title>CONCERTS D'AVANT-GARDE.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/29626758">
 								                <displayForm>J. E</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -967,12 +989,14 @@
 							              <titleInfo lang="fre">
 								                <title>BARCELONE.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/304091913">
 								                <displayForm>F. Lliurat</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1002,12 +1026,14 @@
 							              <nonSort>A</nonSort>
 							              <title>PROPOS DE BRUCKNER</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/85156029 http://viaf.org/viaf/85156029">
 							              <displayForm>William Ritter</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1085,12 +1111,14 @@
 							              <titleInfo lang="fre">
 								                <title>L' Esthétique de Jean - Sébastien par André PIRRO.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/44405963">
 								                <displayForm>Michel Brenet</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1118,12 +1146,14 @@
 							              <titleInfo lang="fre">
 								                <title>BROSSET. J.  Le grand orgue, les Maîtres de chapelle et</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/76318077">
 								                <displayForm>L. de la Laurencie</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>

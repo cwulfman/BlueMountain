@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnabj_1906-10-01_01">
 	  <metsHdr>
@@ -73,12 +73,12 @@
 							              <nonSort>A</nonSort>
 							              <title>propos du «Couronnement de la Muse» de M. Gustave Charpentier. PARADOXES SUR LA MUSIQUE POPULAIRE.</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>J. c</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -125,12 +125,12 @@
 								                <nonSort>LES</nonSort>
 								                <title>MODES DIATONIQUES (Suite) L'ÉCHELLE DE SI à si. — LE MODE LYDIEN. — SYSTÈME DE TROIS GAMMES (résumé par M. Emile Dusselier).</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>JULES COMBARIEU</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -279,12 +279,12 @@
 						            <titleInfo lang="fre">
 							              <title>NOTES SUR LA MUSIQUE ORIENTALE La musique des Malgaches</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>A. SICHEL</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -313,12 +313,14 @@
 							              <nonSort>La</nonSort>
 							              <title>musique à Aix-les-Bains. — Hommage à Saint-Saëns.</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/7496417">
 							              <displayForm>HARTWIG DERENBOURG</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -348,12 +350,14 @@
 							              <titleInfo lang="fre">
 								                <title>La Bibliothèque municipale de Nice possède, entre autres volumes sur la</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/305400051">
 								                <displayForm>EDOUARD PERRIN</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>

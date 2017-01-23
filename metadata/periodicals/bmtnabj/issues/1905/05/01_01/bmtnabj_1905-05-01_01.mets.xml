@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnabj_1905-05-01_01">
 	  <metsHdr>
@@ -73,12 +73,14 @@
 							              <nonSort>Les</nonSort>
 							              <title>chanteurs italiens à Paris : ANTONIO BALDELLI</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/10111538">
 							              <displayForm>ADALBERT MERCIER</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -150,12 +152,14 @@
 							              <titleInfo lang="fre">
 								                <title>Voici pas mal d'années que, périodiquement annoncée comme prochaine, la</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/74116366">
 								                <displayForm>HENRI QUITTARD</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -187,12 +191,12 @@
 								                <nonSort>LE</nonSort>
 								                <title>VANDALISME MUSICAL. (Leçon du jeudi 6 avril, d'après la sténographie)</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>JULES COMBARIEU</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -257,12 +261,12 @@
 						            <titleInfo lang="fre">
 							              <title>M. Saint-Saëns à Bordeaux.</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>A. C</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -278,12 +282,12 @@
 						            <titleInfo lang="fre">
 							              <title>M. Camille Bellaigue, Un point d'histoire.</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>S</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -329,12 +333,12 @@
 							              <titleInfo lang="fre">
 								                <title>CONCERT COLONNE.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>A. C</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -362,12 +366,12 @@
 							              <titleInfo lang="fre">
 								                <title>Mardi 18 avril. -- Deuxième concert avec orchestre, Jan Kubelik.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>M. J</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -398,12 +402,14 @@
 							              <titleInfo lang="fre">
 								                <title>CONCERT DU VIOLONISTE MISCHA ELMAN.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/10111538">
 								                <displayForm>ADALBERT MERCIER</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -419,12 +425,14 @@
 							              <titleInfo lang="fre">
 								                <title>MARSEILLE.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/181979989">
 								                <displayForm>ERNEST GUEYDAN</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -440,12 +448,12 @@
 							              <titleInfo lang="fre">
 								                <title>BORDEAUX.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>Jos. GRIMO</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -461,12 +469,14 @@
 							              <titleInfo lang="fre">
 								                <title>NICE.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/305400051">
 								                <displayForm>EDOUARD PERRIN</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>

@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnaaq_1915-12-11_01">
 	  <metsHdr>
@@ -151,12 +151,14 @@
 							              <title>Just Time</title>
 						            </titleInfo>
 						            
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/45093684">
 							              <displayForm>Guido Bruno</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -173,12 +175,12 @@
 							              <nonSort>The</nonSort>
 							              <title>Execution</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>Will M. Clemen</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -194,12 +196,12 @@
 						            <titleInfo lang="eng">
 							              <title>To Clara Tice</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>G. G</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -227,12 +229,14 @@
 						            <titleInfo lang="eng">
 							              <title>Bathsheba in Washington Square</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/51077283">
 							              <displayForm>Harold Speakman</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -281,12 +285,14 @@
 						            <titleInfo lang="eng">
 							              <title>This is the famous Wilson Limerick which is making the</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/89457467">
 							              <displayForm>Woodrow Wilson</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -320,12 +326,14 @@
 						            <titleInfo lang="eng">
 							              <title>Last Year's Diary of Muriel Ciolkowska, Paris Correspondent of "The Egoist," in London.</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/227083524">
 							              <displayForm>Muriel Ciolkowska</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -341,12 +349,12 @@
 						            <titleInfo lang="eng">
 							              <title>Phantasies</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>Heroichiro K. Myderco</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -362,12 +370,14 @@
 						            <titleInfo lang="eng">
 							              <title>Maude: A Memory</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/45093684">
 							              <displayForm>Guido Bruno</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>

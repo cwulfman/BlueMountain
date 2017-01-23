@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnabh_1908-03-15_01">
 	  <metsHdr>
@@ -84,12 +84,14 @@
 							              <nonSort>LA</nonSort>
 							              <title>MISE EN SCÈNE D'HIPPOLYTE ET ARICIE</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/88116954">
 							              <displayForm>GEORGES IMBART DE LA TOUR</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -599,12 +601,14 @@
 						            <titleInfo lang="fre">
 							              <title>LÀ MUSIQUE ESPAGOLE MODERNE</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/115123373">
 							              <displayForm>Henri Collet</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -902,12 +906,14 @@
 						            <titleInfo lang="fre">
 							              <title>NOTES PRÉLIMINAIRES.</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/22229546">
 							              <displayForm>M.-D. Calvocoressi</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -971,12 +977,14 @@
 						            <titleInfo lang="fre">
 							              <title>LITTÉRATEURS SYMPHONISTES</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/48268805">
 							              <displayForm>Ricciotto Canudo</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1055,12 +1063,14 @@
 							              <titleInfo lang="fre">
 								                <title>Théâtres et Concerts</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/24603781">
 								                <displayForm>Louis Laloy</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1127,12 +1137,14 @@
 							              <titleInfo lang="fre">
 								                <title>QUATUOR LUQIN</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/24603781">
 								                <displayForm>Louis Laloy</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1160,12 +1172,12 @@
 							              <titleInfo lang="fre">
 								                <title>CONCERTS LAMOUREUX</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>Albert Trotrot</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1193,12 +1205,14 @@
 							              <titleInfo lang="fre">
 								                <title>CONCERT LEJEUNE</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/76318077">
 								                <displayForm>L. de la Laurencie</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1226,12 +1240,14 @@
 							              <titleInfo lang="fre">
 								                <title>SCHOLA CANTORUM.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/59832542">
 								                <displayForm>Henry Prunières</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1259,12 +1275,14 @@
 							              <titleInfo lang="fre">
 								                <title>ÉCOLE DES HAUTES ÉTUDES SOCIALES</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/59832542">
 								                <displayForm>H. Prunières</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1280,12 +1298,14 @@
 							              <titleInfo lang="fre">
 								                <title>CONCERTS D'AVANT-GARDE.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/101004768">
 								                <displayForm>Margeon</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1313,12 +1333,14 @@
 							              <titleInfo lang="fre">
 								                <title>L'HISTOIRE DU QUATUOR A CORDES..</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/76318077">
 								                <displayForm>L L L</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1400,12 +1422,14 @@
 							              <titleInfo lang="fre">
 								                <title>MANECANTERIE DES PETITS CHANTEURS A LA CROIX DE BOIS</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/29626758">
 								                <displayForm>J. E</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1433,12 +1457,12 @@
 							              <titleInfo lang="fre">
 								                <title>BUDAPEST.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>S. Féori</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1493,12 +1517,12 @@
 							              <titleInfo lang="fre">
 								                <title>QUATUOR PARENT</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>Albert Trotrot</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1526,12 +1550,12 @@
 							              <titleInfo lang="fre">
 								                <title>CONCERTS ENGEL-BATHORI.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>P. Guinle</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1559,12 +1583,14 @@
 							              <titleInfo lang="fre">
 								                <title>FONDATION BACH.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/24603781">
 								                <displayForm>L. L</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1592,12 +1618,14 @@
 							              <titleInfo lang="fre">
 								                <title>SOCIÉTÉ DE LA MUSIQUE NOUVELLE.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/217323194">
 								                <displayForm>F. G</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1625,12 +1653,14 @@
 							              <titleInfo lang="fre">
 								                <title>CONCERTS SECHIARI</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/217323194">
 								                <displayForm>F. G</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1658,12 +1688,14 @@
 							              <titleInfo lang="fre">
 								                <title>SALLE ÉRARD.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/217323194">
 								                <displayForm>F. G</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1691,12 +1723,14 @@
 							              <titleInfo lang="fre">
 								                <title>SCHOLA CANTORUM</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/29626758">
 								                <displayForm>J. E</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1752,12 +1786,14 @@
 							              <titleInfo lang="fre">
 								                <title>ODÊON.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/29626758">
 								                <displayForm>J. E</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1839,12 +1875,12 @@
 							              <titleInfo lang="fre">
 								                <title>Concert Isaye.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>P. E. Gouge</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1899,12 +1935,14 @@
 							              <titleInfo lang="fre">
 								                <title>Grétry, par Henri de CURZON. Paris, Laurens, s. d., in-8</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/44405963">
 								                <displayForm>Michel Brenet</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1986,12 +2024,14 @@
 							              <titleInfo lang="fre">
 								                <title>JULES ECORCHEVILLE.  Actes d'Etat civil de Musiciens</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/76318077">
 								                <displayForm>Lionel de la Laurencie</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -2019,12 +2059,14 @@
 							              <titleInfo lang="fre">
 								                <title>J.-C. PROD'HOMME.  Paganini.Paris, H. Laurens, 1907,</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/76318077">
 								                <displayForm>Lionel de la Laurencie</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -2106,12 +2148,12 @@
 							              <titleInfo lang="fre">
 								                <title>K. ÂNDORFER et R. EPSTEIN. - Musica in nummis. (Wien</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>J. È</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -2220,12 +2262,14 @@
 							              <titleInfo lang="fre">
 								                <title>CORRESPONDANCE</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/64192115">
 								                <displayForm>Vincent d'Indy</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>

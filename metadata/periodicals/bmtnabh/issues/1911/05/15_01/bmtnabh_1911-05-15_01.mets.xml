@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnabh_1911-05-15_01">
 	  <metsHdr>
@@ -99,12 +99,14 @@
 						            <titleInfo lang="fre">
 							              <title>LULLY GENTILHOMME ET SA DESCENDANCE</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/29626758">
 							              <displayForm>J. Ecorcheville</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -217,12 +219,14 @@
 							              <nonSort>LA</nonSort>
 							              <title>MUSIQUE ET LE GESTE</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/141978">
 							              <displayForm>Elie Poirée</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -410,12 +414,14 @@
 							              <nonSort>LES</nonSort>
 							              <title>LIVRES</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/99103827">
 							              <displayForm>Gustave Robert</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -517,12 +523,14 @@
 								                <nonSort>Les</nonSort>
 								                <title>Théatres</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/14778128">
 								                <displayForm>Emile Vuillermoz</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -550,12 +558,14 @@
 							              <titleInfo lang="fre">
 								                <title>Concerts</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/217323194">
 								                <displayForm>F. Guérillot</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -586,12 +596,14 @@
 							              <titleInfo lang="fre">
 								                <title>Belgique</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/32131945">
 								                <displayForm>Dwelshauwers</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -622,12 +634,14 @@
 							              <titleInfo lang="fre">
 								                <title>Extrême Orient</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/240852692">
 								                <displayForm>J. R</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -656,12 +670,12 @@
 						            <titleInfo lang="fre">
 							              <title>L'Édition Musicale</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>V. P</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -730,18 +744,22 @@
 							              <nonSort>Les</nonSort>
 							              <title>Musiciens Belges</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/66313365">
 							              <displayForm>VICTOR VREULS</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
-						            <name type="personal">
+						            </mods:name>
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/2548079">
 							              <displayForm>René Lyr</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -818,12 +836,12 @@
 							              <nonSort>Les</nonSort>
 							              <title>conservatoires de province</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>Im. Mayan</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -851,12 +869,14 @@
 						            <titleInfo lang="fre">
 							              <title>Leurs Mains</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/29526692">
 							              <displayForm>Pierre Jobbé Duval</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>

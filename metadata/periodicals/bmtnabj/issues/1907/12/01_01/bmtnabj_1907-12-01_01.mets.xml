@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnabj_1907-12-01_01">
 	  <metsHdr>
@@ -167,12 +167,12 @@
 							              <titleInfo lang="fre">
 								                <title>«LA FAUTE DE L'ABBÉ MOURET», D'ALFRED BRUNEAU.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>J. G</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -188,12 +188,12 @@
 							              <titleInfo lang="fre">
 								                <title>«LE LAC DES AULNES», BALLET DE M. MARÉCHAL, A L'OPÉRA.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>S</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -210,12 +210,12 @@
 								                <nonSort>LES</nonSort>
 								                <title>QUATUORS BEETHOVEN AU CONSERVATOIRE.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>E. SABATHIER</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -231,12 +231,14 @@
 							              <titleInfo lang="fre">
 								                <title>«LA FÊTE DU CHATEAU.»</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/39484836">
 								                <displayForm>C</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -267,12 +269,12 @@
 							              <titleInfo lang="fre">
 								                <title>Brest, 14 novembre 1907.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>PARC</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -288,12 +290,12 @@
 							              <titleInfo lang="fre">
 								                <title>Voici la note jointe à la lettre de notre correspondant :</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>X</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -309,12 +311,12 @@
 							              <titleInfo lang="fre">
 								                <title>A MONSIEUR LE DIRECTEUR DE LA Revue musicale.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>A. G</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -330,12 +332,12 @@
 							              <titleInfo lang="fre">
 								                <title>Toul, 16 novembre 1907.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>B</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -352,12 +354,14 @@
 						            <titleInfo lang="fre">
 							              <title>Nuances d'intonation</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/306287730">
 							              <displayForm>J. DADOR</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>

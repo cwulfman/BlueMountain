@@ -64,12 +64,12 @@
 							              <nonSort>La</nonSort>
 							              <title>Ronde va se fermer </title>
 						            </titleInfo>
-					          	<name type="personal" authority="viaf" valueURI="http://viaf.org/viaf/74652946">
-					          		<displayForm>Z. Léwitzka</displayForm>
-					          		<role>
-					          			<roleTerm type="code" authority="marcrelator">cre</roleTerm>
-					          		</role>
-					          	</name>
+					          	  <mods:name type="personal" authority="viaf" valueURI="">
+					          		    <displayForm>Z. Léwitzka</displayForm>
+					          		    <role>
+					          			      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+					          		    </role>
+					          	  </mods:name>
 						            <typeOfResource>still image</typeOfResource>
 						            <part>
 							              <extent unit="page">
@@ -82,15 +82,15 @@
 						            <titleInfo lang="fre">
 							              <title>petits faits &amp; association d'idées plutôt tristes</title>
 						            </titleInfo>
-					          	<titleInfo lang="fre">
-					          		<title>Vaguement Philosophiques</title>
-					          	</titleInfo>
-					          	<name type="personal" authority="viaf" valueURI="http://viaf.org/viaf/44307485">
+					          	  <titleInfo lang="fre">
+					          		    <title>Vaguement Philosophiques</title>
+					          	  </titleInfo>
+					          	  <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>Amédée Ozenfant</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -110,12 +110,12 @@
 						            <titleInfo lang="fre">
 							              <title>nos femmes pendant la guerre (I)</title>
 						            </titleInfo>
-					          	<name type="personal" authority="viaf" valueURI="http://viaf.org/viaf/44307485">
-					          		<displayForm>Amédée Ozenfant</displayForm>
-					          		<role>
-					          			<roleTerm type="code" authority="marcrelator">cre</roleTerm>
-					          		</role>
-					          	</name>
+					          	  <mods:name type="personal" authority="viaf" valueURI="">
+					          		    <displayForm>Amédée Ozenfant</displayForm>
+					          		    <role>
+					          			      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+					          		    </role>
+					          	  </mods:name>
 						            <typeOfResource>still image</typeOfResource>
 						            <part>
 							              <extent unit="page">
@@ -128,13 +128,14 @@
 						            <titleInfo lang="fre">
 							              <title>Allemagne, Nocturne Allemagne!</title>
 						            </titleInfo>
-					          	<name type="personal" authority="viaf"
-					          		valueURI="http://viaf.org/viaf/171319">
+					          	  <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/171319">
 							              <displayForm>Lucien Mainssieux</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -147,75 +148,77 @@
 						            <genre type="CCS">TextContent</genre>
 					          </relatedItem>
 					          <relatedItem type="constituent" ID="c005">
-						    <titleInfo lang="fre">
-						      <title>Dessin de A.-D. de Segonzac, Sergent</title>
-						    </titleInfo>
-					            <name type="personal" authority="viaf"
-					          	  valueURI="http://viaf.org/viaf/59081879">
-					              <displayForm>A.-D. DE SEGONZAC</displayForm>
-					              <role>
-					          	<roleTerm type="code" authority="marcrelator">cre</roleTerm>
-					              </role>
-					            </name>
-						    <typeOfResource>still image</typeOfResource>
-						    <part>
-						      <extent unit="page">
-							<start>5</start>
-						      </extent>
-						    </part>
-						    <genre type="CCS">Illustration</genre>
-						  </relatedItem>
+						            <titleInfo lang="fre">
+						               <title>Dessin de A.-D. de Segonzac, Sergent</title>
+						            </titleInfo>
+					            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/59081879">
+					                <displayForm>A.-D. DE SEGONZAC</displayForm>
+					                <role>
+					          	        <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+					                </role>
+					            </mods:name>
+						            <typeOfResource>still image</typeOfResource>
+						            <part>
+						               <extent unit="page">
+							                 <start>5</start>
+						               </extent>
+						            </part>
+						            <genre type="CCS">Illustration</genre>
+						         </relatedItem>
 					          <relatedItem type="constituent" ID="c006">
 						            <titleInfo lang="fre">
 							              <title>Lettre d'un blessé à une américaine</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>P. C. C.</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
 						            </language>
 						            <part>
 							              <extent unit="page">
-							              	<start>6</start>
-							              	<end>7</end>
+							              	  <start>6</start>
+							              	  <end>7</end>
 							              </extent>
 						            </part>
 						            <genre type="CCS">TextContent</genre>
 						            <relatedItem type="constituent" ID="c007">
-							      <titleInfo lang="fre">
-								<mods:title>Untitled Image</mods:title>
-							      </titleInfo>
-							      <typeOfResource>still image</typeOfResource>
-							      <part>
-								<extent unit="page">
-								  <start>6</start>
-								</extent>
-							      </part>
-							      <genre type="CCS">Illustration</genre>
+							              <titleInfo lang="fre">
+								                <mods:title>Untitled Image</mods:title>
+							              </titleInfo>
+							              <typeOfResource>still image</typeOfResource>
+							              <part>
+								                <extent unit="page">
+								                   <start>6</start>
+								                </extent>
+							              </part>
+							              <genre type="CCS">Illustration</genre>
 						            </relatedItem>
 						            <relatedItem type="constituent" ID="c008">
 						              <titleInfo lang="fre">
-						            	<title>dessin de Maximilien Volchine</title>
+						            	     <title>dessin de Maximilien Volchine</title>
 						              </titleInfo>
-						              <name type="personal" authority="viaf"
-						            	    valueURI="http://viaf.org/viaf/51697196">
-						            	<displayForm>Maximilien Volochine</displayForm>
-						            	<role>
-						            	  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
-						            	</role>
-						              </name>
-							      <typeOfResource>still image</typeOfResource>
-							      <part>
-								<extent unit="page">
-								  <start>7</start>
-								</extent>
-							      </part>
-							      <genre type="CCS">Illustration</genre>
+						              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/51697196">
+						            	     <displayForm>Maximilien Volochine</displayForm>
+						            	     <role>
+						            	        <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+						            	     </role>
+						              </mods:name>
+							              <typeOfResource>still image</typeOfResource>
+							              <part>
+								                <extent unit="page">
+								                   <start>7</start>
+								                </extent>
+							              </part>
+							              <genre type="CCS">Illustration</genre>
 						            </relatedItem>
 					          </relatedItem>
 					          <relatedItem type="constituent" ID="c009">
@@ -223,12 +226,14 @@
 							              <nonSort>un</nonSort>
 							              <title>Bois de L'Argonne</title>
 						            </titleInfo>
-					          	<name type="personal" authority="viaf" valueURI="http://viaf.org/viaf/44307485">
-					          		<displayForm>A. Ozenfant</displayForm>
-					          		<role>
-					          			<roleTerm type="code" authority="marcrelator">cre</roleTerm>
-					          		</role>
-					          	</name>
+					          	  <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/44307485">
+					          		    <displayForm>A. Ozenfant</displayForm>
+					          		    <role>
+					          			      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+					          		    </role>
+					          	  </mods:name>
 						            <typeOfResource>still image</typeOfResource>
 						            <part>
 							              <extent unit="page">
@@ -241,12 +246,12 @@
 						            <titleInfo lang="fre">
 							              <title>Là-Bas...</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>René-Adolphe Drancourt</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -263,12 +268,14 @@
 							              <nonSort>Le</nonSort>
 							              <title>Miracle des Fleurs</title>
 						            </titleInfo>
-					          	<name type="personal" authority="viaf" valueURI="http://viaf.org/viaf/50830277">
+					          	  <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/50830277">
 							              <displayForm>J. N. Faure-Biguet</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -285,12 +292,12 @@
 						            <titleInfo lang="fre">
 							              <title>L'invasion</title>
 						            </titleInfo>
-					          	<name type="personal" authority="viaf" valueURI="http://viaf.org/viaf/50830277">
-					          		<displayForm>Abadie</displayForm>
-					          		<role>
-					          			<roleTerm type="code" authority="marcrelator">cre</roleTerm>
-					          		</role>
-					          	</name>
+					          	  <mods:name type="personal" authority="viaf" valueURI="">
+					          		    <displayForm>Abadie</displayForm>
+					          		    <role>
+					          			      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+					          		    </role>
+					          	  </mods:name>
 						            <typeOfResource>still image</typeOfResource>
 						            <part>
 							              <extent unit="page">
@@ -303,12 +310,12 @@
 						            <titleInfo lang="fre">
 							              <title>à propos d'un discours</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>Amed Atrabile</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -353,12 +360,12 @@
 							              <nonSort>les</nonSort>
 							              <title>dames à la ford</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>Amed Atrabile</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -414,12 +421,12 @@
 						            <titleInfo lang="fre">
 							              <caption>Sùr que c'est le mieux informé, regardez-moi tous ces blancs!</caption>
 						            </titleInfo>
-					          	<name type="personal">
-					          		<displayForm>Chazalviel</displayForm>
-					          		<role>
-					          			<roleTerm type="code" authority="marcrelator">cre</roleTerm>
-					          		</role>
-					          	</name>
+					          	  <mods:name type="personal" authority="viaf" valueURI="">
+					          		    <displayForm>Chazalviel</displayForm>
+					          		    <role>
+					          			      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+					          		    </role>
+					          	  </mods:name>
 						            <typeOfResource>still image</typeOfResource>
 						            <part>
 							              <extent unit="page">
@@ -432,12 +439,12 @@
 						            <titleInfo lang="fre">
 							              <title>à nos lecteurs</title>
 						            </titleInfo>
-						            <name type="corp">
+						            <mods:name type="corp" authority="viaf" valueURI="">
 							              <displayForm>La Direction</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -453,12 +460,12 @@
 						            <titleInfo lang="fre">
 							              <title>POUSSIÈRES</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>Jupapards</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>

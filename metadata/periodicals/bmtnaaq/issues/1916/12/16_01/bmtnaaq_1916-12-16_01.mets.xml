@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnaaq_1916-12-16_01">
 	  <metsHdr>
@@ -115,12 +115,12 @@
 						            <titleInfo lang="eng">
 							              <title>Two Hitherto Unpublished Letters by Oscar Wilde</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>OSCAR</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -136,12 +136,12 @@
 						            <titleInfo lang="eng">
 							              <title>16 Tite Street, Chelsea, S. W.</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>OSCAR WILDE</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -158,12 +158,14 @@
 							              <nonSort>The</nonSort>
 							              <title>Return</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/17095985">
 							              <displayForm>E. C. Beckwith</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -180,12 +182,14 @@
 							              <nonSort>The</nonSort>
 							              <title>Fortune-maker.</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/75570585">
 							              <displayForm>James Waldo Fawcet</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -201,12 +205,14 @@
 						            <titleInfo lang="eng">
 							              <title>Whatever you love and trust in this world loves</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/120702927">
 							              <displayForm>Frank Harris</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -269,12 +275,12 @@
 							              <nonSort>The</nonSort>
 							              <title>Moon</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>Mildred Antisdale</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -321,12 +327,12 @@
 							              <nonSort>The</nonSort>
 							              <title>High Cost of Paper</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>J. M. HOLMES</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -343,12 +349,14 @@
 							              <nonSort>The</nonSort>
 							              <title>Fairy</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/58456073">
 							              <displayForm>Blanche Shoemaker Wagstaff</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -365,12 +373,12 @@
 							              <nonSort>A</nonSort>
 							              <title>Perfect Feminine</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>Peer Gynt</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -387,18 +395,22 @@
 							              <nonSort>The</nonSort>
 							              <title>Last Hour</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/9846192">
 							              <displayForm>Gustave Flaubert</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
-					          	<name type="personal">
-					          		<displayForm>Guido Bruno</displayForm>
-					          		<role>
-					          			<roleTerm type="code" authority="marcrelator">trl</roleTerm>
-					          		</role>
-					          	</name>
+						            </mods:name>
+					          	  <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/45093684">
+					          		    <displayForm>Guido Bruno</displayForm>
+					          		    <role>
+					          			      <roleTerm type="code" authority="marcrelator">trl</roleTerm>
+					          		    </role>
+					          	  </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>

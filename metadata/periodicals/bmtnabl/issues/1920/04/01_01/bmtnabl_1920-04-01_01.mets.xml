@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnabl_1920-04-01_01">
   <metsHdr>
@@ -82,12 +82,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>l'auto, la pratique des jalons et ces mots anglais qui sont</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/12313345">
 	                    <displayForm>Jean PAULHAN</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -103,12 +105,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>L'art n’est qu'une viande molle et froide, les cubistes se nourrissent</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/36923084">
 	                    <displayForm>Francis PICABIA</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -124,12 +128,12 @@
 	                 <titleInfo lang="fre">
 	                    <title>RIRA BIEN QUI RIRA LE DERNIER</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal" authority="viaf" valueURI="">
 	                    <displayForm>T. FRAENKEL</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -161,12 +165,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>Je comprends de moins en moins.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/8178518">
 	                    <displayForm>Louis ARAGON</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -182,12 +188,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>Parmi les cubistes, il y a les succubes et les incubes. L'erectin manque.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/96123513">
 	                    <displayForm>Georges RIBEMONT-DESSAIGNES</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -203,12 +211,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>Au milieu du mot ” poésie ”, un homme se gratte et ronchon</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/73848255">
 	                    <displayForm>ELUARD, Paul</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -224,12 +234,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>Distraction pourrait bien signifier destruction.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/59124789">
 	                    <displayForm>Isadora DUNCAN</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -275,12 +287,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>Les peintres sont beaux</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/34470693">
 	                    <displayForm>Paul DERMÉE</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -296,12 +310,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>Je ne sais pas, je sais lire.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/8178518">
 	                    <displayForm>Louis ARAGON</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -332,12 +348,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>DADA est une promenade</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/12306661">
 	                    <displayForm>Jean COCTEAU</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -383,12 +401,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>Je</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/27072443">
 	                    <displayForm>TZARA</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -404,12 +424,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>Tristan Tzara est un idiot vierge.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/36923084">
 	                    <displayForm>Francis PICABIA</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -425,12 +447,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>Et il n'ya jamais de faux Dada.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/73848255">
 	                    <displayForm>Paul ELUARD</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -446,12 +470,12 @@
 	                 <titleInfo lang="fre">
 	                    <title>« Pour aller au..’,'? .. ■— Prenez à gauchi1, tournez à droite, puis à</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal" authority="viaf" valueURI="">
 	                    <displayForm>Revue de BA-TA-CLAN</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -464,12 +488,14 @@
 	                 <genre type="CCS">TextContent</genre>
 	              </relatedItem>
 	              <relatedItem type="constituent" ID="c023">
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/12305305">
 	                    <displayForm>Jacques-Emile BLANCHE</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -485,12 +511,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>Monsieur Reverdy- vient de m’envoyer une Ici Ire urgente signée</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/36923084">
 	                    <displayForm>Francis PICABIA</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -506,12 +534,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>Quand va-t-on me décorer de, la Legion d Honneur ?</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/109453511">
 	                    <displayForm>Philippe SOUPAULT</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -527,12 +557,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>Bien tranquille, CHER AMI, bien tranquille.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/8178518">
 	                    <displayForm>Louis ARAGON</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -548,12 +580,12 @@
 	                 <titleInfo lang="fre">
 	                    <title>APRÈS NOUS LA BLENNORRAGIE.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal" authority="viaf" valueURI="">
 	                    <displayForm>V. SERNRER</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>

@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnaaq_1916-07-22_01">
 	  <metsHdr>
@@ -69,12 +69,14 @@
 						            <titleInfo lang="eng">
 							              <title>Dum nos fata sinunt, oculos satiemus Amore</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/29527929">
 							              <displayForm>Ernest Dowson</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -90,12 +92,14 @@
 						            <titleInfo lang="eng">
 							              <title>German Princes in Rank and File</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/45093684">
 							              <displayForm>Guido Bruno</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -126,12 +130,14 @@
 						            <titleInfo lang="eng">
 							              <title>People Who Lived in Our Village</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/45093684">
 							              <displayForm>G. B</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -183,18 +189,22 @@
 						            <titleInfo lang="eng">
 							              <title>Advice for Young Authors</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/17218730">
 							              <displayForm>Charles Beaudelaire</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
-					          	<name type="personal">
-					          		<displayForm>Guido Bruno</displayForm>
-					          		<role>
-					          			<roleTerm type="code" authority="marcrelator">trl</roleTerm>
-					          		</role>
-					          	</name>
+						            </mods:name>
+					          	  <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/45093684">
+					          		    <displayForm>Guido Bruno</displayForm>
+					          		    <role>
+					          			      <roleTerm type="code" authority="marcrelator">trl</roleTerm>
+					          		    </role>
+					          	  </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -210,12 +220,12 @@
 						            <titleInfo lang="eng">
 							              <title>Original thoughts are as unusual as a satisfactory plumber.</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>Tom Sleeper</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -243,12 +253,14 @@
 						            <titleInfo lang="eng">
 							              <title>Poems and Other Things</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/75570585">
 							              <displayForm>James Waldo Fawcett</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -353,12 +365,14 @@
 						            <titleInfo lang="eng">
 							              <title>Chicago Letter</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/75221657">
 							              <displayForm>John Stapleton Cowley Brown</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -374,12 +388,14 @@
 						            <titleInfo lang="eng">
 							              <title>In the Landes</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/1393709">
 							              <displayForm>Hubert Crackanthorpe</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -410,12 +426,14 @@
 						            <titleInfo lang="eng">
 							              <title>What is in human nature that makes</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/1252649">
 							              <displayForm>Michael Monahan</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -532,12 +550,14 @@
 							              <nonSort>A</nonSort>
 							              <title>word to our own followers of all sorts of "Isms"</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/45093684">
 							              <displayForm>Guido Bruno</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -591,12 +611,14 @@
 							              <titleInfo lang="eng">
 								                <title>Oscar Wilde's "Reading Gaol"</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/34464414">
 								                <displayForm>Oscar Wilde</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -670,12 +692,12 @@
 							              <titleInfo lang="eng">
 								                <title>IVe thank you for the compliment and njue only wish it were</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>Jack Carney</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -721,12 +743,12 @@
 							              <titleInfo lang="eng">
 								                <title>I have known him for more than a year; and because I like</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>P.C. C</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -742,12 +764,12 @@
 							              <titleInfo lang="eng">
 								                <title>Pillars of a Temple Beautiful,</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>W.J. Lampton</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -775,12 +797,12 @@
 							              <titleInfo lang="eng">
 								                <title>Bruno:— Poets are not polite propositions, are they?</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>Lampton</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -796,12 +818,12 @@
 							              <titleInfo lang="eng">
 								                <title>Let This Cup Pass Too, Oh Lord!</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>Richard le Galienne</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -818,12 +840,14 @@
 						            <titleInfo lang="eng">
 							              <title>Jean</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/64065079">
 							              <displayForm>Orrick Johns</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -851,12 +875,14 @@
 						            <titleInfo lang="eng">
 							              <title>Fortieth Anniversary of The Custer Fight</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/1493923">
 							              <displayForm>Frank Fiske</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">eng</languageTerm>

@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnabj_1909-11-01_01">
 	  <metsHdr>
@@ -100,12 +100,14 @@
 							              <nonSort>La</nonSort>
 							              <title>succession de M. Bourgault-Ducoudray.</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/39484836">
 							              <displayForm>J. C</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -205,12 +207,12 @@
 							              <titleInfo lang="fre">
 								                <title>CONCERTS DU CHATELET.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>H</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -226,12 +228,12 @@
 							              <titleInfo lang="fre">
 								                <title>ASSOCIATION DES CONCERTS LAMOUREUX (CONCERTS CHEVILLARD, A LA SALLE GAVEAU).</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>L. H</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -262,12 +264,12 @@
 							              <titleInfo lang="fre">
 								                <title>A. LUZZATTI : 4 PIÈCES POUR PIANO : I. SCHERZANDO. — II. IMPROMPTU. — III. NOCTURNE. — IV. ROMANCE (CHEZ DEMETS).</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>L. H</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -283,12 +285,12 @@
 							              <titleInfo lang="fre">
 								                <title>PAUL LADMIRAULT : 4 ESQUISSES POUR PIANO : I. CHEMIN CREUX. II. VALSE MÉLANCOLIQUE. — III. VERS L'ÉGLISE DANS LE SOIR. — IV. MINUIT DANS LES CLAIRIÈRES (DESMETS, ÉDITEUR).</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>E. D</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -304,12 +306,12 @@
 							              <titleInfo lang="fre">
 								                <title>JOAQUIN TURINA : SUITE PITTORESQUE POUR PIANO : I. Sous LES ORANGERS. — II. LE JEUDI SAINT A MINUIT (DÉFILÉ D'UNE Cofrada DANS UNE PETITE RUELLE). — III. LA FERIA.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>E. D</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -325,12 +327,12 @@
 							              <titleInfo lang="fre">
 								                <title>RAYMOND HERVÉ : I. Au LARGE. — II. LES FONTAINES. — III. LES JARDINS. — IV. MARINE ; PIÈCES POUR PIANO ET CHANT (POÉSIES DE L. EVEN). VOIX MOYENNES (DEMETS, ÉDITEUR),</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>B. A</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -346,12 +348,12 @@
 							              <titleInfo lang="fre">
 								                <title>RENÉ CHANSAREL : I. CARESSE. — II. DÉDICACE. — III. PASTEL (POÈME DE GUSTAVE SOULIER), POUR TOUTES VOIX (CHEZ DEMETS).</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>S</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -367,12 +369,12 @@
 							              <titleInfo lang="fre">
 								                <title>Résignation, PAR ALEXANDRE BRODY (CHEZ FROMONT).</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>T</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -424,12 +426,12 @@
 							              <titleInfo lang="fre">
 								                <title>REYER (COLLECTION DES MUSICIENS CÉLÈBRES, CHEZ H. LAURENS), PAR ADOLPHE JULIEN.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>G. B</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -446,12 +448,14 @@
 								                <nonSort>LE</nonSort>
 								                <title>CHANT CHORAL, Préface pour les maîtres</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/39484836">
 								                <displayForm>J. C</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -479,12 +483,12 @@
 							              <titleInfo lang="fre">
 								                <title>L'ENQUÊTE DE M. AD. ADERER.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>G</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -531,12 +535,14 @@
 							              <titleInfo lang="fre">
 								                <title>— En 1830, dans</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/39484836">
 								                <displayForm>J. C</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>

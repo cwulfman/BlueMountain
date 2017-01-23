@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnaac_1926-07_01">
    <metsHdr>
@@ -92,12 +92,12 @@
 	                    <titleInfo lang="fre">
 	                       <title>SA RAISON D'ETRE. SON PROGRAMME.</title>
 	                    </titleInfo>
-	                    <name type="personal">
+	                    <mods:name type="personal" authority="viaf" valueURI="">
 	                       <displayForm>LA DIRECTION</displayForm>
 	                       <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                       </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 	                       <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -136,12 +136,12 @@
 	                       <nonSort>UNE</nonSort>
 	                       <title>INTERVIEW DE M. J. DE PRAETERE</title>
 	                    </titleInfo>
-	                    <name type="personal">
+	                    <mods:name type="personal" authority="viaf" valueURI="">
 	                       <displayForm>A. D</displayForm>
 	                       <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                       </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 	                       <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -172,12 +172,12 @@
 	                    <titleInfo lang="fre">
 	                       <title>AVIS IMPORTANT</title>
 	                    </titleInfo>
-	                    <name type="corporate">
+	                    <mods:name type="corporate" authority="viaf" valueURI="">
 	                       <displayForm>ADMINISTRATION DE « LA CITE »</displayForm>
 	                       <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                       </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 	                       <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -258,12 +258,12 @@
 	                 <titleInfo lang="fre">
 	                    <title>DANS LES REGIONS DEVASTEES</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal" authority="viaf" valueURI="">
 	                    <displayForm>L. C</displayForm>
 	                    <role>
 	                       <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -291,12 +291,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>RESTAURATION D'IMMEUBLES ENDOMMAGES</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/18372318">
 	                    <displayForm>Huib HOSTE</displayForm>
 	                    <role>
 	                       <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -363,12 +365,12 @@
 	                 <titleInfo lang="fre">
 	                    <title>INDUSTRIALISME &amp; URBANISME</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal" authority="viaf" valueURI="">
 	                    <displayForm>Pierre BOURDEIX</displayForm>
 	                    <role>
 	                       <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>

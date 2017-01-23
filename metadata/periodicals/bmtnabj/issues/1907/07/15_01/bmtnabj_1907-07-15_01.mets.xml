@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnabj_1907-07-15_01">
 	  <metsHdr>
@@ -86,12 +86,12 @@
 							              <titleInfo lang="fre">
 								                <title>I. – La musique de chambre au Conservatoire de Musique.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>S</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -122,12 +122,14 @@
 									                  <nonSort>La</nonSort>
 									                  <title>sonate en la b de Weber.</title>
 								                </titleInfo>
-								                <name type="personal">
+								                <mods:name type="personal"
+                                   authority="viaf"
+                                   valueURI="http://viaf.org/viaf/39484836">
 									                  <displayForm>J. C</displayForm>
 									                  <role>
 										                    <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 									                  </role>
-								                </name>
+								                </mods:name>
 								                <typeOfResource>text</typeOfResource>
 								                <language>
 									                  <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -203,12 +205,12 @@
 								                <titleInfo lang="fre">
 									                  <title>Concours de chant.</title>
 								                </titleInfo>
-								                <name type="personal">
+								                <mods:name type="personal" authority="viaf" valueURI="">
 									                  <displayForm>T</displayForm>
 									                  <role>
 										                    <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 									                  </role>
-								                </name>
+								                </mods:name>
 								                <typeOfResource>text</typeOfResource>
 								                <language>
 									                  <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -224,12 +226,14 @@
 								                <titleInfo lang="fre">
 									                  <title>HARPE CHROMATIQUE.</title>
 								                </titleInfo>
-								                <name type="personal">
+								                <mods:name type="personal"
+                                   authority="viaf"
+                                   valueURI="http://viaf.org/viaf/39484836">
 									                  <displayForm>J. C</displayForm>
 									                  <role>
 										                    <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 									                  </role>
-								                </name>
+								                </mods:name>
 								                <typeOfResource>text</typeOfResource>
 								                <language>
 									                  <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -245,12 +249,12 @@
 								                <titleInfo lang="fre">
 									                  <title>HARPE A PÉDALES ; M. GABRIEL FAURÉ.</title>
 								                </titleInfo>
-								                <name type="personal">
+								                <mods:name type="personal" authority="viaf" valueURI="">
 									                  <displayForm>T</displayForm>
 									                  <role>
 										                    <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 									                  </role>
-								                </name>
+								                </mods:name>
 								                <typeOfResource>text</typeOfResource>
 								                <language>
 									                  <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -311,12 +315,12 @@
 								                <titleInfo lang="fre">
 									                  <title>VIOLON.</title>
 								                </titleInfo>
-								                <name type="personal">
+								                <mods:name type="personal" authority="viaf" valueURI="">
 									                  <displayForm>P. AUBRY</displayForm>
 									                  <role>
 										                    <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 									                  </role>
-								                </name>
+								                </mods:name>
 								                <typeOfResource>text</typeOfResource>
 								                <language>
 									                  <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -378,12 +382,12 @@
 							              <titleInfo lang="fre">
 								                <title>Tous les critiques et musicographes qui ont écrit sur Richard Wagner ont</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>S</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -414,12 +418,12 @@
 							              <titleInfo lang="fre">
 								                <title>Nous recevons la lettre suivante :</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>Théodore REINACH</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -459,12 +463,14 @@
 							              <titleInfo lang="fre">
 								                <title>i° En disant, d'après « un de ses proches », que M. Th. Reinach, au moment où</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/39484836">
 								                <displayForm>J. C</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -504,12 +510,12 @@
 							              <titleInfo lang="fre">
 								                <title>J'ai reçu la très originale lettre suivante, que je reproduis in extenso:</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>Alexis CLÉMENT</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -525,12 +531,14 @@
 							              <titleInfo lang="fre">
 								                <title>« Tout cela se retrouve au fond d'un verre d'absinthe. » Voilà les paroles</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/39484836">
 								                <displayForm>J. C</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -547,12 +555,12 @@
 						            <titleInfo lang="fre">
 							              <title>L'orchestre de l' « Orfeo ».</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>Henri QUITTARD</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -616,12 +624,14 @@
 						            <titleInfo lang="fre">
 							              <title>Musique du moyen âge L'OEUVRE MÉLODIQUE DES TROUBADOURS ET DES TROUVÈRES. EXAMEN CRITIQUE DU SYSTÈME DE M. HUGO RIEMANN</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/24735614">
 							              <displayForm>PIERRE AUBRY</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>

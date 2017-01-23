@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnabd_1861-01-01_01">
 	  <metsHdr>
@@ -102,12 +102,12 @@
 						            <titleInfo lang="cze">
 							              <title>Napřed postav se Sláve! Shor slovenský od M. Jenko.</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>Přel. Karel P. Smrt</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">cze</languageTerm>
@@ -123,12 +123,12 @@
 						            <titleInfo lang="cze">
 							              <title>Druhý sbor český „Hlas z Blaníka" od H. Vojáčka</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>K. Vídeňský</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">cze</languageTerm>
@@ -144,12 +144,12 @@
 						            <titleInfo lang="cze">
 							              <title>Z Vídeňských listů dočetl jste se zajisté, jakých</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>J. Král</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">cze</languageTerm>
@@ -208,12 +208,12 @@
 								                <titleInfo lang="cze">
 									                  <title>Stavovské divadlo. (Opera.) Nový rok 1861 nastoupil</title>
 								                </titleInfo>
-								                <name type="personal">
+								                <mods:name type="personal" authority="viaf" valueURI="">
 									                  <displayForm>P</displayForm>
 									                  <role>
 										                    <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 									                  </role>
-								                </name>
+								                </mods:name>
 								                <typeOfResource>text</typeOfResource>
 								                <language>
 									                  <languageTerm authority="iso639-2b">cze</languageTerm>
@@ -245,12 +245,12 @@
 							              <titleInfo lang="cze">
 								                <title>Z Hradce Králové. (Koncert vojenské kapelly.)</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>A. M. K. E</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">cze</languageTerm>
@@ -281,12 +281,14 @@
 							              <titleInfo lang="cze">
 								                <title>Z Brna. 19. pros. (Třetí beseda.) Odbývali</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/309604403">
 								                <displayForm>Ed. Horný</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">cze</languageTerm>
@@ -331,12 +333,12 @@
 								                <titleInfo lang="cze">
 									                  <title>Michal Haydn a Mozart. Když se Mozart na návštěvě</title>
 								                </titleInfo>
-								                <name type="personal">
+								                <mods:name type="personal" authority="viaf" valueURI="">
 									                  <displayForm>V. G</displayForm>
 									                  <role>
 										                    <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 									                  </role>
-								                </name>
+								                </mods:name>
 								                <typeOfResource>text</typeOfResource>
 								                <language>
 									                  <languageTerm authority="iso639-2b">cze</languageTerm>
@@ -380,12 +382,12 @@
 							              <titleInfo lang="cze">
 								                <title>První rozluštitel v Praze a první mimo Prahy, kteří</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>Redakce</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">cze</languageTerm>

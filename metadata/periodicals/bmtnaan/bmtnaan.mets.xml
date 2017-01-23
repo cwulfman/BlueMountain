@@ -2,7 +2,7 @@
 <mets xmlns="http://www.loc.gov/METS/"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Periodical"
       OBJID="urn:PUL:bluemountain:bmtnaan">
 	  <metsHdr>
@@ -40,9 +40,11 @@
 						            <title>Volné směry</title>
 						            <subTitle>umělecký měsíčník</subTitle>
 					          </titleInfo>
-					          <name type="corporate">
+					          <mods:name xmlns:local="http://diglib.princeton.edu"
+                          xmlns:mods="http://www.loc.gov/mods/v3"
+                          type="corporate">
 	                 <namePart>Spolek výtvarných umělců Mánes</namePart>
-	              </name>
+	              </mods:name>
 					          <typeOfResource>text</typeOfResource>
 					          <genre authority="bmtn">Periodicals-Title</genre>
 					          <genre authority="marcgt">periodical</genre>
@@ -83,10 +85,12 @@
 						            <geographicCode authority="marcgac">e-cs---</geographicCode>
 					          </subject>
 					          <subject authority="lcsh">
-						            <name type="personal">
+						            <mods:name xmlns:local="http://diglib.princeton.edu"
+                             xmlns:mods="http://www.loc.gov/mods/v3"
+                             type="personal">
                      <namePart>Masaryk, T. G. (Tomáš Garrigue)</namePart>
                      <namePart type="date">1850-1937</namePart>
-	                 </name>
+	                 </mods:name>
 						            <titleInfo>
 							              <title/>
 						            </titleInfo>

@@ -64,12 +64,12 @@
 							              <nonSort>LE</nonSort>
 							              <title>QUADRILLE (1ère figuie) dessin de Z, LÉWITZKA</title>
 						            </titleInfo>
-					          	<name type="personal" >
-					          		<displayForm>Z. Lewitzka</displayForm>
-					          		<role>
-					          			<roleTerm type="code" authority="marcrelator">cre</roleTerm>
-					          		</role>
-					          	</name>
+					          	  <mods:name type="personal" authority="viaf" valueURI="">
+					          		    <displayForm>Z. Lewitzka</displayForm>
+					          		    <role>
+					          			      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+					          		    </role>
+					          	  </mods:name>
 						            <typeOfResource>still image</typeOfResource>
 						            <part>
 							              <extent unit="page">
@@ -84,13 +84,12 @@
 							              <title>CORNET A BOUQUIN</title>
 							              <subTitle>DE LA VERTU DE LA FRANCE.</subTitle>
 						            </titleInfo>
-						            <name type="personal" authority="viaf"
-						            	valueURI="http://viaf.org/viaf/171319">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>LUCIEN MAINSSIEUX</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -106,13 +105,12 @@
 						            <titleInfo lang="fre">
 							              <title>N.B.</title>
 						            </titleInfo>
-					          	<name type="personal" authority="viaf"
-					          		valueURI="http://viaf.org/viaf/171319">
+					          	  <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>L.M.</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -128,13 +126,12 @@
 						            <titleInfo lang="fre">
 							              <title>Monsieur SAINT-SAENS en Représentation musicale</title>
 						            </titleInfo>
-					          	<name type="personal" authority="viaf"
-					          		valueURI="http://viaf.org/viaf/171319">
+					          	  <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>L. M</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -151,13 +148,14 @@
 							              <nonSort>LA</nonSort>
 							              <title>MARSEILLAISE</title>
 						            </titleInfo>
-						            <name type="personal" authority="viaf"
-						            	valueURI="http://viaf.org/viaf/171319">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/171319">
 							              <displayForm>L. MAINSSIEUX</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>still image</typeOfResource>
 						            <part>
 							              <extent unit="page">
@@ -171,20 +169,20 @@
 							              <nonSort>LES</nonSort>
 							              <title>ZEPPELINS SUR PARIS</title>
 						            </titleInfo>
-					          	<name type="personal" authority="viaf"
-					          		valueURI="http://viaf.org/viaf/24601914">
-					          		<displayForm>R. Ghil</displayForm>
-					          		<role>
-					          			<roleTerm type="code" authority="marcrelator">cre</roleTerm>
-					          		</role>
-					          	</name>
-					          	<name type="personal" authority="viaf"
-					          		valueURI="http://viaf.org/viaf/11506190">
-					          		<displayForm>A. de Holstein</displayForm>
-					          		<role>
-					          			<roleTerm type="code" authority="marcrelator">cre</roleTerm>
-					          		</role>
-					          	</name>
+					          	  <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/24601914">
+					          		    <displayForm>R. Ghil</displayForm>
+					          		    <role>
+					          			      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+					          		    </role>
+					          	  </mods:name>
+					          	  <mods:name type="personal" authority="viaf" valueURI="">
+					          		    <displayForm>A. de Holstein</displayForm>
+					          		    <role>
+					          			      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+					          		    </role>
+					          	  </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -197,12 +195,12 @@
 						            <genre type="CCS">TextContent</genre>
 					          </relatedItem>
 					          <relatedItem type="constituent" ID="c007">
-						            <name type="corporate">
+						            <mods:name type="corporate" authority="viaf" valueURI="">
 							              <displayForm>N. D. L. R</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -218,13 +216,14 @@
 						            <titleInfo lang="fre">
 							              <title>Poem by Maximilien Volovhine</title>
 						            </titleInfo>
-						            <name type="personal" authority="viaf"
-						            	valueURI="http://viaf.org/viaf/51697196">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/51697196">
 							              <displayForm>Maximilien Volovhine</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -242,18 +241,18 @@
 							              <title>HEUREUX RÉSULTAT DU BLOCUS</title>
 							              <subTitle>L'ALLEMAGNE A BOUT DE TOUT</subTitle>
 						            </titleInfo>
-						            <name type="corporate">
+						            <mods:name type="corporate" authority="viaf" valueURI="">
 							              <displayForm>N. L. D. R</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
-						            <name type="personal">
+						            </mods:name>
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>AMED</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -270,13 +269,12 @@
 							              <nonSort>Les</nonSort>
 							              <title>ZEPPELINS sur PARIS</title>
 						            </titleInfo>
-					          	<name type="personal" authority="viaf"
-					          		valueURI="http://viaf.org/viaf/51697196">
+					          	  <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>MAXIMILIEN VOLOCHINE</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>still image</typeOfResource>
 						            <part>
 							              <extent unit="page">
@@ -289,13 +287,12 @@
 						            <titleInfo lang="fre">
 							              <title>de Gabriele d'ANNUNZIO a Théodore BOTREL</title>
 						            </titleInfo>
-						            <name type="personal" authority="viaf"
-						            	valueURI="http://viaf.org/viaf/44307485">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>A. O</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -323,13 +320,14 @@
 						            <titleInfo lang="fre">
 							              <title>ÉLÉGIE A LA TOUR EIFFEL</title>
 						            </titleInfo>
-						            <name type="personal" authority="viaf"
-						            	valueURI="http://viaf.org/viaf/50830277">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/50830277">
 							              <displayForm>J. N. Faure-Biguet</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -357,13 +355,14 @@
 						            <titleInfo lang="fre">
 							              <title>L'INTRUS ou LE PIGEON FRATRICIDE</title>
 						            </titleInfo>
-						            <name type="personal" authority="viaf"
-						            	valueURI="http://viaf.org/viaf/44307485">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/44307485">
 							              <displayForm>AMÉDÉE OZENFANT</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>still image</typeOfResource>
 						            <part>
 							              <extent unit="page">
@@ -387,12 +386,12 @@
 						            </part>
 						            <genre type="CCS">TextContent</genre>
 						            <relatedItem type="constituent" ID="c017">
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>RENÉ DRANCOURT</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -405,15 +404,17 @@
 							              <genre type="CCS">TextContent</genre>
 						            </relatedItem>
 						            <relatedItem type="constituent" ID="c018">
-						            	<titleInfo lang="fre">
-						            		<title>à la mémoire d ANDRÉ LAFON mort à l'hôpital de Bordeaux</title>
-						            	</titleInfo>
-							              <name type="personal">
+						            	  <titleInfo lang="fre">
+						            		    <title>à la mémoire d ANDRÉ LAFON mort à l'hôpital de Bordeaux</title>
+						            	  </titleInfo>
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/24622133">
 								                <displayForm>ANDRÉ LAFON</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -446,12 +447,12 @@
 							              <nonSort>LA</nonSort>
 							              <title>MACHINE A FOUETTER</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>MISIA</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -479,12 +480,14 @@
 						            <titleInfo lang="fre">
 							              <title>DANS LA TRANCHÉE</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/4146937707313831326">
 							              <displayForm>SOUCAT</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -501,12 +504,12 @@
 							              <nonSort>UNE</nonSort>
 							              <title>ENQUÊTE</title>
 						            </titleInfo>
-						            <name type="corporate">
+						            <mods:name type="corporate" authority="viaf" valueURI="">
 							              <displayForm>N. D. L. R</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -547,13 +550,14 @@
 							              <nonSort>LE</nonSort>
 							              <title>NETTOYAGE D'ALCIBIADE FALEMPIN (R. A. T.)</title>
 						            </titleInfo>
-						            <name type="personal" authority="viaf"
-						            	valueURI="http://viaf.org/viaf/59081879">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/59081879">
 							              <displayForm>A.-D. DE SEGONZAC</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>still image</typeOfResource>
 						            <part>
 							              <extent unit="page">
@@ -566,13 +570,12 @@
 						            <titleInfo lang="fre">
 							              <title>Madame Léwitzka nous écrit :</title>
 						            </titleInfo>
-						            <name type="personal" authority="viaf"
-						            	valueURI="http://viaf.org/viaf/74652946">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>Z. LEWITZKA</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>

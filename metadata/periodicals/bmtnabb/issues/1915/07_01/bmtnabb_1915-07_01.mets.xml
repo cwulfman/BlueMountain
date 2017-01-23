@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnabb_1915-07_01">
 	  <metsHdr>
@@ -68,12 +68,14 @@
 						            <titleInfo lang="ger">
 							              <title>in Grauen faßt mich, Herr, vor deiner</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/93394987">
 							              <displayForm>Arno Nadel</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">ger</languageTerm>
@@ -101,12 +103,14 @@
 						            <titleInfo lang="ger">
 							              <title>as nützt dir nun dein schwarzer Samt?</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/93394987">
 							              <displayForm>Arno Nadel</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">ger</languageTerm>
@@ -134,12 +138,14 @@
 						            <titleInfo lang="ger">
 							              <title>Totengefpràch</title>
 						            </titleInfo>
-						            <name type="personal">
-						            	<displayForm>Alexander von Gleichen-Russwurm</displayForm>
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/12303259">
+						            	  <displayForm>Alexander von Gleichen-Russwurm</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">ger</languageTerm>
@@ -155,12 +161,14 @@
 						            <titleInfo lang="ger">
 							              <title>Totengefpràch</title>
 						            </titleInfo>
-						            <name type="personal">
-						            	<displayForm>Alexander von Gleichen-Russwurm</displayForm>
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/12303259">
+						            	  <displayForm>Alexander von Gleichen-Russwurm</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">ger</languageTerm>
@@ -176,12 +184,14 @@
 						            <titleInfo lang="ger">
 							              <title>un liegen ihre Leiber halb verscharry</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/59879428">
 							              <displayForm>Walter Rheiner</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">ger</languageTerm>
@@ -221,12 +231,14 @@
 						            <titleInfo lang="ger">
 							              <title>,,sursum corda!«</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/64055661">
 							              <displayForm>Johannes Schlaf</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">ger</languageTerm>
@@ -266,12 +278,14 @@
 						            <titleInfo lang="ger">
 							              <title>»Nachdem sie alles bei uns gelernt haben, wenden sie das Gelernte gegen</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/19674449">
 							              <displayForm>Franz Blei</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">ger</languageTerm>
@@ -287,12 +301,14 @@
 						            <titleInfo lang="ger">
 							              <title>unter Hengist und Horfa im Drachenschisssj i</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/93394987">
 							              <displayForm>Arno 5013</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">ger</languageTerm>

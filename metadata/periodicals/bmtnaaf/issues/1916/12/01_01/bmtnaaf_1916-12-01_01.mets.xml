@@ -88,13 +88,12 @@
 							              <titleInfo lang="fre">
 								                <title>C. MAX-JACOB</title>
 							              </titleInfo>
-							              <name type="personal" authority="viaf"
-							              	valueURI="http://viaf.org/viaf/15873">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>picasso</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>still image</typeOfResource>
 							              <part>
 								                <extent unit="page">
@@ -338,12 +337,12 @@
 							              <title>L'ÉLAN</title>
 							              <subTitle>N° 10.</subTitle>
 						            </titleInfo>
-						            <name type="corporate">
+						            <mods:name type="corporate" authority="viaf" valueURI="">
 							              <displayForm>N. D. L D</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -373,8 +372,11 @@
 							              <titleInfo lang="fre">
 								                <title>DESSIN DE SÊVÉRINI</title>
 							              </titleInfo>
-						            	<name type="personal" authority="viaf"
-						            		valueURI="http://viaf.org/viaf/54163042"><displayForm>Severini</displayForm></name>
+						            	  <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/54163042">
+                        <displayForm>Severini</displayForm>
+                     </mods:name>
 							              <typeOfResource>still image</typeOfResource>
 							              <part>
 								                <extent unit="page">
@@ -443,26 +445,28 @@
 						            <titleInfo lang="fre">
 							              <title>CORRESPONDANCE</title>
 						            </titleInfo>
-						            <name type="personal" authority="viaf"
-						            	valueURI="http://viaf.org/viaf/96973963">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/96973963">
 							              <displayForm>ANDRÉ GIDE</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
-						            <name type="personal">
+						            </mods:name>
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>RENÉ-JEAN</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
-						            <name type="personal" authority="viaf"
-						            	valueURI="http://viaf.org/viaf/64192115">
+						            </mods:name>
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/64192115">
 							              <displayForm>VINCENT D'INDY</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -479,13 +483,14 @@
 							              <title>SOLDAT</title>
 							              <subTitle>DE TOUS LES TEMPS EN CHROMO DE VILLAGE AU MUR</subTitle>
 						            </titleInfo>
-						            <name type="personal" authority="viaf"
-						            	valueURI="http://viaf.org/viaf/61551365">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/61551365">
 							              <displayForm>P. REVERDY</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -500,9 +505,11 @@
 							              <titleInfo lang="fre">
 								                <title>Dessin de LUC-ALBERT MOREAU</title>
 							              </titleInfo>
-						            	<name type="personal" authority="viaf"
-						            		valueURI="http://viaf.org/viaf/7407220"><displayForm>LUC-ALBERT MOREAU</displayForm>
-						            	</name>
+						            	  <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/7407220">
+                        <displayForm>LUC-ALBERT MOREAU</displayForm>
+						            	  </mods:name>
 							              <typeOfResource>still image</typeOfResource>
 							              <part>
 								                <extent unit="page">
@@ -515,10 +522,11 @@
 							              <titleInfo lang="fre">
 								                <title>Dessin de LUC-ALBERT MOREAU.</title>
 							              </titleInfo>
-						            	<name type="personal" authority="viaf"
-						            		valueURI="http://viaf.org/viaf/7407220">
-						            		<displayForm>LUC-ALBERT MOREAU</displayForm>
-						            	</name>
+						            	  <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/7407220">
+						            		    <displayForm>LUC-ALBERT MOREAU</displayForm>
+						            	  </mods:name>
 							              <typeOfResource>still image</typeOfResource>
 							              <part>
 								                <extent unit="page">
@@ -533,13 +541,14 @@
 							              <title>FÊTE</title>
 							              <subTitle>à André Houveyre.</subTitle>
 						            </titleInfo>
-						            <name type="personal" authority="viaf"
-						            	valueURI="http://viaf.org/viaf/66462795">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/66462795">
 							              <displayForm>GUILLAUME APOLLINAIRE</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -556,13 +565,14 @@
 							              <nonSort>LA</nonSort>
 							              <title>CONVALESCENCE</title>
 						            </titleInfo>
-						            <name type="personal" authority="viaf"
-						            	valueURI="http://viaf.org/viaf/73863132">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/73863132">
 							              <displayForm>ROGER ALLARD</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -577,13 +587,14 @@
 							              <titleInfo lang="fre">
 								                <title>CLICHÉ BERNHEIM-JEUNE</title>
 							              </titleInfo>
-							              <name type="personal" authority="viaf"
-							              	valueURI="http://viaf.org/viaf/42630086">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/42630086">
 								                <displayForm>HENRI MATISSE</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>still image</typeOfResource>
 							              <part>
 								                <extent unit="page">
@@ -597,13 +608,14 @@
 						            <titleInfo lang="fre">
 							              <title>Notes sur le cubisme</title>
 						            </titleInfo>
-						            <name type="personal" authority="viaf"
-						            	valueURI="http://viaf.org/viaf/44307485">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/44307485">
 							              <displayForm>AMÉDÉE OZENFANT</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>

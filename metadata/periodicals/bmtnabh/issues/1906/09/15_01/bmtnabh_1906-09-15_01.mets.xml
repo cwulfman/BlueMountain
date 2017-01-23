@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnabh_1906-09-15_01">
   <metsHdr>
@@ -124,18 +124,18 @@
 	                    <nonSort>Le</nonSort>
 	                    <title>Verger</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal" authority="viaf" valueURI="">
 	                    <displayForm>REMY DE GOURMONT</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
-	                 <name type="personal">
+	                 </mods:name>
+	                 <mods:name type="personal" authority="viaf" valueURI="">
 	                    <displayForm>Dessins de Georges d'Espagnat</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -298,12 +298,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>DEUXIÈME FRAGMENT</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/24735614">
 	                    <displayForm>Pierre Aubry</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -751,12 +753,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>GLUCK ET JEAN D'UDINE</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/267522678">
 	                    <displayForm>Henry Gauthier-Villars</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -787,12 +791,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>EN ALGÉRIE</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/46331622">
 	                    <displayForm>Jules Rouanet</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1048,12 +1054,12 @@
 	                 <titleInfo lang="fre">
 	                    <title>DU SNOBISME EN MUSIQUE ET DU ROLE DE LA CRITIQUE</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal" authority="viaf" valueURI="">
 	                    <displayForm>Philistin</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1108,12 +1114,14 @@
 		                      <nonSort>LA</nonSort>
 		                      <title>MUSIQUE A MUNICH</title>
 	                    </titleInfo>
-	                    <name type="personal">
+	                    <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/10615238">
 		                      <displayForm>Marcel Montandon</displayForm>
 		                      <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 		                      </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 		                      <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -1157,12 +1165,14 @@
 	                    <titleInfo lang="fre">
 		                      <title>COURRIER DE LYON</title>
 	                    </titleInfo>
-	                    <name type="personal">
+	                    <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/240852692">
 		                      <displayForm>Jacques Reboul</displayForm>
 		                      <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 		                      </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 		                      <languageTerm authority="iso639-2b">fre</languageTerm>

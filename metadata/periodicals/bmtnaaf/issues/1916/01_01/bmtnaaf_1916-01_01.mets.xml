@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnaaf_1916-01_01">
   <metsHdr>
@@ -104,12 +104,12 @@
 	                    <nonSort>le</nonSort>
 	                    <title>cosaque &amp; son cheval</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal" authority="viaf" valueURI="">
 	                    <displayForm>z. léwitzka</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>still image</typeOfResource>
 	                 <part>
 	                    <extent unit="page">
@@ -122,12 +122,12 @@
 	                 <titleInfo lang="fre">
 	                    <title>aux camara des cubistes</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal" authority="viaf" valueURI="">
 	                    <displayForm>ÉMILE BAYARD</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -144,12 +144,14 @@
 	                    <nonSort>LE</nonSort>
 	                    <title>CUBISME SERAIT BOCHE</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/100197132">
 	                    <displayForm>CAMILLE MAUCLAIR</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -162,12 +164,14 @@
 	                 <genre type="CCS">TextContent</genre>
 	              </relatedItem>
 	              <relatedItem type="constituent" ID="c007">
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/100197132">
 	                    <displayForm>CAMILLE MAUCLAIR</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -192,12 +196,12 @@
 	                 <genre type="CCS">TextContent</genre>
 	              </relatedItem>
 	              <relatedItem type="constituent" ID="c009">
-	                 <name type="personal">
+	                 <mods:name type="personal" authority="viaf" valueURI="">
 	                    <displayForm>J. GRANIÉ</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -213,12 +217,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>DESSIN</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/2469239">
 	                    <displayForm>DERAIN</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>still image</typeOfResource>
 	                 <part>
 	                    <extent unit="page">
@@ -231,12 +237,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>GUERRE</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/66462795">
 	                    <displayForm>GUILLAUME APOLLINAIRE</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -253,12 +261,14 @@
 	                    <nonSort>LES</nonSort>
 	                    <title>FEMMES LES PLUS NOBLES TRAVAILLAIENT DE LEURS MAINS A DES OUVRAGES DE LAINE</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/4932664">
 	                    <displayForm>LESPINASSE</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>still image</typeOfResource>
 	                 <part>
 	                    <extent unit="page">
@@ -273,12 +283,14 @@
 	                    <title>CASQUE DU CHASSEUR A CHEVAL MORT A GUEVGUÉLI</title>
 	                    <subTitle>COMME IL CUEILLAIT UNE FLEUR DE CACTUS QU'IL DESTINAIT A CELLE DE SON COEUR, DONT LE DESSINATEUR A FEINT ICI LES TRAITS ESSENTIELS</subTitle>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/44307485">
 	                    <displayForm>AMÉDÉE OZENFANT</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>still image</typeOfResource>
 	                 <part>
 	                    <extent unit="page">
@@ -291,12 +303,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>AU REPOS</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/59081879">
 	                    <displayForm>DUNOYER DE SEGONZAC</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>still image</typeOfResource>
 	                 <part>
 	                    <extent unit="page">
@@ -310,12 +324,12 @@
 	                    <title>Lea Tirailleura</title>
 	                    <subTitle>dana une certaie petite place a'Jloignon, non Loin au châteu des Papes</subTitle>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal" authority="viaf" valueURI="">
 	                    <displayForm>ZINA OZENFANT</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>still image</typeOfResource>
 	                 <part>
 	                    <extent unit="page">
@@ -328,12 +342,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>TOUT COMMENCEMENT EST CELUI D'UN SONGE . . .</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/4962763">
 	                    <displayForm>SÉBASTIEN VOIROL</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -349,12 +365,12 @@
 	                 <titleInfo lang="fre">
 	                    <title>PLUIE</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal" authority="viaf" valueURI="">
 	                    <displayForm>CH. EDDIE-DUCOTÉ</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -382,12 +398,12 @@
 	                 <titleInfo lang="fre">
 	                    <title>EXPOSITIONS</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal" authority="viaf" valueURI="">
 	                    <displayForm>Atrabile</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>

@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnabl_1920-02-01_01">
   <metsHdr>
@@ -52,12 +52,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>O bouches l’homme est à la recherche dyun nouveau langage</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/66462795">
 	                    <displayForm>Guillaume APOLLINAIRE</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -73,12 +75,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>SYNTAXE</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/12313345">
 	                    <displayForm>Jean PAULHAN</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -94,12 +98,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>L amour au fond des bois luit comme une grande bougie.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/109453511">
 	                    <displayForm>Philippe SOUPAULT</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -115,12 +121,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>HAUTE COUTURE Monsieur Aa l’antiphilosophe</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/27072443">
 	                    <displayForm>Tristan TZARA</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -165,12 +173,14 @@
 	                    <titleInfo lang="fre">
 		                      <title>Plusieurs enfants font un vieillard</title>
 	                    </titleInfo>
-	                    <name type="personal">
+	                    <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/73848255">
 		                      <displayForm>P. E</displayForm>
 		                      <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 		                      </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 		                      <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -187,12 +197,14 @@
 		                      <nonSort>LE</nonSort>
 		                      <title>RAT CIRCULAIRE</title>
 	                    </titleInfo>
-	                    <name type="personal">
+	                    <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/36923084">
 		                      <displayForm>F. P</displayForm>
 		                      <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 		                      </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 		                      <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -208,12 +220,14 @@
 	                    <titleInfo lang="fre">
 		                      <title>Extrait du Diable à Paris (1845)</title>
 	                    </titleInfo>
-	                    <name type="personal">
+	                    <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/51700032">
 		                      <displayForm>P.J. Stahl</displayForm>
 		                      <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 		                      </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 		                      <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -259,12 +273,14 @@
 	                    <titleInfo lang="fre">
 		                      <title>LA VOLONTÉ DE GRANDEUR rnin m</title>
 	                    </titleInfo>
-	                    <name type="personal">
+	                    <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/49222341">
 		                      <displayForm>A. B</displayForm>
 		                      <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 		                      </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 		                      <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -280,12 +296,12 @@
 	                    <titleInfo lang="fre">
 		                      <title>PSYCHOLOGIE ÉLECTRIQUE</title>
 	                    </titleInfo>
-	                    <name type="personal">
+	                    <mods:name type="personal" authority="viaf" valueURI="">
 		                      <displayForm>M. R</displayForm>
 		                      <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 		                      </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 		                      <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -301,12 +317,14 @@
 	                    <titleInfo lang="fre">
 		                      <title>TOUT SÉDUIT</title>
 	                    </titleInfo>
-	                    <name type="personal">
+	                    <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/73848255">
 		                      <displayForm>P. E</displayForm>
 		                      <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 		                      </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 		                      <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -338,12 +356,14 @@
 		                      <nonSort>LES</nonSort>
 		                      <title>NOMS CHÉRI-BIBI, GASTON LEROUX</title>
 	                    </titleInfo>
-	                    <name type="personal">
+	                    <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/73848255">
 		                      <displayForm>P. E</displayForm>
 		                      <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 		                      </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 		                      <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -374,12 +394,14 @@
 	                    <titleInfo lang="fre">
 		                      <title>L’amour, moulin à vent - veine de pendu,</title>
 	                    </titleInfo>
-	                    <name type="personal">
+	                    <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/8178518">
 		                      <displayForm>L. A</displayForm>
 		                      <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 		                      </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 		                      <languageTerm authority="iso639-2b">fre</languageTerm>

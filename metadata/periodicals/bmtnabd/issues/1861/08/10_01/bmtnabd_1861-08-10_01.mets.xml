@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnabd_1861-08-10_01">
 	  <metsHdr>
@@ -57,12 +57,12 @@
 						            <titleInfo lang="cze">
 							              <title>Charles Wehle. Životopisný nástin.</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>—r—</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">cze</languageTerm>
@@ -93,12 +93,12 @@
 						            <titleInfo lang="cze">
 							              <title>Pianni ústavy v Praze. Od V. G.</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>K</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">cze</languageTerm>
@@ -114,12 +114,12 @@
 						            <titleInfo lang="cze">
 							              <title>Ze Lvova. (V lipnu.) Úvod. — Hudební Jednota, její školy a ředitelstvo. — Hudba kostelní. — Paní Schrŏder-Chaloupková a p. Robíček. — „Viola di gamba" na výstavě starožitností. — Hudební útvory Rudkowského. —</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>V. Lvovský</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">cze</languageTerm>
@@ -178,12 +178,12 @@
 								                <titleInfo lang="cze">
 									                  <title>Královské zemské divadlo. Sotva že slovútná</title>
 								                </titleInfo>
-								                <name type="personal">
+								                <mods:name type="personal" authority="viaf" valueURI="">
 									                  <displayForm>r—r</displayForm>
 									                  <role>
 										                    <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 									                  </role>
-								                </name>
+								                </mods:name>
 								                <typeOfResource>text</typeOfResource>
 								                <language>
 									                  <languageTerm authority="iso639-2b">cze</languageTerm>
@@ -200,12 +200,12 @@
 							              <titleInfo lang="cze">
 								                <title>— Theoreticko-praktická zkouška žáků</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>—n—</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">cze</languageTerm>
@@ -236,12 +236,12 @@
 							              <titleInfo lang="cze">
 								                <title>Z Chrudimi, dne 4. srpna. (P. Ceněk Vinař.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>A. M. K. E</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">cze</languageTerm>
@@ -272,12 +272,12 @@
 							              <titleInfo lang="cze">
 								                <title>Londýn, Zde se zřizuje akcionářský spolek se základní</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>D</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">cze</languageTerm>

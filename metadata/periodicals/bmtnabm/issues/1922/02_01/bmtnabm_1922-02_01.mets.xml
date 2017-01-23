@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnabm_1922-02_01">
   <metsHdr>
@@ -68,12 +68,14 @@
 	                 <titleInfo lang="pol">
 	                    <title>ANIELSKI CHAM.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/112412315">
 	                    <displayForm>Anatol Stern</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -89,12 +91,14 @@
 	                 <titleInfo lang="pol">
 	                    <title>WNIEBOWSTĄPIENIE.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/112412315">
 	                    <displayForm>Anatol Stern</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -110,12 +114,14 @@
 	                 <titleInfo lang="pol">
 	                    <title>NOWA POEZJA HISZPAŃSKA.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/8183786">
 	                    <displayForm>Tadeusz Peiper</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -131,12 +137,14 @@
 	                 <titleInfo lang="pol">
 	                    <title>NOC.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/12329">
 	                    <displayForm>Vincente Huidobro</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -152,12 +160,14 @@
 	                 <titleInfo lang="pol">
 	                    <title>DESZCZ</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/12329">
 	                    <displayForm>Vincente Huidobro</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -173,12 +183,14 @@
 	                 <titleInfo lang="pol">
 	                    <title>TELEFON.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/12329">
 	                    <displayForm>Vincente Huidobro</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -194,12 +206,14 @@
 	                 <titleInfo lang="pol">
 	                    <title>DALE.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/87820093">
 	                    <displayForm>Juan Rivas Panedas</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -215,12 +229,14 @@
 	                 <titleInfo lang="pol">
 	                    <title>MOJE KROKI.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/87820093">
 	                    <displayForm>Juan Rivas Panedas</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -236,12 +252,14 @@
 	                 <titleInfo lang="pol">
 	                    <title>JA I TY WŚRÓD NOCY.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/79107783">
 	                    <displayForm>Humberto Rivas</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -257,12 +275,14 @@
 	                 <titleInfo lang="pol">
 	                    <title>PUZZLE.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/116932494">
 	                    <displayForm>Guillermo de Torre</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -278,12 +298,12 @@
 	                 <titleInfo lang="pol">
 	                    <title>BORDEL.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal" authority="viaf" valueURI="">
 	                    <displayForm>Ernesto Lopez Parra</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -299,12 +319,14 @@
 	                 <titleInfo lang="pol">
 	                    <title>PORANEK.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/88919448">
 	                    <displayForm>Luis Borges</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -320,18 +342,22 @@
 	                 <titleInfo lang="pol">
 	                    <title>CLOWN.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/4275824">
 	                    <displayForm>Rafael Lasso de la Vega</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
-	                 <name type="personal">
+	                 </mods:name>
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/8183786/">
 	                    <displayForm>Tadeusza Peipera</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">trl</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -350,18 +376,20 @@
 	                 <titleInfo lang="pol">
 	                    <title>(Cztery wykłady o poezji futurystycznej wygłoszone na kursach literackich w Krakowie)</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/64038455">
 	                    <displayForm>Leon Chwistek</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
-	                 <name type="personal">
+	                 </mods:name>
+	                 <mods:name type="personal" authority="viaf" valueURI="">
 	                    <displayForm>D. c. n</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -377,12 +405,14 @@
 	                 <titleInfo lang="pol">
 	                    <title>CZERwiec CZERwony.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/101581485">
 	                    <displayForm>Mieczysław Braun</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -398,12 +428,14 @@
 	                 <titleInfo lang="pol">
 	                    <title>NAGI DZIEŃ.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/101581485">
 	                    <displayForm>Mieczysław Braun</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -419,18 +451,20 @@
 	                 <titleInfo lang="pol">
 	                    <title>POWIEŚĆ.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/93235237">
 	                    <displayForm>Aleksander Wat</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
-	                 <name type="personal">
+	                 </mods:name>
+	                 <mods:name type="personal" authority="viaf" valueURI="">
 	                    <displayForm>D. c. n</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -449,12 +483,14 @@
 	                 <titleInfo lang="pol">
 	                    <title>bronisławowi iwanowskiemu</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/112412315">
 	                    <displayForm>Anatol Stern</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -470,18 +506,22 @@
 	                 <titleInfo lang="pol">
 	                    <title>POEMAT.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/82676625">
 	                    <displayForm>Blaise Cendrars</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
-	                 <name type="personal">
+	                 </mods:name>
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/221057511">
 	                    <displayForm>Wandy Melcer–Rutkowskiej</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">trl</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -497,18 +537,22 @@
 	                 <titleInfo lang="pol">
 	                    <title>ŻEBRACZKA Z NEAPOLU.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/59084095">
 	                    <displayForm>Max jacob</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
-	                 <name type="personal">
+	                 </mods:name>
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/101915386">
 	                    <displayForm>Kazimierz Bukowski</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">trl</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -524,18 +568,20 @@
 	                 <titleInfo lang="pol">
 	                    <title>ŁAWKA Z. NAPRZECIWKA.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal" authority="viaf" valueURI="">
 	                    <displayForm>Samuel Doula</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
-	                 <name type="personal">
+	                 </mods:name>
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/101915386">
 	                    <displayForm>Kazimierza Bukowskiego</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">trl</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -554,18 +600,22 @@
 	                 <titleInfo lang="pol">
 	                    <title>(fragmenty z poematu)</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/73867394">
 	                    <displayForm>Sergej Jesienin</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
-	                 <name type="personal">
+	                 </mods:name>
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/163083653">
 	                    <displayForm>Bohdana Żyranika</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">trl</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -595,12 +645,14 @@
 	                    <titleInfo lang="pol">
 		                      <title>„Pragmatyści” sztuka w 3 aktach) 4 odsłonach Stanisława Ign. Witkiewicza. Elsynor.</title>
 	                    </titleInfo>
-	                    <name type="personal">
+	                    <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/112412315">
 		                      <displayForm>A. Stern</displayForm>
 		                      <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 		                      </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 		                      <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -617,12 +669,14 @@
 	                 <titleInfo lang="pol">
 	                    <title>PLASTYKA.</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/93235237">
 	                    <displayForm>A. Wat</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -652,12 +706,14 @@
 	                    <titleInfo lang="pol">
 		                      <title>Malarz Kisling.</title>
 	                    </titleInfo>
-	                    <name type="personal">
+	                    <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/8183786/">
 		                      <displayForm>tp</displayForm>
 		                      <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 		                      </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 		                      <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -688,12 +744,14 @@
 	                    <titleInfo lang="pol">
 		                      <title>Stanisław Ignacy Witkiewicz; Szkice estetyczne, Krakowska Spółka Wydawnicza 1922 r. _</title>
 	                    </titleInfo>
-	                    <name type="personal">
+	                    <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/93235237">
 		                      <displayForm>A. Wat</displayForm>
 		                      <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 		                      </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 		                      <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -739,12 +797,14 @@
 	                    <titleInfo lang="pol">
 		                      <title>Przegląd Warszawski</title>
 	                    </titleInfo>
-	                    <name type="personal">
+	                    <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/93235237">
 		                      <displayForm>aw</displayForm>
 		                      <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 		                      </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 		                      <languageTerm authority="iso639-2b">pol</languageTerm>
@@ -820,12 +880,12 @@
 	                    <titleInfo lang="pol">
 		                      <title>NAGANKA NA LITERATóW.</title>
 	                    </titleInfo>
-	                    <name type="corporate">
+	                    <mods:name type="corporate" authority="viaf" valueURI="">
 		                      <displayForm>Redakcja</displayForm>
 		                      <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 		                      </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 		                      <languageTerm authority="iso639-2b">pol</languageTerm>

@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnabj_1907-04-15_01">
 	  <metsHdr>
@@ -86,12 +86,14 @@
 							              <titleInfo lang="fre">
 								                <title>PIERRE AUBRY. — ESTAMPIES ET DANSES ROYALES : les plus anciens textes de musique instrumentale au moyen âge.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/74116366">
 								                <displayForm>H. QUITTARD</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -107,12 +109,14 @@
 							              <titleInfo lang="fre">
 								                <title>CHANSONS DE TROUBADOURS, PUBLIÉES PAR PIERRE AUBRY, HARMONISÉES POUR HARPE ou PIANO PAR RENÉ DE CASTÉRA (chez A. Rouart, 18, boulevard de Strasbourg, 4 fr.).</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/39484836">
 								                <displayForm>C</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -140,12 +144,14 @@
 							              <titleInfo lang="fre">
 								                <title>«LA MUSIQUE DE CHAMBRE EN ALLEMAGNE PENDANT LES QUATRE DERNIERS SIÈCLES», PIÈCES CHOISIES EN VUE DE L'EXÉCUTION PRATIQUE, PAR H. LEICHTERTRITT. I vol. in-4º, 110 p., dont 60 de texte littéraire, en all., Berlin, chez Marquardt et Cie).</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/39484836">
 								                <displayForm>J. C</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -162,12 +168,14 @@
 								                <nonSort>LA</nonSort>
 								                <title>MESSE EN SI MINEUR DE J.-S. BACH (CONCERT DE LA SCHOLA, SOUS LA DIRECTION DE M. VINCENT D'INDY).</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/39484836">
 								                <displayForm>J. C</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -183,12 +191,14 @@
 							              <titleInfo lang="fre">
 								                <title>OEUVRES DE M. LOUIS DIÉMER.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/39484836">
 								                <displayForm>J. C</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -204,12 +214,12 @@
 							              <titleInfo lang="fre">
 								                <title>«ARIANE ET BARBE-BLEUE», OPÉRA EN TROIS ACTES DE PAUL DUKAS, PAROLES DE MAURICE MAETERLINCK, représenté pour la première fois sur la scène del'Opéra-Comique (1907).</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>S</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -225,12 +235,14 @@
 							              <titleInfo lang="fre">
 								                <title>«LE DRAGON VERT», DE M. E. RATEZ.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/12307650">
 								                <displayForm>MÉDÉRIC DUFOUR</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -261,12 +273,14 @@
 							              <titleInfo lang="fre">
 								                <title>FRANÇOISE DE RIMINI (ibid.).</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/66732338">
 								                <displayForm>HENRI BRODY</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -283,12 +297,12 @@
 								                <nonSort>LA</nonSort>
 								                <title>TROMPETTE.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>A. C</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -304,12 +318,14 @@
 							              <titleInfo lang="fre">
 								                <title>«LE RÉVEIL DU POÈTE», ODE LYRIQUE DE M. FERNAND DE LA TOMBELLE (CONCERT DE M. PAUL SÉGUY, A LA SALLE PLEYEL).</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/66732338">
 								                <displayForm>H. B</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -349,12 +365,14 @@
 							              <titleInfo lang="fre">
 								                <title>«INVITATION AU MENUET».</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/39484836">
 								                <displayForm>C</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -370,12 +388,12 @@
 							              <titleInfo lang="fre">
 								                <title>PIERRE BONNIER : «LA VOIX, SA CULTURE PHYSIOLOGIQUE», I VOL. 299 P. ALCAN, 3 fr. 50.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>J. G</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -391,12 +409,12 @@
 							              <titleInfo lang="fre">
 								                <title>EMILE MAGNIN : «L'ART ET L'HYPNOSE» , I VOL. 463 P. AVEC DE NOMBREUSES ILLUSTRATIONS DE FRED. BOISSONAS, CHEZ ALCAN, ET A GENÈVE, ÉDITION « ATAR ».</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>S</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -412,12 +430,14 @@
 							              <titleInfo lang="fre">
 								                <title>ALBERT CASSAGNE : «VERSIFICATION ET MÉTRIQUE DE CH. BAUDELAIRE», I VOL. HACHETTE, I26 P.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/39484836">
 								                <displayForm>J. C</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -433,12 +453,14 @@
 							              <titleInfo lang="fre">
 								                <title>PIERRE LASSERRE : «LES IDÉES DE NIETZSCHE SURLAMUSIQUE, DANS SA PÉRIODE WAGNÉRIENNE», I VOL. 210 P., SOCIÉTÉ DU MERCURE DE FRANCE, 26, RUE DE CONDÉ.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/39484836">
 								                <displayForm>C</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -454,12 +476,12 @@
 							              <titleInfo lang="fre">
 								                <title>L'ART DU VIOLON, 25 CAPRICES PAR LOCATELLI (1693-1764), NOUVELLE ÉDITION, COMPLÈTEMENT DÉVELOPPÉE, PAR ED. NADAUD, PROFESSEUR AU CONSERVATOIRE.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>A. C</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -475,12 +497,12 @@
 							              <titleInfo lang="fre">
 								                <title>OEUVRES DE MONTÉCLAIR.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>M</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -496,12 +518,12 @@
 							              <titleInfo lang="fre">
 								                <title>PAUL WETZGER : «LA FLÛTE, SON ORIGINE ET SES DÉVELOPPEMENTS JUSQU'AU TEMPS PRÉSENT, AU POINT DE VUE ACOUSTIQUE, TECHNIQUE ET MUSICAL», BR. DE 55 P. AVEC ILLUSTRATIONS ET EXEMPLES DE MUSIQUE, CHEZ ScHMIDT, HEILBRONN A.N. 2 MARKS (2 fr. 50).</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>G</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -517,12 +539,12 @@
 							              <titleInfo lang="fre">
 								                <title>ALBERT FUCHS : «TAXE DER STREICH-INSTRUMENTE» (INTRODUCTION A L'ART D'APPRÉCIER LES VIOLONS, VIOLES, CONTREBASSES, ETC... D'APRÈS LEUR ORIGINE ET LEUR VALEUR), I VOL. 177 P., LEIPZIG, CHEZ GARL MERSEBURGER.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>G</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -569,12 +591,12 @@
 						            <titleInfo lang="fre">
 							              <title>Musique orientale.</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>R. Y</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -615,12 +637,14 @@
 							              <nonSort>Le</nonSort>
 							              <title>chant et les enfants.</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/2603116">
 							              <displayForm>Dr PIERRE BONNIER</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -667,12 +691,14 @@
 								                <nonSort>LA</nonSort>
 								                <title>«REVUE MUSICALE» A LILLE.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/12307650">
 								                <displayForm>MÉDÉRIC DUFOUR</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -689,12 +715,12 @@
 								                <nonSort>LA</nonSort>
 								                <title>«REVUE MUSICALE» A ROUEN.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>PAUL ROBERT</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>

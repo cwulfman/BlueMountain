@@ -2,7 +2,7 @@
 <mets xmlns="http://www.loc.gov/METS/"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Periodical"
       OBJID="urn:PUL:bluemountain:bmtnabm">
   <metsHdr>
@@ -48,34 +48,42 @@
 	              <titleInfo type="alternative">
                   <title>Nowej sztuki</title>
 	              </titleInfo>
-               <name type="personal">
+               <mods:name xmlns:local="http://diglib.princeton.edu"
+                          xmlns:mods="http://www.loc.gov/mods/v3"
+                          type="personal">
                   <namePart>Stern, Anatol</namePart>
                   <namePart type="date">1899-1968</namePart>
                   <role>
                      <roleTerm type="text">editor</roleTerm>
                   </role>
-               </name>
-               <name type="personal">
+               </mods:name>
+               <mods:name xmlns:local="http://diglib.princeton.edu"
+                          xmlns:mods="http://www.loc.gov/mods/v3"
+                          type="personal">
                   <namePart>Iwaszkiewicz, Jarosław</namePart>
                   <namePart type="date">1894-1980</namePart>
                   <role>
                      <roleTerm type="text">editor</roleTerm>
                   </role>
-               </name>
-               <name type="personal">
+               </mods:name>
+               <mods:name xmlns:local="http://diglib.princeton.edu"
+                          xmlns:mods="http://www.loc.gov/mods/v3"
+                          type="personal">
                   <namePart>Peiper, Tadeusz</namePart>
                   <namePart type="date">1891-1969</namePart>
                   <role>
                      <roleTerm type="text">editor</roleTerm>
                   </role>
-               </name>
-               <name type="personal">
+               </mods:name>
+               <mods:name xmlns:local="http://diglib.princeton.edu"
+                          xmlns:mods="http://www.loc.gov/mods/v3"
+                          type="personal">
                   <namePart>Chwistek, Leon</namePart>
                   <namePart type="date">1884-1944</namePart>
                   <role>
                      <roleTerm type="text">editor</roleTerm>
                   </role>
-               </name>
+               </mods:name>
 
 	              <typeOfResource>text</typeOfResource>
 	              <originInfo script="Latn">

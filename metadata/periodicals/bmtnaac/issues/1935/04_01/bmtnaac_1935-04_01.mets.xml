@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnaac_1935-04_01">
 	  <metsHdr>
@@ -96,20 +96,20 @@
 					          <relatedItem type="constituent" ID="c003">
 						            <titleInfo lang="fre">
 							              <title>L'Evolution de l'Habitation Individuelle</title>
-						            	<subTitle>Extraits de l'étude d'Alexandre Klein „MAISONS POUR UNE FAMILLE" Stuttgart, 1934, chez Julius Hoffmann</subTitle>
+						            	  <subTitle>Extraits de l'étude d'Alexandre Klein „MAISONS POUR UNE FAMILLE" Stuttgart, 1934, chez Julius Hoffmann</subTitle>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>Alexandre Klein</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
-					          	<name type="personal">
-					          		<displayForm>Julius Hoffmann</displayForm>
-					          		<role>
-					          			<roleTerm type="code" authority="marcrelator">cre</roleTerm>
-					          		</role>
-					          	</name>
+						            </mods:name>
+					          	  <mods:name type="personal" authority="viaf" valueURI="">
+					          		    <displayForm>Julius Hoffmann</displayForm>
+					          		    <role>
+					          			      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+					          		    </role>
+					          	  </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -587,12 +587,12 @@
 						            <titleInfo lang="fre">
 							              <title>Rapport sur l'Urbanisme</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>MARCEL SCHMITS</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>

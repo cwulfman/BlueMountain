@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnabj_1904-10-15_02">
 	  <metsHdr>
@@ -70,15 +70,17 @@
 					          <relatedItem type="constituent" ID="c001">
 						            <titleInfo lang="fre">
 							              <title>Gigues Anglaise et Francaise Extraites d'un CONCERT à QUATRE VIOLES</title>
-						            	<subTitle>Réduction d'après les Manuscrits de la Bibliothèque Nationale. par Henri QUITTARD</subTitle>
+						            	  <subTitle>Réduction d'après les Manuscrits de la Bibliothèque Nationale. par Henri QUITTARD</subTitle>
 						            </titleInfo>
 						            
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/87796175">
 							              <displayForm>Mare Anthoine CHARPENTIER</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -130,12 +132,14 @@
 						            <titleInfo lang="fre">
 							              <title>Orphée descendant aux Enfers Cantate française Récit d'Orphée</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/87796175">
 							              <displayForm>Marc Anthoine CHARPENTIER</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>

@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnabj_1906-06-01_01">
 	  <metsHdr>
@@ -73,12 +73,14 @@
 							              <nonSort>Les</nonSort>
 							              <title>modes diatoniques. — Lettre de M. Bourgault-Ducoudray.</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/34499581">
 							              <displayForm>BOURGAULT-DUCOUDRAY</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -97,12 +99,12 @@
 						            <titleInfo lang="fre">
 							              <title>ACCORDS ALTÉRÉS. — SUITES D'OCTAVES ET DE QUINTES. — UN CURIEUX PASSAGE DE «L'ARMIDE» DE GLUCK (Ì).</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>E. D</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -133,12 +135,12 @@
 								                <nonSort>Les</nonSort>
 								                <title>modes diatoniques (suite). LE MODE MIXOLYDIEN AU POINT DE VUE MÉLODIQUE ET HARMONIQUE. (D'après la sténographie de M. E. Dusselier).</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>JULES COMBARIEU</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -275,12 +277,12 @@
 						            <titleInfo lang="fre">
 							              <title>Notes sur la danse et la musique orientales. D'APRÈS QUELQUES PUBLICATIONS RÉCENTES</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>S</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -310,43 +312,45 @@
 							              <titleInfo lang="fre">
 								                <title>A l'Opéra : le conseil d'administration qui essaie de rassurer une danseuse.  Une chanteuse</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/56724044">
 								                <displayForm>LAZIER</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
-						            	<name type="personal">
-						            		<displayForm>REY</displayForm>
-						            		<role>
-						            			<roleTerm type="code" authority="marcrelator">cre</roleTerm>
-						            		</role>
-						            	</name>
-						            	<name type="personal">
-						            		<displayForm>ADRIEN</displayForm>
-						            		<role>
-						            			<roleTerm type="code" authority="marcrelator">cre</roleTerm>
-						            		</role>
-						            	</name>
-						            	<name type="personal">
-						            		<displayForm>VESTRIS</displayForm>
-						            		<role>
-						            			<roleTerm type="code" authority="marcrelator">cre</roleTerm>
-						            		</role>
-						            	</name>
-						            	<name type="personal">
-						            		<displayForm>NIVELON</displayForm>
-						            		<role>
-						            			<roleTerm type="code" authority="marcrelator">cre</roleTerm>
-						            		</role>
-						            	</name>
-						            	<name type="personal">
-						            		<displayForm>GARAL</displayForm>
-						            		<role>
-						            			<roleTerm type="code" authority="marcrelator">cre</roleTerm>
-						            		</role>
-						            	</name>
-						            	<typeOfResource>text</typeOfResource>
+							              </mods:name>
+						            	  <mods:name type="personal" authority="viaf" valueURI="">
+						            		    <displayForm>REY</displayForm>
+						            		    <role>
+						            			      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+						            		    </role>
+						            	  </mods:name>
+						            	  <mods:name type="personal" authority="viaf" valueURI="">
+						            		    <displayForm>ADRIEN</displayForm>
+						            		    <role>
+						            			      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+						            		    </role>
+						            	  </mods:name>
+						            	  <mods:name type="personal" authority="viaf" valueURI="">
+						            		    <displayForm>VESTRIS</displayForm>
+						            		    <role>
+						            			      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+						            		    </role>
+						            	  </mods:name>
+						            	  <mods:name type="personal" authority="viaf" valueURI="">
+						            		    <displayForm>NIVELON</displayForm>
+						            		    <role>
+						            			      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+						            		    </role>
+						            	  </mods:name>
+						            	  <mods:name type="personal" authority="viaf" valueURI="">
+						            		    <displayForm>GARAL</displayForm>
+						            		    <role>
+						            			      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+						            		    </role>
+						            	  </mods:name>
+						            	  <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
 							              </language>
@@ -361,12 +365,12 @@
 							              <titleInfo lang="fre">
 								                <title>Au citoyen de Lucay, préfet du palais.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>CLOTHILDE</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -382,12 +386,14 @@
 							              <titleInfo lang="fre">
 								                <title>ACADÉMIE ROYALE DE MUSIQUE.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/22329728">
 								                <displayForm>CAMARGO</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -460,12 +466,12 @@
 							              <titleInfo lang="fre">
 								                <title>M. CAMILLE SAINT-SAËNS A LA SORBONNE.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>E</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -481,12 +487,12 @@
 							              <titleInfo lang="fre">
 								                <title>BORDEAUX, GRAND-THÉATRE.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>ED. AYRIVIÉ</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -517,12 +523,14 @@
 							              <titleInfo lang="fre">
 								                <title>L'EXERCICE DES ÉLÈVES AU CONSERVATOIRE.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/74116366">
 								                <displayForm>H. Q</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -698,12 +706,14 @@
 							              <titleInfo lang="fre">
 								                <title>VENTE D'AUTOGRAPHES A L HOTEL DROUOT.</title>
 							              </titleInfo>
-							              <name type="personal">
+							              <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/288366616">
 								                <displayForm>H. ROUGET</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -737,12 +747,14 @@
 							              <nonSort>La</nonSort>
 							              <title>musique dans l'enseignement primaire. — Le nouveau programme de musique au brevet supérieur</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/311314467">
 							              <displayForm>F. GRAVRAND</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>

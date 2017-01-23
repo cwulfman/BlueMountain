@@ -62,13 +62,14 @@
 						            <titleInfo lang="fre">
 							              <title>Cover Illustration</title>
 						            </titleInfo>
-					          	<name type="personal" authority="viaf"
-					          		valueURI="http://viaf.org/viaf/44307485">
+					          	  <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/44307485">
 							              <displayForm>Amédee Ozenfant</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <originInfo>
 							              <dateCreated>17 April 1915</dateCreated>
 						            </originInfo>
@@ -85,20 +86,20 @@
 							              <nonSort>Les</nonSort>
 							              <title>opinions d'une allemande</title>
 						            </titleInfo>
-						            <name type="corporate">
+						            <mods:name type="corporate" authority="viaf" valueURI="">
 							              <displayForm>N. D. L. R</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
 						            </language>
 						            <part>
 							              <extent unit="page">
-							              	<start>2</start>
-							              	<end>3</end>
+							              	  <start>2</start>
+							              	  <end>3</end>
 							              </extent>
 						            </part>
 						            <genre type="CCS">TextContent</genre>
@@ -115,20 +116,20 @@
 							              <genre type="CCS">TextContent</genre>
 						            </relatedItem>
 						            <relatedItem type="constituent" ID="c004">
-							              <name type="personal">
+							              <mods:name type="personal" authority="viaf" valueURI="">
 								                <displayForm>Maria Stein</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>text</typeOfResource>
 							              <language>
 								                <languageTerm authority="iso639-2b">fre</languageTerm>
 							              </language>
 							              <part>
 								                <extent unit="page">
-								                	<start>2</start>
-								                	<end>3</end>
+								                	  <start>2</start>
+								                	  <end>3</end>
 								                </extent>
 							              </part>
 							              <genre type="CCS">TextContent</genre>
@@ -139,12 +140,14 @@
 							              <nonSort>La</nonSort>
 							              <title>gravité de l'instant</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/51813316">
 							              <displayForm>P. B</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -159,13 +162,14 @@
 							              <titleInfo lang="fre">
 								                <mods:title>Untitled Image</mods:title>
 							              </titleInfo>
-						            	<name type="personal" authority="viaf"
-						            		valueURI="http://viaf.org/viaf/39427207">
+						            	  <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/39427207">
 								                <displayForm>R. de la Fresnaye</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <originInfo>
 								                <dateCreated>Nov. 1914</dateCreated>
 							              </originInfo>
@@ -182,13 +186,14 @@
 						            <titleInfo lang="fre">
 							              <title>Le Hézos</title>
 						            </titleInfo>
-					          	<name type="personal" authority="viaf"
-					          		valueURI="http://viaf.org/viaf/61541516">
+					          	  <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/61541516">
 							              <displayForm>Henry Bataille</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <originInfo>
 							              <dateCreated>6 April 1915</dateCreated>
 						            </originInfo>
@@ -206,13 +211,14 @@
 							              <titleInfo lang="fre">
 								                <title>Types de la grande guerre N° 2: Germania</title>
 							              </titleInfo>
-						            	<name type="personal" authority="viaf"
-						            		valueURI=" http://viaf.org/viaf/7407220">
+						            	  <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/7407220">
 								                <displayForm>L. A. Moreau</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="macrelator">cre</roleTerm>
 								                </role>
-							              </name>
+							              </mods:name>
 							              <typeOfResource>still image</typeOfResource>
 							              <part>
 								                <extent unit="page">
@@ -239,13 +245,14 @@
 							              <nonSort>Les</nonSort>
 							              <title>Russes bombardent le fort Rouméli Hissar</title>
 						            </titleInfo>
-					          	<name type="personal" authority="viaf"
-					          		valueURI="http://viaf.org/viaf/51697196">
+					          	  <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/51697196">
 							              <displayForm>Maximilien Volochine</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>still image</typeOfResource>
 						            <part>
 							              <extent unit="page">
@@ -259,13 +266,14 @@
 							              <nonSort>Le</nonSort>
 							              <title>Cornet a Bouqin</title>
 						            </titleInfo>
-					          	<name type="personal" authority="viaf"
-					          		valueURI="http://viaf.org/viaf/171319">
+					          	  <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/171319">
 							              <displayForm>Lucien Mainssieux</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -281,12 +289,12 @@
 						            <titleInfo lang="fre">
 							              <title>Poussières</title>
 						            </titleInfo>
-					          	<name type="personal">
-					          		<displayForm>Jupapards</displayForm>
-					          		<role>
-					          			<roleTerm type="code" authority="marcrelator">cre</roleTerm>
-					          		</role>
-					          	</name>				           
+					          	  <mods:name type="personal" authority="viaf" valueURI="">
+					          		    <displayForm>Jupapards</displayForm>
+					          		    <role>
+					          			      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+					          		    </role>
+					          	  </mods:name>				           
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -310,13 +318,12 @@
 							              <nonSort>Les</nonSort>
 							              <title>Pillards</title>
 						            </titleInfo>
-					          	<name type="personal" authority="viaf"
-					          		valueURI="http://viaf.org/viaf/314781988">
+					          	  <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>Jean Marchand</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>still image</typeOfResource>
 						            <part>
 							              <extent unit="page">
@@ -341,12 +348,12 @@
 						            <genre type="CCS">TextContent</genre>
 					          </relatedItem>
 					          <relatedItem type="constituent" ID="c022">
-						            <name type="corporate">
+						            <mods:name type="corporate" authority="viaf" valueURI="">
 							              <displayForm>N. D. L. R</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -370,7 +377,7 @@
 						            </language>
 						            <part>
 							              <extent unit="page">
-							              	<start>11</start>
+							              	  <start>11</start>
 							              </extent>
 						            </part>
 						            <genre type="CCS">TextContent</genre>
@@ -378,13 +385,12 @@
 							              <titleInfo lang="fre">
 								                <title>Bois Original de Léwitzka</title>
 							              </titleInfo>
-						            	<name type="personal" authority="viaf"
-						            		valueURI=" http://viaf.org/viaf/74652946">
-						            		<displayForm>Z. Léwitzka</displayForm>
-						            		<role>
-						            			<roleTerm type="code" authority="marcrelator">cre</roleTerm>
-						            		</role>
-						            	</name>
+						            	  <mods:name type="personal" authority="viaf" valueURI="">
+						            		    <displayForm>Z. Léwitzka</displayForm>
+						            		    <role>
+						            			      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+						            		    </role>
+						            	  </mods:name>
 							              <typeOfResource>still image</typeOfResource>
 							              <part>
 								                <extent unit="page">

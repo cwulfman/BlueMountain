@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnaaf_1915-04-15_01">
 	  <metsHdr>
@@ -63,12 +63,12 @@
 							              <nonSort>le</nonSort>
 							              <title>front et le collier de la victoire</title>
 						            </titleInfo>
-						            <name type="personal">
+						            <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>Amédée Ozenfant</displayForm>
 							              <role>
 								                <roleTerm>cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>still image</typeOfResource>
 						            <part>
 							              <extent unit="page">
@@ -81,13 +81,13 @@
 						            <titleInfo lang="fre">
 							              <title>L'Élan</title>
 						            </titleInfo>
-					          	<name type="corporate">
+					          	  <mods:name type="corporate" authority="viaf" valueURI="">
 						            	
 							              <displayForm>L'Élan</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -104,12 +104,14 @@
 							              <nonSort>La</nonSort>
 							              <title>petite Germaine Fischel dansant à la cantine de guerre des artistes, au Lapin agile</title>
 						            </titleInfo>
-					          	<name type="personal" authority="viaf" valueURI="http://viaf.org/viaf/171319">
+					          	  <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/171319">
 							              <displayForm>Lucien Mainssieux</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>still image</typeOfResource>
 						            <part>
 							              <extent unit="page">
@@ -123,19 +125,20 @@
 							              <nonSort>Le</nonSort>
 							              <title>cornet à bouquin</title>
 						            </titleInfo>
-					          	<name type="personal" authority="viaf"
-					          		valueURI="http://viaf.org/viaf/171319">
-					          		<displayForm>Lucien Mainssieux</displayForm>
+					          	  <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/171319">
+					          		    <displayForm>Lucien Mainssieux</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
-					          	<name type="personal">
-					          		<displayForm>Joachim Krankfurter</displayForm>
-					          		<role>
-					          			<roleTerm type="code" authority="marcrelator">cre</roleTerm>
-					          		</role>
-					          	</name>
+						            </mods:name>
+					          	  <mods:name type="personal" authority="viaf" valueURI="">
+					          		    <displayForm>Joachim Krankfurter</displayForm>
+					          		    <role>
+					          			      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+					          		    </role>
+					          	  </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -152,13 +155,12 @@
 							              <nonSort>Le</nonSort>
 							              <title>Grand Événemtn</title>
 						            </titleInfo>
-					          	<name type="personal" authority="viaf"
-					          		valueURI="http://viaf.org/viaf/25396500" >
+					          	  <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>Paul Fort</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -174,19 +176,18 @@
 						            <titleInfo lang="fre">
 							              <title>Encore quelques Buches et il sera cuit</title>
 						            </titleInfo>
-					          	<name type="personal" authority="viaf"
-					          		valueURI="http://viaf.org/viaf/74652946">
-					          		<displayForm>L. Léwitzka</displayForm>
-					          		<role>
-					          			<roleTerm type="code" authority="marcrelator">cre</roleTerm>
-					          		</role>
-					          	</name>
+					          	  <mods:name type="personal" authority="viaf" valueURI="">
+					          		    <displayForm>L. Léwitzka</displayForm>
+					          		    <role>
+					          			      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+					          		    </role>
+					          	  </mods:name>
 						            <typeOfResource>still image</typeOfResource>
 						            <part>
-						            	<extent unit="page">
-						            		<start>6</start>
-						            		<end>7</end>
-						            	</extent>
+						            	  <extent unit="page">
+						            		    <start>6</start>
+						            		    <end>7</end>
+						            	  </extent>
 						            </part>
 						            <genre type="CCS">Illustration</genre>
 					          </relatedItem>
@@ -265,13 +266,12 @@
 							              <nonSort>La</nonSort>
 							              <title>Mer de Marmara</title>
 						            </titleInfo>
-					          	<name type="personal" authority="viaf"
-					          		valueURI="http://viaf.org/viaf/32270460">
+					          	  <mods:name type="personal" authority="viaf" valueURI="">
 							              <displayForm>Fauconnet</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>still image</typeOfResource>
 						            <part>
 							              <extent unit="page">
@@ -285,13 +285,14 @@
 							              <nonSort>La</nonSort>
 							              <title>saison des chenilles</title>
 						            </titleInfo>
-					          	<name type="personal" authority="viaf"
-					          		valueURI="http://viaf.org/viaf/51813316">
+					          	  <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/51813316">
 							              <displayForm>Paul Brach</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						            <typeOfResource>text</typeOfResource>
 						            <language>
 							              <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -307,13 +308,14 @@
 						            <titleInfo lang="fre">
 							              <title>Types de la Grande Guerre N°1: Le Métèque</title>
 						            </titleInfo>
-					          	<name type="personal" authority="viaf"
-					          		valueURI=" http://viaf.org/viaf/7407220">
+					          	  <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/7407220">
 							              <displayForm>L. A. Moreau</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
-						            </name>
+						            </mods:name>
 						           
 						            <typeOfResource>still image</typeOfResource>
 						            <part>

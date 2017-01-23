@@ -5,7 +5,7 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:local="http://diglib.princeton.edu"
       xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       TYPE="Magazine"
       OBJID="urn:PUL:periodicals:bluemountain:bmtnabh_1906-10-15_01">
   <metsHdr>
@@ -74,12 +74,12 @@
 	                    <nonSort>LE</nonSort>
 	                    <title>MERCURE MUSICAL MENSUEL</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal" authority="viaf" valueURI="">
 	                    <displayForm>La Rédaction</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -119,12 +119,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>MUSIQUE HONGROISE</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/310748939">
 	                    <displayForm>Paul de Chèvremmont</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -164,12 +166,12 @@
 	                 <titleInfo lang="fre">
 	                    <title>L'OEUVRE DE PIANO DE CLAUDE DEBUSSY</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal" authority="viaf" valueURI="">
 	                    <displayForm>Edward Burlinghame Hill</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -205,18 +207,18 @@
 	                    <nonSort>Le</nonSort>
 	                    <title>Jardin</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal" authority="viaf" valueURI="">
 	                    <displayForm>REMY DE GOURMONT</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
-	                 <name type="personal">
+	                 </mods:name>
+	                 <mods:name type="personal" authority="viaf" valueURI="">
 	                    <displayForm>Dessins de Georges d'Espagnat</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -316,12 +318,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>QUELQUES IMPRESSIONS D'UN AMOUREUX D'ART</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/88750751">
 	                    <displayForm>Raymond Bouyer</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -350,12 +354,14 @@
 	                    <nonSort>LES</nonSort>
 	                    <title>DÉBUTS DE L'ABONNEMENT DE MUSIQUE</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/44405963">
 	                    <displayForm>Michel Brenet</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -372,12 +378,14 @@
 	                    <nonSort>UNE</nonSort>
 	                    <title>FORME GALLOISE DE LA LÉGENDE DE PARSIFAL</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/240852692">
 	                    <displayForm>Jacques Reboul</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -405,12 +413,14 @@
 	                 <titleInfo lang="fre">
 	                    <title>MURGER MUSICIEN</title>
 	                 </titleInfo>
-	                 <name type="personal">
+	                 <mods:name type="personal"
+                             authority="viaf"
+                             valueURI="http://viaf.org/viaf/50260296">
 	                    <displayForm>Gaston Knosp</displayForm>
 	                    <role>
 		                      <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 	                    </role>
-	                 </name>
+	                 </mods:name>
 	                 <typeOfResource>text</typeOfResource>
 	                 <language>
 	                    <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -549,12 +559,14 @@
 		                      <nonSort>LE</nonSort>
 		                      <title>CONGRES DE BALE</title>
 	                    </titleInfo>
-	                    <name type="personal">
+	                    <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/24603781">
 		                      <displayForm>Louis Laloy</displayForm>
 		                      <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 		                      </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 		                      <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -583,12 +595,14 @@
 		                      <nonSort>LES</nonSort>
 		                      <title>CONCERTS</title>
 	                    </titleInfo>
-	                    <name type="personal">
+	                    <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/24603781">
 		                      <displayForm>Louis Laloy</displayForm>
 		                      <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 		                      </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 		                      <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -617,12 +631,14 @@
 		                      <nonSort>LA</nonSort>
 		                      <title>MUSIQUE A BÉZIERS</title>
 	                    </titleInfo>
-	                    <name type="personal">
+	                    <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/51954866">
 		                      <displayForm>Jean Poueigh</displayForm>
 		                      <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 		                      </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 		                      <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -650,12 +666,12 @@
 	                    <titleInfo lang="fre">
 		                      <title>COURRIER DE SAINT-PÉTERSBOURG</title>
 	                    </titleInfo>
-	                    <name type="personal">
+	                    <mods:name type="personal" authority="viaf" valueURI="">
 		                      <displayForm>A. N</displayForm>
 		                      <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 		                      </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 		                      <languageTerm authority="iso639-2b">fre</languageTerm>
@@ -683,12 +699,14 @@
 	                    <titleInfo lang="fre">
 		                      <title>ÉCHOS.</title>
 	                    </titleInfo>
-	                    <name type="personal">
+	                    <mods:name type="personal"
+                                authority="viaf"
+                                valueURI="http://viaf.org/viaf/22139633">
 		                      <displayForm>Albert Carré</displayForm>
 		                      <role>
 		                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 		                      </role>
-	                    </name>
+	                    </mods:name>
 	                    <typeOfResource>text</typeOfResource>
 	                    <language>
 		                      <languageTerm authority="iso639-2b">fre</languageTerm>
