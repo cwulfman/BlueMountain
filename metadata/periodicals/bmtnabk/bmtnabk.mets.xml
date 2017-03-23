@@ -2,7 +2,7 @@
 <mets xmlns="http://www.loc.gov/METS/"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd"
       TYPE="Periodical"
       OBJID="urn:PUL:bluemountain:bmtnabk">
   <metsHdr>
@@ -32,40 +32,33 @@
   <dmdSec ID="dmd1">
       <mdWrap MDTYPE="MODS">
          <xmlData>
-      	     <mods xmlns="http://www.loc.gov/mods/v3"
-                  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-               <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3" type="ark">ark:/88435/np193c90r</mods:identifier>
+      <mods xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+               <identifier type="ark">ark:/88435/np193c90r</identifier>
 	              <identifier type="bmtn">urn:PUL:bluemountain:bmtnabk</identifier>
-	              <titleInfo>
+	              <titleInfo usage="primary">
 	                 <title>Umělecký měsíčník</title>
 	              </titleInfo>
-	              <mods:name xmlns:local="http://diglib.princeton.edu"
-                          xmlns:mods="http://www.loc.gov/mods/v3"
-                          type="personal">
+	              <name type="personal">
 	                 <namePart> Čapek, Josef</namePart>
 	                 <namePart type="date">1887-1945</namePart>
 	                 <role>
                      <roleTerm type="text">editor.</roleTerm>
 	                 </role>
-	              </mods:name>
-	              <mods:name xmlns:local="http://diglib.princeton.edu"
-                          xmlns:mods="http://www.loc.gov/mods/v3"
-                          type="personal">
+	              </name>
+	              <name type="personal">
 	                 <namePart> Janák, Pavel</namePart>
 	                 <namePart type="date">1882-1956</namePart>
 	                 <role>
                      <roleTerm type="text">editor.</roleTerm>
 	                 </role>
-	              </mods:name>
-	              <mods:name xmlns:local="http://diglib.princeton.edu"
-                          xmlns:mods="http://www.loc.gov/mods/v3"
-                          type="personal">
+	              </name>
+	              <name type="personal">
 	                 <namePart> Langer, František</namePart>
 	                 <namePart type="date"> 1888-1965</namePart>
 	                 <role>
                      <roleTerm type="text">editor.</roleTerm>
 	                 </role>
-	              </mods:name>
+	              </name>
 	              <typeOfResource>text</typeOfResource>
 	              <genre authority="bmtn">Periodicals-Title</genre>
 	              <genre authority="marcgt">periodical</genre>

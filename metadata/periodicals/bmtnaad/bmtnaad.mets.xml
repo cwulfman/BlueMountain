@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/"
-      xmlns:mods="http://www.loc.gov/mods/v3"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
@@ -32,7 +31,8 @@
   <dmdSec ID="dmd1">
     <mdWrap MDTYPE="MODS">
       <xmlData>
-	<mods>
+	<mods xmlns="http://www.loc.gov/mods/v3"
+	      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
           <identifier type="ark">ark:/88435/wp988n45z</identifier>
 	  <identifier type="bmtn">urn:PUL:bluemountain:bmtnaad</identifier>
 	  <titleInfo usage="primary">
@@ -41,7 +41,7 @@
 	    <subTitle>journal transparent</subTitle>
 	  </titleInfo>
 	  <titleInfo>
-	    <nonSort>Le </nonSort>
+	    <nonSort>Le</nonSort>
 	    <title>cœur à barbe</title>
 	    <subTitle>journal transparent</subTitle>
 	  </titleInfo>

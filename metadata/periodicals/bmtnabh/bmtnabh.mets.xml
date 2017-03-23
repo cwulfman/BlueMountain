@@ -2,7 +2,7 @@
 <mets xmlns="http://www.loc.gov/METS/"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd"
       TYPE="Periodical"
       OBJID="urn:PUL:bluemountain:bmtnabh">
   <metsHdr>
@@ -32,13 +32,10 @@
   <dmdSec ID="dmd1">
       <mdWrap MDTYPE="MODS">
          <xmlData>
-	           <mods xmlns="http://www.loc.gov/mods/v3"
-                  xmlns:marc="http://www.loc.gov/MARC21/slim"
-                  xmlns:mods="http://www.loc.gov/mods/v3"
-                  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
-               <mods:identifier type="ark">ark:/88435/7w62fb91h</mods:identifier>
+	   <mods xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+               <identifier type="ark">ark:/88435/7w62fb91h</identifier>
 	              <identifier type="bmtn">urn:PUL:bluemountain:bmtnabh</identifier>
-	              <titleInfo>
+	              <titleInfo usage="primary">
 	                 <title>S.I.M. revue musicale mensuelle</title>
 	              </titleInfo>
 	              <titleInfo type="alternative">
@@ -47,12 +44,12 @@
 	              <titleInfo type="alternative">
 	                 <title>Revue musicale mensuelle</title>
 	              </titleInfo>
-	              <mods:name xmlns:local="http://diglib.princeton.edu" type="corporate">
+	              <name type="corporate">
 	                 <namePart>International Musical Society</namePart>
-	              </mods:name>
-	              <mods:name xmlns:local="http://diglib.princeton.edu" type="corporate">
+	              </name>
+	              <name type="corporate">
 	                 <namePart>Société française des amis de la musique</namePart>
-	              </mods:name>
+	              </name>
 	              <typeOfResource>text</typeOfResource>
 	              <genre authority="fast">Periodicals.</genre>
 	              <genre authority="bmtn">Periodicals-Title</genre>

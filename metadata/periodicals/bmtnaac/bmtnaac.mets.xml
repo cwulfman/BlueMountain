@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/"
-      xmlns:mods="http://www.loc.gov/mods/v3"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd"
       TYPE="Periodical"
       OBJID="urn:PUL:bluemountain:bmtnaac">
   <metsHdr>
@@ -17,7 +16,7 @@
   <dmdSec ID="dmd1">
     <mdWrap MDTYPE="MODS">
       <xmlData>
-	<mods>
+	<mods xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
           <identifier type="ark">ark:/88435/1831cn60z</identifier>
 	  <identifier type="bmtn">urn:PUL:bluemountain:bmtnaac</identifier>
 	  <titleInfo usage="primary">
@@ -26,7 +25,7 @@
 	    <subTitle>urbanisme, architecture, art public : revue mensuelle</subTitle>
 	  </titleInfo>
 	  <titleInfo>
-	    <nonSort>La </nonSort>
+	    <nonSort>La</nonSort>
 	    <title>Cité</title>
 	    <subTitle>urbanisme, architecture, art public : revue mensuelle</subTitle>
 	  </titleInfo>
@@ -39,11 +38,9 @@
 	  <titleInfo type="alternative">
 	    <title>Cité &amp;Tekhné août 1930-</title>
 	  </titleInfo>
-	  <mods:name xmlns:local="http://diglib.princeton.edu"
-                     xmlns:mods="http://www.loc.gov/mods/v3"
-                     type="corporate">
+	  <name xmlns:local="http://diglib.princeton.edu" type="corporate">
 	    <namePart>Société belge des urbanistes et architectes modernistes</namePart>
-	  </mods:name>
+	  </name>
 	  <typeOfResource>text</typeOfResource>
 	  <genre authority="bmtn">Periodicals-Title</genre>
 	  <genre authority="marcgt">periodical</genre>

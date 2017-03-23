@@ -2,7 +2,7 @@
 <mets xmlns="http://www.loc.gov/METS/"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd"
       TYPE="Periodical"
       OBJID="urn:PUL:bluemountain:bmtnaba">
   <metsHdr>
@@ -32,31 +32,25 @@
   <dmdSec ID="dmd1">
       <mdWrap MDTYPE="MODS">
          <xmlData>
-	           <mods xmlns="http://www.loc.gov/mods/v3" version="3.4">
-               <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3" type="ark">ark:/88435/js956j48s</mods:identifier>
+      <mods xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+               <identifier xmlns:mods="http://www.loc.gov/mods/v3" type="ark">ark:/88435/js956j48s</identifier>
 	              <identifier type="bmtn">urn:PUL:bluemountain:bmtnaba</identifier>
-	              <titleInfo>
-	                 <nonSort>The </nonSort>
+	              <titleInfo usage="primary">
+	                 <nonSort>The</nonSort>
 	                 <title>Signature</title>
 	              </titleInfo>
-	              <mods:name xmlns:local="http://diglib.princeton.edu"
-                          xmlns:mods="http://www.loc.gov/mods/v3"
-                          type="personal">
+	              <name type="personal">
 	                 <namePart>Lawrence, D. H. (David Herbert)</namePart>
 	                 <namePart type="date">1885-1930</namePart>
-	              </mods:name>
-	              <mods:name xmlns:local="http://diglib.princeton.edu"
-                          xmlns:mods="http://www.loc.gov/mods/v3"
-                          type="personal">
+	              </name>
+	              <name type="personal">
 	                 <namePart>Mansfield, Katherine</namePart>
 	                 <namePart type="date">1888-1923</namePart>
-	              </mods:name>
-	              <mods:name xmlns:local="http://diglib.princeton.edu"
-                          xmlns:mods="http://www.loc.gov/mods/v3"
-                          type="personal">
+	              </name>
+	              <name type="personal">
 	                 <namePart>Murry, John Middleton</namePart>
 	                 <namePart type="date">1889-1957</namePart>
-	              </mods:name>
+	              </name>
 	              <typeOfResource>text</typeOfResource>
 	              <genre authority="bmtn">Periodicals-Title</genre>
 	              <genre authority="marcgt">periodical</genre>
@@ -67,8 +61,8 @@
 	                 <place>
                      <placeTerm type="text">London</placeTerm>
 	                 </place>
-	                 <publisher>[The Signature</publisher>
-	                 <dateIssued>1915]</dateIssued>
+	                 <publisher>The Signature</publisher>
+	                 <dateIssued>1915</dateIssued>
 	                 <dateIssued encoding="marc" point="start">1915</dateIssued>
 	                 <dateIssued encoding="marc" point="end">1915</dateIssued>
 	                 <issuance>serial</issuance>
