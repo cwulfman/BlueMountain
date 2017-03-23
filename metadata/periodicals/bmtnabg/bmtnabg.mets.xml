@@ -142,7 +142,12 @@
   <mdRef LOCTYPE="URN" MDTYPE="MODS" MIMETYPE="application/xml" xlink:href="urn:PUL:bluemountain:dmd:bmtnabg"/>
 </dmdSec>
 <fileSec>
-  <fileGrp/>
+  <fileSec>
+      <file ID="title_thumbnail">
+        <FLocat LOCTYPE="URL"
+		xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnabg/issues/1910/03/03_01/delivery/bmtnabg_1910-03-03_01_0001.jp2"/>
+      </file>
+  </fileSec>
 </fileSec>
 <structMap>
   <div/>

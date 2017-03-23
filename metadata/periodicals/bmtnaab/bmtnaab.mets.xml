@@ -153,15 +153,8 @@
     </mdWrap>
   </dmdSec>
   <fileSec>
-    <fileGrp ID="THUMBNAIL" USE="Thumbnails">
-      <file ID="IMG00001"
-            GROUPID="thumbnail"
-            CREATED="2013-03-06T16:42:03"
-            MIMETYPE="image/jp2"
-            SEQ="1"
-            CHECKSUM="f4d686890d49f7ca9f6e6a63b06ba98d3153a321"
-            CHECKSUMTYPE="SHA-1"
-            SIZE="4792302">
+    <fileGrp ID="THUMBNAILS" USE="Thumbnails">
+      <file ID="title_thumbnail">
         <FLocat LOCTYPE="URL"
                 xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnaab/issues/1920/02_01/delivery/bmtnaab_1920-02_01_0001.jp2"/>
       </file>

@@ -147,7 +147,12 @@
   <mdRef LOCTYPE="URN" MDTYPE="MODS" MIMETYPE="application/xml" xlink:href="urn:PUL:bluemountain:dmd:bmtnaaz"/>
 </dmdSec>
 <fileSec>
-  <fileGrp/>
+    <fileGrp ID="THUMBNAILS" USE="Thumbnails">
+      <file ID="title_thumbnail">
+        <FLocat LOCTYPE="URL"
+		xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/01_01/delivery/bmtnaaz_1916-01_01_0001.jp2"/>
+      </file>
+    </fileGrp>
 </fileSec>
 <structMap>
   <div/>

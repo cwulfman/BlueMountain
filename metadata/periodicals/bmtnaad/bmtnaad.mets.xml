@@ -2,7 +2,7 @@
 <mets xmlns="http://www.loc.gov/METS/"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd"
       TYPE="Periodical"
       OBJID="urn:PUL:bluemountain:bmtnaad">
   <metsHdr>
@@ -153,7 +153,12 @@
            xlink:href="urn:PUL:bluemountain:dmd:bmtnaad"/>
   </dmdSec>
   <fileSec>
-    <fileGrp/>
+    <fileGrp ID="THUMBNAIL" USE="Thumbnails">
+         <file ID="title_thumbnail">
+            <FLocat LOCTYPE="URL"
+                    xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnaad/issues/1922/04_01/delivery/bmtnaad_1922-04_01_0001.jp2"/>
+         </file>
+    </fileGrp>
   </fileSec>
   <structMap>
     <div/>

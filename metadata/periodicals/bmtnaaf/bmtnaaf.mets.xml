@@ -146,7 +146,12 @@
            xlink:href="urn:PUL:bluemountain:dmd:bmtnaaf"/>
   </dmdSec>
   <fileSec>
-    <fileGrp/>
+    <fileGrp ID="THUMBNAILS" USE="Thumbnails">
+      <file ID="title_thumbnail">
+        <FLocat LOCTYPE="URL"
+                xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaf/issues/1915/04/15_01/delivery/bmtnaaf_1915-04-15_01_0001.jp2"/>
+      </file>
+    </fileGrp>
   </fileSec>
   <structMap>
     <div/>
