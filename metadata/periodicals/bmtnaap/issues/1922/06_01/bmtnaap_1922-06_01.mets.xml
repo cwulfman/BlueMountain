@@ -17,7 +17,7 @@
       <mdWrap MDTYPE="MODS">
          <xmlData>
             <mods xmlns="http://www.loc.gov/mods/v3">
-               <mods:identifier type="ark">ark:/88435/cv43p046m</mods:identifier>
+               <identifier type="ark">ark:/88435/cv43p046m</identifier>
                <recordInfo>
                   <recordIdentifier>urn:PUL:bluemountain:dmd:bmtnaap_1922-06_01</recordIdentifier>
                </recordInfo>
@@ -59,14 +59,14 @@
                </relatedItem>
                <relatedItem type="constituent" ID="c001">
                   <titleInfo lang="eng">
-                     <mods:title>Untitled Image</mods:title>
+                     <title>Untitled Image</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">Ladislaw Medges</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal">
+                     <displayForm>Ladislaw Medges</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -107,13 +107,13 @@
                   <titleInfo lang="eng">
                      <title>Hymn from a Watermelon Pavilion</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/61562486">
                      <displayForm>Wallace Stevens</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -129,20 +129,20 @@
                   <titleInfo lang="eng">
                      <title>Six Characters in Search of an Author</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/64010465">
                      <displayForm>Luigi Pirandello</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  </name>
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/56673517">
                      <displayForm>Edward Storer</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">trl</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -159,13 +159,13 @@
                      <nonSort>A</nonSort>
                      <title>Last Word</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/72954210">
                      <displayForm>Henry Bellaman</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -181,13 +181,13 @@
                   <titleInfo lang="eng">
                      <title>Hedges</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/72954210">
                      <displayForm>Henry Bellaman</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -203,13 +203,13 @@
                   <titleInfo lang="eng">
                      <title>Jacques Lipchitz and My Portrait Bust</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/12306661">
                      <displayForm>Jean Cocteau</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -225,13 +225,13 @@
                   <titleInfo lang="eng">
                      <title>Jean Cocteau</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/17231680">
                      <displayForm>Lipchitz</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -244,13 +244,13 @@
                   <titleInfo lang="eng">
                      <title>Improvisations : Lights and Snow</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/71433883">
                      <displayForm>Conrad Aiken</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -266,13 +266,13 @@
                   <titleInfo lang="eng">
                      <title>Sculpture</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/17231680">
                      <displayForm>Lipchitz</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -285,13 +285,13 @@
                   <titleInfo lang="eng">
                      <title>Sculpture</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/17231680">
                      <displayForm>Lipchitz</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -320,13 +320,13 @@
                   <titleInfo lang="eng">
                      <title>Sculpture</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/17231680">
                      <displayForm>Lipchitz</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -339,13 +339,13 @@
                   <titleInfo lang="eng">
                      <title>Murder</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/39413836">
                      <displayForm>Waldo Frank</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -361,13 +361,13 @@
                   <titleInfo lang="eng">
                      <title>Stars at Tallapoosa</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/61562486">
                      <displayForm>Wallace Stevens</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -383,13 +383,13 @@
                   <titleInfo lang="eng">
                      <title>Conversations</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/17292949">
                      <displayForm>S. Foster Damon</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -405,13 +405,13 @@
                   <titleInfo lang="eng">
                      <title>Voyage</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/17292949">
                      <displayForm>S. Foster Damon</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -427,13 +427,13 @@
                   <titleInfo lang="eng">
                      <title>All Is One</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/112138782">
                      <displayForm>Martin Armstrong</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -450,13 +450,13 @@
                      <nonSort>The</nonSort>
                      <title>Apollo Of Veii</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/56673517">
                      <displayForm>Edward Storer</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -497,13 +497,13 @@
                   <titleInfo lang="eng">
                      <title>If You Had Three Husbands</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/22149082">
                      <displayForm>Gertrude Stein</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -519,13 +519,13 @@
                   <titleInfo lang="eng">
                      <title>Waste</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/23609771">
                      <displayForm>Lola Ridge</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -541,13 +541,13 @@
                   <titleInfo lang="eng">
                      <title>Gold</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/56673517">
                      <displayForm>Edward Storer</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -563,13 +563,13 @@
                   <titleInfo lang="eng">
                      <title>Broken Image</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/56673517">
                      <displayForm>Edward Storer</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -585,13 +585,13 @@
                   <titleInfo lang="eng">
                      <title>By The Shore</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/56673517">
                      <displayForm>Edward Storer</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -607,13 +607,13 @@
                   <titleInfo lang="eng">
                      <title>Dreams</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/56673517">
                      <displayForm>Edward Storer</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -629,13 +629,13 @@
                   <titleInfo lang="eng">
                      <title>Illusion</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/56673517">
                      <displayForm>Edward Storer</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -652,13 +652,13 @@
                      <nonSort>The</nonSort>
                      <title>Limbo Of American Literature</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/5305985">
                      <displayForm>Gorham B. Munson</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -674,13 +674,13 @@
                   <titleInfo lang="eng">
                      <title>Dedicated To The Enemy</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/100201551">
                      <displayForm>Gordon Craig</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -696,13 +696,13 @@
                   <titleInfo lang="eng">
                      <title>Made In America</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/41833206">
                      <displayForm>Matthew Josephson</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>

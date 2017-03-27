@@ -21,7 +21,7 @@
       <mdWrap MDTYPE="MODS">
          <xmlData>
             <mods xmlns="http://www.loc.gov/mods/v3">
-               <mods:identifier type="ark">ark:/88435/0k225d70h</mods:identifier>
+               <identifier type="ark">ark:/88435/0k225d70h</identifier>
                <recordInfo>
                   <recordIdentifier>urn:PUL:bluemountain:dmd:bmtnaap_1922-09_01</recordIdentifier>
                </recordInfo>
@@ -66,7 +66,7 @@
                   <titleInfo lang="eng">
                      <title>Cover Design (Woodcut)</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/49245334">
@@ -74,7 +74,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -102,7 +102,7 @@
                   <titleInfo lang="eng">
                      <title>Vitrion</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/40169930">
@@ -110,8 +110,8 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  </name>
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/42658549">
@@ -119,7 +119,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">trl</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -136,7 +136,7 @@
                      <title>Sleep</title>
                   </titleInfo>
                   <typeOfResource>text</typeOfResource>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/66850873">
@@ -144,7 +144,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
                   </language>
@@ -171,7 +171,7 @@
                   <titleInfo lang="eng">
                      <title>Little Birds and Old Men</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/66850873">
@@ -179,7 +179,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -260,12 +260,12 @@
                   <titleInfo lang="eng">
                      <title>Animals</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">Karl With</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal">
+                     <displayForm>Karl With</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -282,13 +282,13 @@
                      <nonSort>A</nonSort>
                      <title>Toast to Ourselves</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">Vadim Shershenyevitch</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal">
+                     <displayForm>Vadim Shershenyevitch</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  </name>
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/42658549">
@@ -296,7 +296,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">trl</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -314,7 +314,7 @@
                      <title>Lay of Maldoror</title>
                      <partName>Selection from Second Canto</partName>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/6065">
@@ -322,8 +322,8 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  </name>
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/117308892">
@@ -331,7 +331,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">trl</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -373,7 +373,7 @@
                   <titleInfo lang="eng">
                      <title>Poems in Prose</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/61551365">
@@ -381,8 +381,8 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  </name>
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/41833206">
@@ -390,7 +390,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">trl</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -419,7 +419,7 @@
                      <nonSort>The</nonSort>
                      <title>Mysticism of Money</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/278935970">
@@ -427,7 +427,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -443,7 +443,7 @@
                   <titleInfo lang="eng">
                      <title>Etchings</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/13862660">
@@ -451,7 +451,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -467,12 +467,12 @@
                   <titleInfo lang="eng">
                      <title>Poplars</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">Kathryn White Ryan</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal">
+                     <displayForm>Kathryn White Ryan</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -488,12 +488,12 @@
                   <titleInfo lang="eng">
                      <title>Earth</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">Kathryn White Ryan</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal">
+                     <displayForm>Kathryn White Ryan</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -521,7 +521,7 @@
                   <titleInfo lang="eng">
                      <title>Battle of Flowers</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/13312733">
@@ -529,8 +529,8 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  </name>
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/56673517">
@@ -538,7 +538,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">trl</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -554,7 +554,7 @@
                   <titleInfo lang="eng">
                      <title>Aphorisms</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/41875982">
@@ -562,7 +562,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -578,12 +578,12 @@
                   <titleInfo lang="eng">
                      <title>Morning Walks in the City</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">I. Schneider</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal">
+                     <displayForm>I. Schneider</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -600,7 +600,7 @@
                      <title>One Thousand and One Nights in a Bar-Room</title>
                      <subTitle>or the Irish Odysseus</subTitle>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/41833206">
@@ -608,7 +608,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -625,7 +625,7 @@
                   <titleInfo lang="eng">
                      <title>Natural Things</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/45096102">
@@ -633,7 +633,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -649,7 +649,7 @@
                   <titleInfo lang="eng">
                      <title>Factory Chimneys at Daybreak</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/32003575">
@@ -657,8 +657,8 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  </name>
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/10624494">
@@ -666,7 +666,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">trl</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -682,12 +682,12 @@
                   <titleInfo lang="eng">
                      <title>Paintìng, Past and Present</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">De Fayet</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal">
+                     <displayForm>De Fayet</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>

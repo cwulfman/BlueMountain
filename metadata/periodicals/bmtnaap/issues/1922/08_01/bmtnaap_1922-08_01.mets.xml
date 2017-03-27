@@ -21,7 +21,7 @@
       <mdWrap MDTYPE="MODS">
          <xmlData>
             <mods xmlns="http://www.loc.gov/mods/v3">
-               <mods:identifier type="ark">ark:/88435/4b29b864p</mods:identifier>
+               <identifier type="ark">ark:/88435/4b29b864p</identifier>
                <recordInfo>
                   <recordIdentifier>urn:PUL:bluemountain:dmd:bmtnaap_1922-08_01</recordIdentifier>
                </recordInfo>
@@ -66,7 +66,7 @@
                   <titleInfo lang="eng">
                      <title>Cover Design</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/100272527">
@@ -74,7 +74,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -102,7 +102,7 @@
                   <titleInfo lang="eng">
                      <title>Exordium to Ducasse</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/41833206">
@@ -110,7 +110,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -127,7 +127,7 @@
                      <nonSort>The</nonSort>
                      <title>Lay of Maldoror</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/6065">
@@ -135,8 +135,8 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  </name>
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/117308892">
@@ -144,7 +144,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">trl</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -160,7 +160,7 @@
                   <titleInfo lang="eng">
                      <title>Woodcut</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/100180950">
@@ -168,7 +168,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -181,12 +181,12 @@
                   <titleInfo lang="eng">
                      <title>NOVEMBERLEVENTH</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">James Daly</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal">
+                     <displayForm>James Daly</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -202,7 +202,7 @@
                   <titleInfo lang="eng">
                      <title>Woodcut</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/2469239">
@@ -210,7 +210,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -223,7 +223,7 @@
                   <titleInfo lang="eng">
                      <title>French Letters and the War</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/100209825">
@@ -231,7 +231,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -247,7 +247,7 @@
                   <titleInfo lang="eng">
                      <title>Woodcut</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/100180950">
@@ -255,7 +255,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -268,7 +268,7 @@
                   <titleInfo lang="eng">
                      <title>Woodcut</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/100180950">
@@ -276,7 +276,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -289,7 +289,7 @@
                   <titleInfo lang="eng">
                      <title>Of a Day</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/51773371">
@@ -297,7 +297,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -313,7 +313,7 @@
                   <titleInfo lang="eng">
                      <title>Drifting Deer</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/51773371">
@@ -321,7 +321,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -337,7 +337,7 @@
                   <titleInfo lang="eng">
                      <title>Woodcut</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/100180950">
@@ -345,7 +345,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -358,7 +358,7 @@
                   <titleInfo lang="eng">
                      <title>At 125 Boulevard St. Germain</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/90640237">
@@ -366,8 +366,8 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  </name>
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/41833206">
@@ -375,7 +375,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">trl</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -391,7 +391,7 @@
                   <titleInfo lang="eng">
                      <title>Woodcut</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/100180950">
@@ -399,7 +399,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -412,7 +412,7 @@
                   <titleInfo lang="eng">
                      <title>Peripatetics VI</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/41833206">
@@ -420,7 +420,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -436,7 +436,7 @@
                   <titleInfo lang="eng">
                      <title>Woodcut</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/100180950">
@@ -444,7 +444,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -458,7 +458,7 @@
                      <title>Vegetable Classic</title>
                      <subTitle>To H. G.</subTitle>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/41833206">
@@ -466,7 +466,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -482,7 +482,7 @@
                   <titleInfo lang="eng">
                      <title>Woodcut</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/2469239">
@@ -490,7 +490,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -504,7 +504,7 @@
                      <title>Six Characters in Search of an Author</title>
                      <partName>ACT III</partName>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/64010465">
@@ -512,8 +512,8 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  </name>
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/56673517">
@@ -521,7 +521,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -537,7 +537,7 @@
                   <titleInfo lang="eng">
                      <title>Woodcut</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/100180950">
@@ -545,7 +545,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -558,7 +558,7 @@
                   <titleInfo lang="eng">
                      <title>Hula-Hula</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/29542054">
@@ -566,7 +566,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -582,7 +582,7 @@
                   <titleInfo lang="eng">
                      <title>Woodcut</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/100180950">
@@ -590,7 +590,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -603,7 +603,7 @@
                   <titleInfo lang="eng">
                      <title>Woodcut</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/2469239">
@@ -611,7 +611,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -624,7 +624,7 @@
                   <titleInfo lang="eng">
                      <title>At the Doors</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/29539221">
@@ -632,8 +632,8 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  </name>
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/42658549">
@@ -641,7 +641,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">trl</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -657,7 +657,7 @@
                   <titleInfo lang="eng">
                      <title>Woodcut</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/100180950">
@@ -665,7 +665,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -678,7 +678,7 @@
                   <titleInfo lang="eng">
                      <title>Woodcut</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/2469239">
@@ -686,7 +686,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -700,12 +700,12 @@
                      <nonSort>Les</nonSort>
                      <title>Noces de Clyte</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">John Crawford</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal">
+                     <displayForm>John Crawford</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -722,7 +722,7 @@
                      <nonSort>The</nonSort>
                      <title>Woodpecker</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/56673517">
@@ -730,8 +730,8 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  </name>
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/56673517">
@@ -739,7 +739,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">trl</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -755,12 +755,12 @@
                   <titleInfo lang="eng">
                      <title>Russian Berlin</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">L. L.</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal">
+                     <displayForm>L. L.</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>

@@ -21,7 +21,7 @@
       <mdWrap MDTYPE="MODS">
          <xmlData>
             <mods xmlns="http://www.loc.gov/mods/v3">
-               <mods:identifier type="ark">ark:/88435/r207tr99c</mods:identifier>
+               <identifier type="ark">ark:/88435/r207tr99c</identifier>
                <recordInfo>
                   <recordIdentifier>urn:PUL:bluemountain:dmd:bmtnaap_1922-11_01</recordIdentifier>
                </recordInfo>
@@ -66,12 +66,12 @@
                   <titleInfo lang="eng">
                      <title>Cover Design (woodcut)</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">Ladislas Medgyes</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal">
+                     <displayForm>Ladislas Medgyes</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -99,7 +99,7 @@
                   <titleInfo lang="eng">
                      <title>Photograph</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/88714260">
@@ -107,7 +107,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -121,7 +121,7 @@
                      <title>When All Is Ended</title>
                      <subTitle>A Story with a Moral</subTitle>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/8178518">
@@ -129,8 +129,8 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  </name>
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/41833206">
@@ -138,7 +138,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">trl</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -154,7 +154,7 @@
                   <titleInfo lang="eng">
                      <title>Untitled Woodcut</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/295433813">
@@ -162,7 +162,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -175,7 +175,7 @@
                   <titleInfo lang="eng">
                      <title>Valuta</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/91308069">
@@ -183,7 +183,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -199,7 +199,7 @@
                   <titleInfo lang="eng">
                      <title>Untitled Woodcut</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/295433813">
@@ -207,7 +207,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -220,7 +220,7 @@
                   <titleInfo lang="eng">
                      <title>Photography and the New God</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/88714260">
@@ -228,7 +228,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -243,7 +243,7 @@
                      <titleInfo lang="eng">
                         <title>Untitled Photograph</title>
                      </titleInfo>
-                     <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                     <name
                                 type="personal"
                                 authority="viaf"
                                 valueURI="http://viaf.org/viaf/88714260">
@@ -251,7 +251,7 @@
                         <role>
                            <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                         </role>
-                     </mods:name>
+                     </name>
                      <typeOfResource>still image</typeOfResource>
                      <part>
                         <extent unit="page">
@@ -264,7 +264,7 @@
                      <titleInfo lang="eng">
                         <title>Untitled Photograph</title>
                      </titleInfo>
-                     <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                     <name
                                 type="personal"
                                 authority="viaf"
                                 valueURI="http://viaf.org/viaf/88714260">
@@ -272,7 +272,7 @@
                         <role>
                            <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                         </role>
-                     </mods:name>
+                     </name>
                      <typeOfResource>still image</typeOfResource>
                      <part>
                         <extent unit="page">
@@ -286,7 +286,7 @@
                   <titleInfo lang="eng">
                      <title>Apocalyptic Harvest</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/51773371">
@@ -294,7 +294,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -310,7 +310,7 @@
                   <titleInfo lang="eng">
                      <title>Stravrogin's Confession</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/104023256">
@@ -318,8 +318,8 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  </name>
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/89861303">
@@ -327,7 +327,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">trl</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -343,7 +343,7 @@
                   <titleInfo lang="eng">
                      <title>Untitled Photograph</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/88714260">
@@ -351,7 +351,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -364,7 +364,7 @@
                   <titleInfo lang="eng">
                      <title>Untitled Photograph</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/88714260">
@@ -372,7 +372,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -385,7 +385,7 @@
                   <titleInfo lang="eng">
                      <title>On English and French Fiction</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/61558452">
@@ -393,7 +393,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -409,12 +409,12 @@
                   <titleInfo lang="eng">
                      <title>Macabre</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">James Daly</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal">
+                     <displayForm>James Daly</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -430,12 +430,12 @@
                   <titleInfo lang="eng">
                      <title>Crematorium</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">James Daly</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal">
+                     <displayForm>James Daly</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -453,15 +453,15 @@
                      <title>Lay of Maldoror</title>
                      <subTitle>Selections From Third and Fourth Canto</subTitle>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/6065">
                      <displayForm>Comte de Lautréamont</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  </name>
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/117308892">
@@ -469,7 +469,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">trl</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -486,7 +486,7 @@
                      <nonSort>The</nonSort>
                      <title>Flower-Sphynx</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/7386175">
@@ -494,7 +494,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -511,7 +511,7 @@
                      <nonSort>The</nonSort>
                      <title>Great American Billposter</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/41833206">
@@ -519,7 +519,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>

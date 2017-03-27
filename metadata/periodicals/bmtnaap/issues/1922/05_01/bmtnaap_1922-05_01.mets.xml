@@ -17,7 +17,7 @@
       <mdWrap MDTYPE="MODS">
          <xmlData>
             <mods xmlns="http://www.loc.gov/mods/v3">
-               <mods:identifier type="ark">ark:/88435/hh63sz56m</mods:identifier>
+               <identifier type="ark">ark:/88435/hh63sz56m</identifier>
                <recordInfo>
                   <recordIdentifier>urn:PUL:bluemountain:dmd:bmtnaap_1922-05_01</recordIdentifier>
                </recordInfo>
@@ -61,12 +61,12 @@
                   <titleInfo lang="eng">
                      <title>Cover Design</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">Kawashima</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal">
+                     <displayForm>Kawashima</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -94,13 +94,13 @@
                   <titleInfo lang="eng">
                      <title>Four Steichen Prints</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/61588662">
                      <displayForm>Carl Sandburg</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -116,13 +116,13 @@
                   <titleInfo lang="eng">
                      <title>Porto Longone — Elba</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/24874360">
                      <displayForm>Richard Seewald</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -135,13 +135,13 @@
                   <titleInfo lang="eng">
                      <title>Marche Funèbre</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/66850873">
                      <displayForm>Lawrence Vail</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -156,13 +156,13 @@
                      <titleInfo lang="eng">
                         <title>Untitled Woodcut</title>
                      </titleInfo>
-                     <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal"
+                     <name type="personal"
                         authority="viaf" valueURI="http://viaf.org/viaf/19762459">
                         <displayForm>E. Prampolini</displayForm>
                         <role>
                            <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                         </role>
-                     </mods:name>
+                     </name>
                      <typeOfResource>still image</typeOfResource>
                      <part>
                         <extent unit="page">
@@ -175,13 +175,13 @@
                      <titleInfo lang="eng">
                         <title>Untitled Woodcut</title>
                      </titleInfo>
-                     <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal"
+                     <name type="personal"
                         authority="viaf" valueURI="http://viaf.org/viaf/19762459">
                         <displayForm>E. Prampolini</displayForm>
                         <role>
                            <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                         </role>
-                     </mods:name>
+                     </name>
                      <typeOfResource>still image</typeOfResource>
                      <part>
                         <extent unit="page">
@@ -194,13 +194,13 @@
                      <titleInfo lang="eng">
                         <title>Untitled Woodcut</title>
                      </titleInfo>
-                     <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal"
+                     <name type="personal"
                         authority="viaf" valueURI="http://viaf.org/viaf/19762459">
                         <displayForm>E. Prampolini</displayForm>
                         <role>
                            <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                         </role>
-                     </mods:name>
+                     </name>
                      <typeOfResource>still image</typeOfResource>
                      <part>
                         <extent unit="page">
@@ -214,13 +214,13 @@
                   <titleInfo lang="eng">
                      <title>Untitled Woodcut</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/19762459">
                      <displayForm>E. Prampolini</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -234,13 +234,13 @@
                      <nonSort>The</nonSort>
                      <title>Wardrobe with the Mirror Door</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/68929740">
                      <displayForm>Ramón Gómez de la Serna</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -256,13 +256,13 @@
                   <titleInfo lang="eng">
                      <title>Untitled Woodcut</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/19762459">
                      <displayForm>E. Prampolini</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -276,13 +276,13 @@
                      <nonSort>The</nonSort>
                      <title>Son that I Would Have Had</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/68929740">
                      <displayForm>Ramón Gómez de la Serna</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -298,13 +298,13 @@
                   <titleInfo lang="eng">
                      <title>One Hundred Envelopes</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/68929740">
                      <displayForm>Ramón Gómez de la Serna</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -320,13 +320,13 @@
                   <titleInfo lang="eng">
                      <title>Untitled Woodcut</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/19762459">
                      <displayForm>E. Prampolini</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -340,13 +340,13 @@
                      <nonSort>The</nonSort>
                      <title>Poets and the Housewife</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/112138782">
                      <displayForm>Martin Armstrong</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -361,13 +361,13 @@
                      <titleInfo lang="eng">
                         <title>Untitled Woodcut</title>
                      </titleInfo>
-                     <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal"
+                     <name type="personal"
                         authority="viaf" valueURI="http://viaf.org/viaf/19762459">
                         <displayForm>E. Prampolini</displayForm>
                         <role>
                            <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                         </role>
-                     </mods:name>
+                     </name>
                      <typeOfResource>still image</typeOfResource>
                      <part>
                         <extent unit="page">
@@ -381,13 +381,13 @@
                   <titleInfo lang="eng">
                      <title>Monkey Island</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/46799598">
                      <displayForm>Robert Musil</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -403,13 +403,13 @@
                   <titleInfo lang="eng">
                      <title>Untitled Woodcut</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/19762459">
                      <displayForm>E. Prampolini</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -422,13 +422,13 @@
                   <titleInfo lang="eng">
                      <title>Untitled Woodcut</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/19762459">
                      <displayForm>E. Prampolini</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -441,13 +441,13 @@
                   <titleInfo lang="eng">
                      <title>Untitled Woodcut</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/19762459">
                      <displayForm>E. Prampolini</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -460,13 +460,13 @@
                   <titleInfo lang="eng">
                      <title>Tanglefoot</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/46799598">
                      <displayForm>Robert Musil</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -483,13 +483,13 @@
                      <nonSort>The</nonSort>
                      <title>Mouse in the Fodara Vedla</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/46799598">
                      <displayForm>Robert Musil</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -502,7 +502,7 @@
                   <genre type="CCS">TextContent</genre>
                   <relatedItem type="constituent" ID="c023">
                      <titleInfo lang="eng">
-                        <mods:title>Untitled Image</mods:title>
+                        <title>Untitled Image</title>
                      </titleInfo>
                      <typeOfResource>still image</typeOfResource>
                      <part>
@@ -518,12 +518,12 @@
                      <nonSort>The</nonSort>
                      <title>Snow Man</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">Donald Corley</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal">
+                     <displayForm>Donald Corley</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -539,13 +539,13 @@
                   <titleInfo lang="eng">
                      <title>Untitled Woodcut</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/19762459">
                      <displayForm>E. Prampolini</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -558,13 +558,13 @@
                   <titleInfo lang="eng">
                      <title>Four Etudes</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/41833206">
                      <displayForm>Matthew Josephson</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -580,13 +580,13 @@
                   <titleInfo lang="eng">
                      <title>George Moore, Aesthete</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/61562401">
                      <displayForm>Marianne Moore</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -602,13 +602,13 @@
                   <titleInfo lang="eng">
                      <title>Sailboats</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/24874360">
                      <displayForm>Richard Seewald</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -621,13 +621,13 @@
                   <titleInfo lang="eng">
                      <title>Mountain Farm</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/91308069">
                      <displayForm>Malcolm Cowley</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -644,13 +644,13 @@
                      <nonSort>The</nonSort>
                      <title>Rakeoff and the Getaway</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/61588662">
                      <displayForm>Carl Sandburg</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -666,13 +666,13 @@
                   <titleInfo lang="eng">
                      <title>Ascona</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/24874360">
                      <displayForm>Richard Seewald</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -685,18 +685,18 @@
                   <titleInfo lang="eng">
                      <title>He Deceived Her</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">Prána Srámek</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal">
+                     <displayForm>Prána Srámek</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">P. Silver</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  </name>
+                  <name type="personal">
+                     <displayForm>P. Silver</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">trl</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -712,12 +712,12 @@
                   <titleInfo lang="eng">
                      <title>Woodcut</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">Joseph Huber</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal">
+                     <displayForm>Joseph Huber</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -730,13 +730,13 @@
                   <titleInfo lang="eng">
                      <title>Three United States Sonnets</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/12306931">
                      <displayForm>E. E. Cummings</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -752,13 +752,13 @@
                   <titleInfo lang="eng">
                      <title>Heavens</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/39541598">
                      <displayForm>Louis Untermeyer</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <!--<titleInfo lang="eng">
        <title>SECOND INTERMISSION</title>
       </titleInfo>-->
@@ -830,18 +830,18 @@
                   <titleInfo lang="eng">
                      <title>October</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">Anatoly Maryngoff</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal">
+                     <displayForm>Anatoly Maryngoff</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">L. Lozowick</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  </name>
+                  <name type="personal">
+                     <displayForm>L. Lozowick</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">trl</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -857,13 +857,13 @@
                   <titleInfo lang="eng">
                      <title>Village Street with Cat</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/24874360">
                      <displayForm>Richard Seewald</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -876,19 +876,19 @@
                   <titleInfo lang="eng">
                      <title>Petals</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/120783691">
                      <displayForm>Wilhelm Klemm</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">Olive Sclarf</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  </name>
+                  <name type="personal">
+                     <displayForm>Olive Sclarf</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">trl</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -904,19 +904,19 @@
                   <titleInfo lang="eng">
                      <title>Rain</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/120783691">
                      <displayForm>Wilhelm Klemm</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">Olive Sclarf</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  </name>
+                  <name type="personal">
+                     <displayForm>Olive Sclarf</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">trl</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -932,13 +932,13 @@
                   <titleInfo lang="eng">
                      <title>Modern German Literature</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/19674449">
                      <displayForm>Franz Blei</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -954,13 +954,13 @@
                   <titleInfo lang="eng">
                      <title>Foreign Exchange</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal" authority="viaf"
+                  <name type="personal" authority="viaf"
                      valueURI="http://viaf.org/viaf/278935970">
                      <displayForm>H. A. L.</displayForm>
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -991,13 +991,13 @@
                      <titleInfo lang="eng">
                         <title>Untitled Text</title>
                      </titleInfo>
-                     <mods:name xmlns:mets="http://www.loc.gov/METS/" type="personal"
+                     <name type="personal"
                         authority="viaf" valueURI="http://viaf.org/viaf/121657958">
                         <displayForm>Jean Cassou</displayForm>
                         <role>
                            <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                         </role>
-                     </mods:name>
+                     </name>
                      <typeOfResource>text</typeOfResource>
                      <genre type="CCS">TextContent</genre>
                      <language>
@@ -1058,7 +1058,7 @@
                </relatedItem>
                <relatedItem type="constituent" ID="c046">
                   <titleInfo lang="eng">
-                     <mods:title>Broom Logo</mods:title>
+                     <title>Broom Logo</title>
                   </titleInfo>
                   <typeOfResource>still image</typeOfResource>
                   <part>

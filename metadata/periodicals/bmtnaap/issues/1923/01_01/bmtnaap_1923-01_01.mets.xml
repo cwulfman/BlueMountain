@@ -21,7 +21,7 @@
       <mdWrap MDTYPE="MODS">
          <xmlData>
             <mods xmlns="http://www.loc.gov/mods/v3">
-               <mods:identifier type="ark">ark:/88435/gm80hx983</mods:identifier>
+               <identifier type="ark">ark:/88435/gm80hx983</identifier>
                <recordInfo>
                   <recordIdentifier>urn:PUL:bluemountain:dmd:bmtnaap_1923-01_01</recordIdentifier>
                </recordInfo>
@@ -67,7 +67,7 @@
                   <titleInfo lang="eng">
                      <title>Cover Design (Woodcut)</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/295433813">
@@ -75,7 +75,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>still image</typeOfResource>
                   <part>
                      <extent unit="page">
@@ -103,12 +103,12 @@
                   <titleInfo lang="eng">
                      <title>Joke....</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">Holling Allison Clancy</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal">
+                     <displayForm>Holling Allison Clancy</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -124,7 +124,7 @@
                   <titleInfo lang="eng">
                      <title>My Dear Mrs. Wurtelbach</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/100257278">
@@ -132,7 +132,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -148,12 +148,12 @@
                   <titleInfo lang="eng">
                      <title>Stadium Concert</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">Charles Galwey</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal">
+                     <displayForm>Charles Galwey</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -199,7 +199,7 @@
                   <titleInfo lang="eng">
                      <title>Karintha</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/2489741">
@@ -207,7 +207,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -235,12 +235,12 @@
                   <titleInfo lang="eng">
                      <title>Maya Art</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">George Sacken</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal">
+                     <displayForm>George Sacken</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -335,7 +335,7 @@
                      <nonSort>The</nonSort>
                      <title>House of Conover</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/14351251">
@@ -343,7 +343,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -389,7 +389,7 @@
                   <titleInfo lang="eng">
                      <title>Pursuit</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/41833206">
@@ -397,7 +397,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -425,12 +425,12 @@
                   <titleInfo lang="eng">
                      <title>Nigger</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf" valueURI="foo">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">Margaret Evans</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal" authority="viaf">
+                     <displayForm>Margaret Evans</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -459,7 +459,7 @@
                      <title>Symposium</title>
                      <subTitle>The Destruction of Tenochtitlan</subTitle>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/29542054">
@@ -467,7 +467,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -480,7 +480,7 @@
                   <genre type="CCS">TextContent</genre>
                   <relatedItem type="constituent" ID="c024">
                      <titleInfo lang="eng">
-                        <mods:title>Untitled Image</mods:title>
+                        <title>Untitled Image</title>
                      </titleInfo>
                      <typeOfResource>still image</typeOfResource>
                      <part>
@@ -525,7 +525,7 @@
                   <titleInfo lang="eng">
                      <title>Morning</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/49222285">
@@ -533,7 +533,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -561,12 +561,12 @@
                   <titleInfo lang="eng">
                      <title>Fugitives</title>
                   </titleInfo>
-                  <mods:name type="personal" authority="viaf">
-                     <displayForm xmlns:mets="http://www.loc.gov/METS/">Charles Galwey</displayForm>
-                     <role xmlns:mets="http://www.loc.gov/METS/">
+                  <name type="personal">
+                     <displayForm>Charles Galwey</displayForm>
+                     <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -594,7 +594,7 @@
                   <titleInfo lang="eng">
                      <title>Circle</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/19926916">
@@ -602,7 +602,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -658,7 +658,7 @@
                      <nonSort>The</nonSort>
                      <title>High Hat</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/71642977">
@@ -666,7 +666,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -694,7 +694,7 @@
                   <titleInfo lang="eng">
                      <title>Wear</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/22149082">
@@ -702,7 +702,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -719,7 +719,7 @@
                      <nonSort>The</nonSort>
                      <title>Springs of Guilty Song</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/22140431">
@@ -727,7 +727,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -740,7 +740,7 @@
                   <genre type="CCS">TextContent</genre>
                   <relatedItem type="constituent" ID="c039">
                      <titleInfo lang="eng">
-                        <mods:title>Untitled Image</mods:title>
+                        <title>Untitled Image</title>
                      </titleInfo>
                      <typeOfResource>still image</typeOfResource>
                      <part>
@@ -755,7 +755,7 @@
                   <titleInfo lang="eng">
                      <title>Hymen</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/61562401">
@@ -763,15 +763,15 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">rev</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <subject>
-                     <mods:name type="personal" authority="viaf">
-                        <namePart xmlns:mets="http://www.loc.gov/METS/" type="family">Doolittle</namePart>
-                        <namePart xmlns:mets="http://www.loc.gov/METS/" type="given">Hilda</namePart>
-                        <role xmlns:mets="http://www.loc.gov/METS/">
+                     <name type="personal">
+                        <namePart type="family">Doolittle</namePart>
+                        <namePart type="given">Hilda</namePart>
+                        <role>
                            <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                         </role>
-                     </mods:name>
+                     </name>
                      <genre>Reviews</genre>
                   </subject>
                   <typeOfResource>text</typeOfResource>
@@ -789,7 +789,7 @@
                   <titleInfo lang="eng">
                      <title>Pascin's America</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/91308069">
@@ -797,7 +797,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
@@ -813,7 +813,7 @@
                   <titleInfo lang="eng">
                      <title>Poems: Marianne Moore</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/41833206">
@@ -821,15 +821,15 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <subject>
-                     <mods:name type="personal" authority="viaf">
-                        <namePart xmlns:mets="http://www.loc.gov/METS/" type="family">Moore</namePart>
-                        <namePart xmlns:mets="http://www.loc.gov/METS/" type="given">Marianne</namePart>
-                        <role xmlns:mets="http://www.loc.gov/METS/">
+                     <name type="personal">
+                        <namePart type="family">Moore</namePart>
+                        <namePart type="given">Marianne</namePart>
+                        <role>
                            <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                         </role>
-                     </mods:name>
+                     </name>
                      <genre>Reviews</genre>
                   </subject>
                   <typeOfResource>text</typeOfResource>
@@ -847,7 +847,7 @@
                   <titleInfo lang="eng">
                      <title>... and America where there</title>
                   </titleInfo>
-                  <mods:name xmlns:mets="http://www.loc.gov/METS/"
+                  <name
                              type="personal"
                              authority="viaf"
                              valueURI="http://viaf.org/viaf/61562401">
@@ -855,7 +855,7 @@
                      <role>
                         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
                      </role>
-                  </mods:name>
+                  </name>
                   <typeOfResource>text</typeOfResource>
                   <language>
                      <languageTerm authority="iso639-2b">eng</languageTerm>
