@@ -77,12 +77,6 @@
                 </biblScope>
               </xsl:if>
               <date>
-
-		<!--
-                <xsl:attribute name="when">
-                  <xsl:value-of select="$modsrec/mods:originInfo/mods:dateIssued[@encoding='w3cdtf' or @encoding='iso8601']"/>
-                  </xsl:attribute>
-		-->
 		<xsl:attribute name="when"> 
                   <xsl:value-of select="$modsrec/mods:originInfo/mods:dateIssued[@keyDate='yes']"/>
                   </xsl:attribute>
@@ -105,6 +99,11 @@
       <xsl:apply-templates select="mets:dmdSec[@ID='dmd1']/mets:mdWrap/mets:xmlData/mods:mods"/>
     </sourceDesc>
     </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="http://vocab.getty.edu/aat/">300312349</classCode>        
+      </textClass>
+    </profileDesc>
    </teiHeader>
 
    
