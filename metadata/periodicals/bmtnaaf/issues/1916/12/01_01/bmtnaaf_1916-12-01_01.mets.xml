@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/METS/"
-      xmlns:mix="http://www.loc.gov/mix/"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      xmlns:local="http://diglib.princeton.edu"
-      xmlns:mods="http://www.loc.gov/mods/v3"
-      xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
-      TYPE="Magazine"
-      OBJID="urn:PUL:periodicals:bluemountain:bmtnaaf_1916-12-01_01">
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:mix="http://www.loc.gov/mix/" xmlns:local="http://diglib.princeton.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" TYPE="Magazine" OBJID="urn:PUL:periodicals:bluemountain:bmtnaaf_1916-12-01_01">
 	  <metsHdr>
       
 		    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
@@ -51,9 +43,7 @@
 						            <dateIssued>1er décembre 1916</dateIssued>
 						            <dateIssued keyDate="yes" encoding="w3cdtf">1916-12-01</dateIssued>
 					          </originInfo>
-					          <relatedItem type="host"
-                            xlink:type="simple"
-                            xlink:href="urn:PUL:bluemountain:bmtnaaf">
+					          <relatedItem type="host" xlink:type="simple" xlink:href="urn:PUL:bluemountain:bmtnaaf">
 						            <recordInfo>
 							              <recordIdentifier>urn:PUL:bluemountain:dmd:bmtnaaf</recordIdentifier>
 						            </recordInfo>
@@ -88,7 +78,7 @@
 							              <titleInfo lang="fre">
 								                <title>C. MAX-JACOB</title>
 							              </titleInfo>
-							              <mods:name type="personal" >
+							              <mods:name type="personal">
 								                <displayForm>picasso</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
@@ -337,7 +327,7 @@
 							              <title>L'ÉLAN</title>
 							              <subTitle>N° 10.</subTitle>
 						            </titleInfo>
-						            <mods:name type="corporate" >
+						            <mods:name type="corporate">
 							              <displayForm>N. D. L D</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
@@ -372,9 +362,7 @@
 							              <titleInfo lang="fre">
 								                <title>DESSIN DE SÊVÉRINI</title>
 							              </titleInfo>
-						            	  <mods:name type="personal"
-                                authority="viaf"
-                                valueURI="http://viaf.org/viaf/54163042">
+						            	  <mods:name type="personal" authority="viaf" valueURI="http://viaf.org/viaf/54163042">
                         <displayForm>Severini</displayForm>
                      </mods:name>
 							              <typeOfResource>still image</typeOfResource>
@@ -445,23 +433,19 @@
 						            <titleInfo lang="fre">
 							              <title>CORRESPONDANCE</title>
 						            </titleInfo>
-						            <mods:name type="personal"
-                             authority="viaf"
-                             valueURI="http://viaf.org/viaf/96973963">
-							              <displayForm>ANDRÉ GIDE</displayForm>
+						            <mods:name type="personal" authority="viaf" valueURI="http://viaf.org/viaf/96973963">
+							              <displayForm>André Gide</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
 						            </mods:name>
-						            <mods:name type="personal" >
-							              <displayForm>RENÉ-JEAN</displayForm>
+						            <mods:name type="personal">
+							              <displayForm>René-Jean</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
 						            </mods:name>
-						            <mods:name type="personal"
-                             authority="viaf"
-                             valueURI="http://viaf.org/viaf/64192115">
+						            <mods:name type="personal" authority="viaf" valueURI="http://viaf.org/viaf/64192115">
 							              <displayForm>VINCENT D'INDY</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
@@ -483,9 +467,7 @@
 							              <title>SOLDAT</title>
 							              <subTitle>DE TOUS LES TEMPS EN CHROMO DE VILLAGE AU MUR</subTitle>
 						            </titleInfo>
-						            <mods:name type="personal"
-                             authority="viaf"
-                             valueURI="http://viaf.org/viaf/61551365">
+						            <mods:name type="personal" authority="viaf" valueURI="http://viaf.org/viaf/61551365">
 							              <displayForm>P. REVERDY</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
@@ -505,9 +487,7 @@
 							              <titleInfo lang="fre">
 								                <title>Dessin de LUC-ALBERT MOREAU</title>
 							              </titleInfo>
-						            	  <mods:name type="personal"
-                                authority="viaf"
-                                valueURI="http://viaf.org/viaf/7407220">
+						            	  <mods:name type="personal" authority="viaf" valueURI="http://viaf.org/viaf/7407220">
                         <displayForm>LUC-ALBERT MOREAU</displayForm>
 						            	  </mods:name>
 							              <typeOfResource>still image</typeOfResource>
@@ -522,9 +502,7 @@
 							              <titleInfo lang="fre">
 								                <title>Dessin de LUC-ALBERT MOREAU.</title>
 							              </titleInfo>
-						            	  <mods:name type="personal"
-                                authority="viaf"
-                                valueURI="http://viaf.org/viaf/7407220">
+						            	  <mods:name type="personal" authority="viaf" valueURI="http://viaf.org/viaf/7407220">
 						            		    <displayForm>LUC-ALBERT MOREAU</displayForm>
 						            	  </mods:name>
 							              <typeOfResource>still image</typeOfResource>
@@ -541,10 +519,8 @@
 							              <title>FÊTE</title>
 							              <subTitle>à André Houveyre.</subTitle>
 						            </titleInfo>
-						            <mods:name type="personal"
-                             authority="viaf"
-                             valueURI="http://viaf.org/viaf/66462795">
-							              <displayForm>GUILLAUME APOLLINAIRE</displayForm>
+						            <mods:name type="personal" authority="viaf" valueURI="http://viaf.org/viaf/66462795">
+							              <displayForm>Guillaume Apollinaire</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
@@ -565,10 +541,8 @@
 							              <nonSort>LA</nonSort>
 							              <title>CONVALESCENCE</title>
 						            </titleInfo>
-						            <mods:name type="personal"
-                             authority="viaf"
-                             valueURI="http://viaf.org/viaf/73863132">
-							              <displayForm>ROGER ALLARD</displayForm>
+						            <mods:name type="personal" authority="viaf" valueURI="http://viaf.org/viaf/73863132">
+							              <displayForm>Roger Allard</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
 							              </role>
@@ -587,9 +561,7 @@
 							              <titleInfo lang="fre">
 								                <title>CLICHÉ BERNHEIM-JEUNE</title>
 							              </titleInfo>
-							              <mods:name type="personal"
-                                authority="viaf"
-                                valueURI="http://viaf.org/viaf/42630086">
+							              <mods:name type="personal" authority="viaf" valueURI="http://viaf.org/viaf/42630086">
 								                <displayForm>HENRI MATISSE</displayForm>
 								                <role>
 									                  <roleTerm type="code" authority="marcrelator">cre</roleTerm>
@@ -608,9 +580,7 @@
 						            <titleInfo lang="fre">
 							              <title>Notes sur le cubisme</title>
 						            </titleInfo>
-						            <mods:name type="personal"
-                             authority="viaf"
-                             valueURI="http://viaf.org/viaf/44307485">
+						            <mods:name type="personal" authority="viaf" valueURI="http://viaf.org/viaf/44307485">
 							              <displayForm>AMÉDÉE OZENFANT</displayForm>
 							              <role>
 								                <roleTerm type="code" authority="marcrelator">cre</roleTerm>
@@ -963,106 +933,36 @@
 	  </amdSec>
 	  <fileSec>
 		    <fileGrp ID="IMGGRP" USE="Images">
-			      <file ID="IMG00001"
-               ADMID="techmd1"
-               GROUPID="page1"
-               CREATED="2013-01-30T09:46:51"
-               MIMETYPE="image/jp2"
-               SEQ="1"
-               CHECKSUM="b91216e80fb497d90a35ad67568de7dd356f5ec3"
-               CHECKSUMTYPE="SHA-1"
-               SIZE="21689934">
-				        <FLocat LOCTYPE="URL"
-                    xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaf/issues/1916/12/01_01/delivery/bmtnaaf_1916-12-01_01_0001.jp2"/>
+			      <file ID="IMG00001" ADMID="techmd1" GROUPID="page1" CREATED="2013-01-30T09:46:51" MIMETYPE="image/jp2" SEQ="1" CHECKSUM="b91216e80fb497d90a35ad67568de7dd356f5ec3" CHECKSUMTYPE="SHA-1" SIZE="21689934">
+				        <FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaf/issues/1916/12/01_01/delivery/bmtnaaf_1916-12-01_01_0001.jp2"/>
 			      </file>
-			      <file ID="IMG00002"
-               ADMID="techmd2"
-               GROUPID="page2"
-               CREATED="2013-01-30T09:47:18"
-               MIMETYPE="image/jp2"
-               SEQ="2"
-               CHECKSUM="84ad86ec24b9ee1e0d0803a90c17091bf325688a"
-               CHECKSUMTYPE="SHA-1"
-               SIZE="17344170">
-				        <FLocat LOCTYPE="URL"
-                    xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaf/issues/1916/12/01_01/delivery/bmtnaaf_1916-12-01_01_0002.jp2"/>
+			      <file ID="IMG00002" ADMID="techmd2" GROUPID="page2" CREATED="2013-01-30T09:47:18" MIMETYPE="image/jp2" SEQ="2" CHECKSUM="84ad86ec24b9ee1e0d0803a90c17091bf325688a" CHECKSUMTYPE="SHA-1" SIZE="17344170">
+				        <FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaf/issues/1916/12/01_01/delivery/bmtnaaf_1916-12-01_01_0002.jp2"/>
 			      </file>
-			      <file ID="IMG00003"
-               ADMID="techmd3"
-               GROUPID="page3"
-               CREATED="2013-01-30T09:47:45"
-               MIMETYPE="image/jp2"
-               SEQ="3"
-               CHECKSUM="9dcb599cba3e31b0b11f78fd03e608572e2e9c6f"
-               CHECKSUMTYPE="SHA-1"
-               SIZE="17348482">
-				        <FLocat LOCTYPE="URL"
-                    xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaf/issues/1916/12/01_01/delivery/bmtnaaf_1916-12-01_01_0003.jp2"/>
+			      <file ID="IMG00003" ADMID="techmd3" GROUPID="page3" CREATED="2013-01-30T09:47:45" MIMETYPE="image/jp2" SEQ="3" CHECKSUM="9dcb599cba3e31b0b11f78fd03e608572e2e9c6f" CHECKSUMTYPE="SHA-1" SIZE="17348482">
+				        <FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaf/issues/1916/12/01_01/delivery/bmtnaaf_1916-12-01_01_0003.jp2"/>
 			      </file>
-			      <file ID="IMG00004"
-               ADMID="techmd4"
-               GROUPID="page4"
-               CREATED="2013-01-30T09:48:14"
-               MIMETYPE="image/jp2"
-               SEQ="4"
-               CHECKSUM="9a9cdc14c7395a2c961fbcbda72baa03c2567ccf"
-               CHECKSUMTYPE="SHA-1"
-               SIZE="14183752">
-				        <FLocat LOCTYPE="URL"
-                    xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaf/issues/1916/12/01_01/delivery/bmtnaaf_1916-12-01_01_0004.jp2"/>
+			      <file ID="IMG00004" ADMID="techmd4" GROUPID="page4" CREATED="2013-01-30T09:48:14" MIMETYPE="image/jp2" SEQ="4" CHECKSUM="9a9cdc14c7395a2c961fbcbda72baa03c2567ccf" CHECKSUMTYPE="SHA-1" SIZE="14183752">
+				        <FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaf/issues/1916/12/01_01/delivery/bmtnaaf_1916-12-01_01_0004.jp2"/>
 			      </file>
 		    </fileGrp>
 		    <fileGrp ID="ALTOGRP" USE="OCR">
-			      <file ID="ALTO00001"
-               GROUPID="page1"
-               CREATED="2013-01-30T09:48:38"
-               MIMETYPE="text/xml"
-               CHECKSUM="40f09d847c0c1567380f58e177dacb560e37edb6"
-               CHECKSUMTYPE="SHA-1"
-               SIZE="5772">
-				        <FLocat LOCTYPE="URL"
-                    xlink:href="file://./alto/bmtnaaf_1916-12-01_01_0001.alto.xml"/>
+			      <file ID="ALTO00001" GROUPID="page1" CREATED="2013-01-30T09:48:38" MIMETYPE="text/xml" CHECKSUM="40f09d847c0c1567380f58e177dacb560e37edb6" CHECKSUMTYPE="SHA-1" SIZE="5772">
+				        <FLocat LOCTYPE="URL" xlink:href="file://./alto/bmtnaaf_1916-12-01_01_0001.alto.xml"/>
 			      </file>
-			      <file ID="ALTO00002"
-               GROUPID="page2"
-               CREATED="2013-01-30T09:48:39"
-               MIMETYPE="text/xml"
-               CHECKSUM="d840acd73918ec9717a0bc6bd9dd2297122b80b3"
-               CHECKSUMTYPE="SHA-1"
-               SIZE="1076034">
-				        <FLocat LOCTYPE="URL"
-                    xlink:href="file://./alto/bmtnaaf_1916-12-01_01_0002.alto.xml"/>
+			      <file ID="ALTO00002" GROUPID="page2" CREATED="2013-01-30T09:48:39" MIMETYPE="text/xml" CHECKSUM="d840acd73918ec9717a0bc6bd9dd2297122b80b3" CHECKSUMTYPE="SHA-1" SIZE="1076034">
+				        <FLocat LOCTYPE="URL" xlink:href="file://./alto/bmtnaaf_1916-12-01_01_0002.alto.xml"/>
 			      </file>
-			      <file ID="ALTO00003"
-               GROUPID="page3"
-               CREATED="2013-01-30T09:48:40"
-               MIMETYPE="text/xml"
-               CHECKSUM="32dd71238a3ed311b8b33ce343fe5081f841ecef"
-               CHECKSUMTYPE="SHA-1"
-               SIZE="426284">
-				        <FLocat LOCTYPE="URL"
-                    xlink:href="file://./alto/bmtnaaf_1916-12-01_01_0003.alto.xml"/>
+			      <file ID="ALTO00003" GROUPID="page3" CREATED="2013-01-30T09:48:40" MIMETYPE="text/xml" CHECKSUM="32dd71238a3ed311b8b33ce343fe5081f841ecef" CHECKSUMTYPE="SHA-1" SIZE="426284">
+				        <FLocat LOCTYPE="URL" xlink:href="file://./alto/bmtnaaf_1916-12-01_01_0003.alto.xml"/>
 			      </file>
-			      <file ID="ALTO00004"
-               GROUPID="page4"
-               CREATED="2013-01-30T09:48:41"
-               MIMETYPE="text/xml"
-               CHECKSUM="e2163de7fa3fe6d60bfe1131a1156c0da6e04001"
-               CHECKSUMTYPE="SHA-1"
-               SIZE="2007">
-				        <FLocat LOCTYPE="URL"
-                    xlink:href="file://./alto/bmtnaaf_1916-12-01_01_0004.alto.xml"/>
+			      <file ID="ALTO00004" GROUPID="page4" CREATED="2013-01-30T09:48:41" MIMETYPE="text/xml" CHECKSUM="e2163de7fa3fe6d60bfe1131a1156c0da6e04001" CHECKSUMTYPE="SHA-1" SIZE="2007">
+				        <FLocat LOCTYPE="URL" xlink:href="file://./alto/bmtnaaf_1916-12-01_01_0004.alto.xml"/>
 			      </file>
 		    </fileGrp>
 		    <fileGrp ID="PDFGRP" USE="PDF">
-			      <file ID="PDF_ISSUELEVEL"
-               CREATED="2013-10-24T06:22:27"
-               MIMETYPE="application/pdf"
-               CHECKSUM="ceae2af8825dc98738c51f5c5593281c014edccc"
-               CHECKSUMTYPE="SHA-1"
-               SIZE="3333254">
-				        <FLocat LOCTYPE="URL"
-                    xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaf/issues/1916/12/01_01/bmtnaaf_1916-12-01_01.pdf"/>
+			      <file ID="PDF_ISSUELEVEL" CREATED="2013-10-24T06:22:27" MIMETYPE="application/pdf" CHECKSUM="ceae2af8825dc98738c51f5c5593281c014edccc" CHECKSUMTYPE="SHA-1" SIZE="3333254">
+				        <FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaf/issues/1916/12/01_01/bmtnaaf_1916-12-01_01.pdf"/>
 			      </file>
 		    </fileGrp>
 	  </fileSec>
@@ -1128,11 +1028,7 @@
 					          </div>
 				        </div>
 				        <div ID="L.1.1.2" TYPE="EditorialContent" LABEL="Contents">
-					          <div ID="L.1.1.2.1"
-                    TYPE="Illustration"
-                    ORDER="1"
-                    DMDID="c001"
-                    LABEL="Cover Illustration">
+					          <div ID="L.1.1.2.1" TYPE="Illustration" ORDER="1" DMDID="c001" LABEL="Cover Illustration">
 						            <div ID="L.1.1.2.1.1" TYPE="Image">
 							              <fptr>
 								                <seq>
@@ -1148,11 +1044,7 @@
 							              </fptr>
 						            </div>
 					          </div>
-					          <div ID="L.1.1.2.2"
-                    TYPE="TextContent"
-                    ORDER="2"
-                    DMDID="c002"
-                    LABEL="CHRONIQUE">
+					          <div ID="L.1.1.2.2" TYPE="TextContent" ORDER="2" DMDID="c002" LABEL="CHRONIQUE">
 						            <div ID="L.1.1.2.2.1" TYPE="Head">
 							              <fptr>
 								                <area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00003"/>
@@ -1163,11 +1055,7 @@
 								                <area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00036"/>
 							              </fptr>
 						            </div>
-						            <div ID="L.1.1.2.2.3"
-                       TYPE="Illustration"
-                       ORDER="1"
-                       DMDID="c003"
-                       LABEL="C. MAX-JACOB">
+						            <div ID="L.1.1.2.2.3" TYPE="Illustration" ORDER="1" DMDID="c003" LABEL="C. MAX-JACOB">
 							              <div ID="L.1.1.2.2.3.1" TYPE="Image">
 								                <fptr>
 									                  <area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_CB00001"/>
@@ -1462,11 +1350,7 @@
 							              </div>
 						            </div>
 					          </div>
-					          <div ID="L.1.1.2.3"
-                    TYPE="TextContent"
-                    ORDER="3"
-                    DMDID="c020"
-                    LABEL="L'ÉLAN">
+					          <div ID="L.1.1.2.3" TYPE="TextContent" ORDER="3" DMDID="c020" LABEL="L'ÉLAN">
 						            <div ID="L.1.1.2.3.1" TYPE="Head">
 							              <fptr>
 								                <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00001"/>
@@ -1494,21 +1378,13 @@
 							              </div>
 						            </div>
 					          </div>
-					          <div ID="L.1.1.2.4"
-                    TYPE="TextContent"
-                    ORDER="4"
-                    DMDID="c021"
-                    LABEL="éditions">
+					          <div ID="L.1.1.2.4" TYPE="TextContent" ORDER="4" DMDID="c021" LABEL="éditions">
 						            <div ID="L.1.1.2.4.1" TYPE="Head">
 							              <fptr>
 								                <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00006"/>
 							              </fptr>
 						            </div>
-						            <div ID="L.1.1.2.4.2"
-                       TYPE="Illustration"
-                       ORDER="1"
-                       DMDID="c022"
-                       LABEL="DESSIN DE SÊVÉRINI">
+						            <div ID="L.1.1.2.4.2" TYPE="Illustration" ORDER="1" DMDID="c022" LABEL="DESSIN DE SÊVÉRINI">
 							              <div ID="L.1.1.2.4.2.1" TYPE="Image">
 								                <fptr>
 									                  <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_CB00002"/>
@@ -1520,11 +1396,7 @@
 								                </fptr>
 							              </div>
 						            </div>
-						            <div ID="L.1.1.2.4.3"
-                       TYPE="Illustration"
-                       ORDER="2"
-                       DMDID="c023"
-                       LABEL="DESSIN DE ZINA FEDOROWITCH">
+						            <div ID="L.1.1.2.4.3" TYPE="Illustration" ORDER="2" DMDID="c023" LABEL="DESSIN DE ZINA FEDOROWITCH">
 							              <div ID="L.1.1.2.4.3.1" TYPE="Image">
 								                <fptr>
 									                  <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_CB00003"/>
@@ -1536,11 +1408,7 @@
 								                </fptr>
 							              </div>
 						            </div>
-						            <div ID="L.1.1.2.4.4"
-                       TYPE="Illustration"
-                       ORDER="3"
-                       DMDID="c024"
-                       LABEL="CLICHÉ BERNHEIM JEUNE">
+						            <div ID="L.1.1.2.4.4" TYPE="Illustration" ORDER="3" DMDID="c024" LABEL="CLICHÉ BERNHEIM JEUNE">
 							              <div ID="L.1.1.2.4.4.1" TYPE="Image">
 								                <fptr>
 									                  <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_CB00004"/>
@@ -1589,11 +1457,7 @@
 							              </div>
 						            </div>
 					          </div>
-					          <div ID="L.1.1.2.5"
-                    TYPE="TextContent"
-                    ORDER="5"
-                    DMDID="c027"
-                    LABEL="CORRESPONDANCE">
+					          <div ID="L.1.1.2.5" TYPE="TextContent" ORDER="5" DMDID="c027" LABEL="CORRESPONDANCE">
 						            <div ID="L.1.1.2.5.1" TYPE="Head">
 							              <fptr>
 								                <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00012"/>
@@ -1640,11 +1504,7 @@
 							              </div>
 						            </div>
 					          </div>
-					          <div ID="L.1.1.2.6"
-                    TYPE="TextContent"
-                    ORDER="6"
-                    DMDID="c028"
-                    LABEL="SOLDAT">
+					          <div ID="L.1.1.2.6" TYPE="TextContent" ORDER="6" DMDID="c028" LABEL="SOLDAT">
 						            <div ID="L.1.1.2.6.1" TYPE="Head">
 							              <fptr>
 								                <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00019"/>
@@ -1660,11 +1520,7 @@
 								                <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00023"/>
 							              </fptr>
 						            </div>
-						            <div ID="L.1.1.2.6.4"
-                       TYPE="Illustration"
-                       ORDER="1"
-                       DMDID="c029"
-                       LABEL="Dessin de LUC-ALBERT MOREAU">
+						            <div ID="L.1.1.2.6.4" TYPE="Illustration" ORDER="1" DMDID="c029" LABEL="Dessin de LUC-ALBERT MOREAU">
 							              <div ID="L.1.1.2.6.4.1" TYPE="Image">
 								                <fptr>
 									                  <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_CB00001"/>
@@ -1676,11 +1532,7 @@
 								                </fptr>
 							              </div>
 						            </div>
-						            <div ID="L.1.1.2.6.5"
-                       TYPE="Illustration"
-                       ORDER="2"
-                       DMDID="c030"
-                       LABEL="Dessin de LUC-ALBERT MOREAU.">
+						            <div ID="L.1.1.2.6.5" TYPE="Illustration" ORDER="2" DMDID="c030" LABEL="Dessin de LUC-ALBERT MOREAU.">
 							              <div ID="L.1.1.2.6.5.1" TYPE="Image">
 								                <fptr>
 									                  <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_CB00005"/>
@@ -1711,11 +1563,7 @@
 							              </div>
 						            </div>
 					          </div>
-					          <div ID="L.1.1.2.7"
-                    TYPE="TextContent"
-                    ORDER="7"
-                    DMDID="c031"
-                    LABEL="FÊTE">
+					          <div ID="L.1.1.2.7" TYPE="TextContent" ORDER="7" DMDID="c031" LABEL="FÊTE">
 						            <div ID="L.1.1.2.7.1" TYPE="Head">
 							              <fptr>
 								                <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00025"/>
@@ -1741,11 +1589,7 @@
 							              </div>
 						            </div>
 					          </div>
-					          <div ID="L.1.1.2.8"
-                    TYPE="TextContent"
-                    ORDER="8"
-                    DMDID="c032"
-                    LABEL="LA CONVALESCENCE">
+					          <div ID="L.1.1.2.8" TYPE="TextContent" ORDER="8" DMDID="c032" LABEL="LA CONVALESCENCE">
 						            <div ID="L.1.1.2.8.1" TYPE="Head">
 							              <fptr>
 								                <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00031"/>
@@ -1756,11 +1600,7 @@
 								                <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00033"/>
 							              </fptr>
 						            </div>
-						            <div ID="L.1.1.2.8.3"
-                       TYPE="Illustration"
-                       ORDER="1"
-                       DMDID="c033"
-                       LABEL="CLICHÉ BERNHEIM-JEUNE">
+						            <div ID="L.1.1.2.8.3" TYPE="Illustration" ORDER="1" DMDID="c033" LABEL="CLICHÉ BERNHEIM-JEUNE">
 							              <div ID="L.1.1.2.8.3.1" TYPE="Image">
 								                <fptr>
 									                  <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_CB00006"/>
@@ -1784,11 +1624,7 @@
 							              </div>
 						            </div>
 					          </div>
-					          <div ID="L.1.1.2.9"
-                    TYPE="TextContent"
-                    ORDER="9"
-                    DMDID="c034"
-                    LABEL="Note ssur le cubisme">
+					          <div ID="L.1.1.2.9" TYPE="TextContent" ORDER="9" DMDID="c034" LABEL="Note ssur le cubisme">
 						            <div ID="L.1.1.2.9.1" TYPE="Head">
 							              <fptr>
 								                <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00034"/>
@@ -1799,11 +1635,7 @@
 								                <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00036"/>
 							              </fptr>
 						            </div>
-						            <div ID="L.1.1.2.9.3"
-                       TYPE="Illustration"
-                       ORDER="1"
-                       DMDID="c035"
-                       LABEL="ROGER ALLARD en convalescence">
+						            <div ID="L.1.1.2.9.3" TYPE="Illustration" ORDER="1" DMDID="c035" LABEL="ROGER ALLARD en convalescence">
 							              <div ID="L.1.1.2.9.3.1" TYPE="Image">
 								                <fptr>
 									                  <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_CB00007"/>
@@ -1828,11 +1660,7 @@
 						            </div>
 					          </div>
 					          <div ID="L.1.1.2.10" TYPE="TextContent" ORDER="10" DMDID="c036">
-						            <div ID="L.1.1.2.10.1"
-                       TYPE="Illustration"
-                       ORDER="1"
-                       DMDID="c037"
-                       LABEL="Untitled">
+						            <div ID="L.1.1.2.10.1" TYPE="Illustration" ORDER="1" DMDID="c037" LABEL="Untitled">
 							              <div ID="L.1.1.2.10.1.1" TYPE="Image">
 								                <fptr>
 									                  <area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_CB00001"/>
@@ -1841,7 +1669,4 @@
 						            </div>
 					          </div>
 				        </div>
-			      </div>
-		    </div>
-	  </structMap>
-</mets>
+			      </di
