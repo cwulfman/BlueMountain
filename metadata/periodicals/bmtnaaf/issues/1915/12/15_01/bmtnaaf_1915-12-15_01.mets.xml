@@ -11,7 +11,7 @@
   <dmdSec ID="dmd1">
     <mdWrap MDTYPE="MODS">
       <xmlData>
-	<mods>
+      	<mods xmlns="http://www.loc.gov/mods/v3">
           <identifier type="ark">ark:/88435/q237hv606</identifier>
 	  <recordInfo>
 	    <recordIdentifier>urn:PUL:bluemountain:dmd:bmtnaaf_1915-12-15_01</recordIdentifier>
@@ -417,7 +417,7 @@
 	  <relatedItem type="constituent" ID="c022">
 	    <titleInfo lang="fre">
 	      <title>l'aéroplane attaqué</title>
-	      <subTtle>Étude pour une gravure sur bois</subTtle>
+	      <subTitle>Étude pour une gravure sur bois</subTitle>
 	    </titleInfo>
 	    <name type="personal">
 	      <displayForm>Laboureur</displayForm>

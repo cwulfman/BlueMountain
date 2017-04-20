@@ -11,7 +11,7 @@
   <dmdSec ID="dmd1">
     <mdWrap MDTYPE="MODS">
       <xmlData>
-	<mods>
+      	<mods xmlns="http://www.loc.gov/mods/v3">
           <identifier type="ark">ark:/88435/tt44pq502</identifier>
 	  <recordInfo>
 	    <recordIdentifier>urn:PUL:bluemountain:dmd:bmtnaaf_1915-07-01_01</recordIdentifier>
@@ -320,10 +320,9 @@
 	    <titleInfo lang="fre">
 	      <nonSort>Les</nonSort>
 	      <title>Écossais &amp; la sablaise</title>
+	    	<subTitle>bois original de laboureur</subTitle>
 	    </titleInfo>
-	    <titleInfo lang="fre">
-	      <caption>bois original de laboureur</caption>
-	    </titleInfo>
+	    
 	    <typeOfResource>still image</typeOfResource>
 	    <part>
 	      <extent unit="page">
@@ -396,7 +395,7 @@
 	  </relatedItem>
 	  <relatedItem type="constituent" ID="c020">
 	    <titleInfo lang="fre">
-	      <caption>Sùr que c'est le mieux informé, regardez-moi tous ces blancs!</caption>
+	      <title>Sùr que c'est le mieux informé, regardez-moi tous ces blancs!</title>
 	    </titleInfo>
 	    <name type="personal">
 	      <displayForm>Chazalviel</displayForm>
