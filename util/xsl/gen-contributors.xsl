@@ -104,7 +104,7 @@
     </xsl:template>
     
     <xsl:template match="constituent">
-        <li><xsl:value-of select="displayTitle"/></li>
+        <li><xsl:value-of select="citeTitle"/></li>
     </xsl:template>
 
 </xsl:stylesheet>

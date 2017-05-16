@@ -139,14 +139,17 @@
                         </ul>
                     </nav>
                     <section id="issues">
-
                         <header>
                             <h2>Issues</h2>
                         </header>
                         <xsl:apply-templates select="issues/issue" mode="index"/>
                         <xsl:apply-templates select="issues/issue" mode="page"/>
                     </section>
+
                     <section id="contributors">
+                        <header>
+                            <h2>Contributors</h2>
+                        </header>
                         <xsl:apply-templates select="contributors" />
                     </section>
                 </body>
@@ -235,13 +238,17 @@
     </xsl:template>
     
     <xsl:template match="contributors">
-        <ol>
+        <table>
             <xsl:apply-templates />
-        </ol>
+        </table>
     </xsl:template>
     
     <xsl:template match="contributor">
-        <li><xsl:value-of select="@label"/></li>
+        <tr>
+            <td><xsl:value-of select="@label"/></td>
+            <td><xsl:value-of select="@count"/></td>
+        </tr>
+        
     </xsl:template>
 
     <xsl:template match="thumbnail">
