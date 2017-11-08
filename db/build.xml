@@ -29,9 +29,9 @@
 
   <property name="approot" value="/usr/share/BlueMountain" />
   
-  <target name="load-conf" description="load the Blue Mountain collection.xconf record">
+  <target name="load-conf" description="load the Blue Mountain metadata collection.xconf record">
     <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
-	       uri="${xmldb.url}/system/config/db/bluemtn"
+	       uri="${xmldb.url}/system/config/db/bmtn-data/metadata"
 	       createcollection="true">
       <fileset dir="${approot}/db">
 	<include name="collection.xconf" />
