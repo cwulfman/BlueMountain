@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/v2/alto-2-0.xsd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<Description>
+		<MeasurementUnit>inch1200</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>//fileserver7/IN2/PUL-DaliborMusicJournal/1911/02/10_01/00000158.tif</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCRPROCESSING_1">
+			<preProcessingStep>
+				<processingSoftware>
+					<softwareCreator>CCS Content Conversion Specialists GmbH, Hamburg, Germany</softwareCreator>
+					<softwareName>CCS docWorks</softwareName>
+					<softwareVersion>7.0-1.16</softwareVersion>
+				</processingSoftware>
+			</preProcessingStep>
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareCreator>ABBYY (BIT Software), Russia</softwareCreator>
+					<softwareName>FineReader</softwareName>
+					<softwareVersion>11.0</softwareVersion>
+				</processingSoftware>
+			</ocrProcessingStep>
+			<postProcessingStep>
+				<processingSoftware>
+					<softwareCreator>CCS Content Conversion Specialists GmbH, Hamburg, Germany</softwareCreator>
+					<softwareName>CCS docWorks</softwareName>
+					<softwareVersion>7.0-1.16</softwareVersion>
+					<applicationDescription>docWorks: Text modified manually, or automatically replaced</applicationDescription>
+				</processingSoftware>
+			</postProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Styles>
+		<TextStyle ID="TXT_0" FONTSIZE="11" FONTFAMILY="Times New Roman" FONTSTYLE="italics"/>
+		<TextStyle ID="TXT_1" FONTSIZE="11" FONTFAMILY="Times New Roman"/>
+		<TextStyle ID="TXT_2" FONTSIZE="7" FONTFAMILY="Times New Roman"/>
+		<TextStyle ID="TXT_3" FONTSIZE="8" FONTFAMILY="Times New Roman"/>
+		<ParagraphStyle ID="PAR_LEFT" ALIGN="Left"/>
+		<ParagraphStyle ID="PAR_CENTER" ALIGN="Center"/>
+	</Styles>
+	<Layout>
+		<Page ID="P24" PHYSICAL_IMG_NR="24" HEIGHT="13584" WIDTH="10798" PRINTED_IMG_NR="158" PC="0.991">
+			<TopMargin ID="P24_TM00001" HPOS="0" VPOS="0" WIDTH="10800" HEIGHT="652"/>
+			<LeftMargin ID="P24_LM00001" HPOS="0" VPOS="652" WIDTH="1351" HEIGHT="12217"/>
+			<RightMargin ID="P24_RM00001" HPOS="9780" VPOS="652" WIDTH="1020" HEIGHT="12217">
+				<TextBlock ID="P24_TB00001" HPOS="9926" VPOS="5858" WIDTH="189" HEIGHT="1763" ROTATION="90.00" STYLEREFS="TXT_0 PAR_LEFT">
+					<TextLine ID="P24_TL00001" HPOS="9935" VPOS="5858" WIDTH="180" HEIGHT="1763">
+						<String ID="P24_ST00001" HPOS="9945" VPOS="6860" WIDTH="170" HEIGHT="761" CONTENT="DVOŘÁK" WC="1.00" CC="000000" STYLEREFS="TXT_1"/>
+						<SP ID="P24_SP00001" HPOS="9945" VPOS="6761" WIDTH="170"/>
+						<String ID="P24_ST00002" HPOS="9935" VPOS="5858" WIDTH="180" HEIGHT="902" CONTENT="HOLUBÁŘ." WC="0.99" CC="30042030"/>
+					</TextLine>
+				</TextBlock>
+			</RightMargin>
+			<BottomMargin ID="P24_BM00001" HPOS="0" VPOS="12869" WIDTH="10800" HEIGHT="713"/>
+			<PrintSpace ID="P24_PS00001" HPOS="1351" VPOS="652" WIDTH="8428" HEIGHT="12217">
+				<TextBlock ID="P24_TB00002" HPOS="4436" VPOS="652" WIDTH="2121" HEIGHT="161" STYLEREFS="TXT_0 PAR_CENTER">
+					<TextLine ID="P24_TL00002" HPOS="4436" VPOS="652" WIDTH="2117" HEIGHT="161">
+						<String ID="P24_ST00003" HPOS="4436" VPOS="652" WIDTH="1044" HEIGHT="161" CONTENT="DALIBORŮV" WC="0.99" CC="200513653"/>
+						<SP ID="P24_SP00002" HPOS="5480" VPOS="813" WIDTH="94"/>
+						<String ID="P24_ST00004" HPOS="5575" VPOS="666" WIDTH="978" HEIGHT="123" CONTENT="MASOPUST" WC="0.99" CC="30053100"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P24_TB00003" HPOS="5457" VPOS="12746" WIDTH="236" HEIGHT="123" STYLEREFS="TXT_2 PAR_CENTER">
+					<TextLine ID="P24_TL00003" HPOS="5457" VPOS="12746" WIDTH="236" HEIGHT="123" CS="1">
+						<String ID="P24_ST00005" HPOS="5457" VPOS="12746" WIDTH="236" HEIGHT="123" CONTENT="158" WC="0.98" CC="000"/>
+					</TextLine>
+				</TextBlock>
+				<ComposedBlock ID="P24_CB00001" HPOS="1351" VPOS="1054" WIDTH="8428" HEIGHT="11452" STYLEREFS="TXT_3 PAR_LEFT" TYPE="Illustration">
+					<GraphicalElement ID="P24_CB00001_SUB" HPOS="1351" VPOS="1054" WIDTH="8428" HEIGHT="11452"/>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
