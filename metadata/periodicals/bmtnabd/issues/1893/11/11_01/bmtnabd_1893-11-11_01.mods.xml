@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+   <recordInfo>
+      <recordIdentifier>urn:PUL:BlueMountain:dmd:bmtnabd_1893-11-11_01</recordIdentifier>
+   </recordInfo>
+   <identifier type="bmtn">urn:PUL:BlueMountain:bmtnabd_1893-11-11_01</identifier>
+   <typeOfResource>text</typeOfResource>
+   <genre>Periodicals-Issue</genre>
+   <titleInfo>
+      <title>Dalibor</title>
+      <subTitle>Hudební listy.</subTitle>
+   </titleInfo>
+   <part type="issue">
+      <detail type="volume">
+         <number>15</number>
+         <caption>Ročnik XV.</caption>
+      </detail>
+      <detail type="number">
+         <number>47</number>
+         <caption>Číslo 47.</caption>
+      </detail>
+   </part>
+   <originInfo>
+      <dateIssued>11. listopadu 1893.</dateIssued>
+      <dateIssued keyDate="yes">1893-11-11</dateIssued>
+   </originInfo>
+   <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink"
+                type="host"
+                xlink:type="simple"
+                xlink:href="urn:PUL:bluemountain:bmtnabd">
+      <recordInfo>
+         <recordIdentifier>urn:PUL:bluemountain:dmd:bmtnabd</recordIdentifier>
+      </recordInfo>
+   </relatedItem>
+</mods>

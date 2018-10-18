@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/v2/alto-2-0.xsd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<Description>
+		<MeasurementUnit>inch1200</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>//fileserver4/IN/PUL-DaliborMusicJournal/1884_02/00000491.tif</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCRPROCESSING_1">
+			<preProcessingStep>
+				<processingSoftware>
+					<softwareCreator>CCS Content Conversion Specialists GmbH, Hamburg, Germany</softwareCreator>
+					<softwareName>CCS docWorks</softwareName>
+					<softwareVersion>7.0-1.16</softwareVersion>
+				</processingSoftware>
+			</preProcessingStep>
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareCreator>CCS Content Conversion Specialists GmbH, Hamburg, Germany</softwareCreator>
+					<softwareName>CCS docWorks</softwareName>
+					<softwareVersion>7.0-1.16</softwareVersion>
+				</processingSoftware>
+			</ocrProcessingStep>
+			<postProcessingStep>
+				<processingSoftware>
+					<softwareCreator>CCS Content Conversion Specialists GmbH, Hamburg, Germany</softwareCreator>
+					<softwareName>CCS docWorks</softwareName>
+					<softwareVersion>7.0-1.16</softwareVersion>
+				</processingSoftware>
+			</postProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Styles>
+		<TextStyle ID="TXT_0" FONTSIZE="11" FONTFAMILY="Times New Roman"/>
+		<TextStyle ID="TXT_1" FONTSIZE="9" FONTFAMILY="Times New Roman"/>
+		<ParagraphStyle ID="PAR_RIGHT" ALIGN="Right"/>
+		<ParagraphStyle ID="PAR_LEFT" ALIGN="Left"/>
+	</Styles>
+	<Layout>
+		<Page ID="P15" PHYSICAL_IMG_NR="15" HEIGHT="12044" WIDTH="8266" PRINTED_IMG_NR="15" PC="1.000">
+			<TopMargin ID="P15_TM00001" HPOS="0" VPOS="0" WIDTH="8268" HEIGHT="312"/>
+			<LeftMargin ID="P15_LM00001" HPOS="0" VPOS="312" WIDTH="718" HEIGHT="9071"/>
+			<RightMargin ID="P15_RM00001" HPOS="7436" VPOS="312" WIDTH="831" HEIGHT="9071"/>
+			<BottomMargin ID="P15_BM00001" HPOS="0" VPOS="9383" WIDTH="8268" HEIGHT="2660"/>
+			<PrintSpace ID="P15_PS00001" HPOS="718" VPOS="312" WIDTH="6718" HEIGHT="9071">
+				<TextBlock ID="P15_TB00001" HPOS="6638" VPOS="312" WIDTH="288" HEIGHT="170" STYLEREFS="TXT_0 PAR_RIGHT">
+					<TextLine ID="P15_TL00001" HPOS="6638" VPOS="312" WIDTH="288" HEIGHT="170">
+						<String ID="P15_ST00001" HPOS="6638" VPOS="312" WIDTH="288" HEIGHT="170" CONTENT="15" WC="1.00" CC="00"/>
+					</TextLine>
+				</TextBlock>
+				<ComposedBlock ID="P15_CB00001" HPOS="718" VPOS="1370" WIDTH="6718" HEIGHT="8013" STYLEREFS="TXT_1 PAR_LEFT" TYPE="Music">
+					<GraphicalElement ID="P15_CB00001_SUB" HPOS="718" VPOS="1370" WIDTH="6718" HEIGHT="8013"/>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

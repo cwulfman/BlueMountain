@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/v2/alto-2-0.xsd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<Description>
+		<MeasurementUnit>inch1200</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>//fileserver4/IN/PUL-DaliborMusicJournal/1884_02/00000482.tif</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCRPROCESSING_1">
+			<preProcessingStep>
+				<processingSoftware>
+					<softwareCreator>CCS Content Conversion Specialists GmbH, Hamburg, Germany</softwareCreator>
+					<softwareName>CCS docWorks</softwareName>
+					<softwareVersion>7.0-1.16</softwareVersion>
+				</processingSoftware>
+			</preProcessingStep>
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareCreator>CCS Content Conversion Specialists GmbH, Hamburg, Germany</softwareCreator>
+					<softwareName>CCS docWorks</softwareName>
+					<softwareVersion>7.0-1.16</softwareVersion>
+				</processingSoftware>
+			</ocrProcessingStep>
+			<postProcessingStep>
+				<processingSoftware>
+					<softwareCreator>CCS Content Conversion Specialists GmbH, Hamburg, Germany</softwareCreator>
+					<softwareName>CCS docWorks</softwareName>
+					<softwareVersion>7.0-1.16</softwareVersion>
+				</processingSoftware>
+			</postProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Styles>
+		<TextStyle ID="TXT_0" FONTSIZE="11" FONTFAMILY="Times New Roman"/>
+		<TextStyle ID="TXT_1" FONTSIZE="9" FONTFAMILY="Times New Roman"/>
+		<ParagraphStyle ID="PAR_CENTER" ALIGN="Center"/>
+		<ParagraphStyle ID="PAR_LEFT" ALIGN="Left"/>
+	</Styles>
+	<Layout>
+		<Page ID="P6" PHYSICAL_IMG_NR="6" HEIGHT="12068" WIDTH="8126" PRINTED_IMG_NR="6" PC="1.000">
+			<TopMargin ID="P6_TM00001" HPOS="0" VPOS="0" WIDTH="8126" HEIGHT="194"/>
+			<LeftMargin ID="P6_LM00001" HPOS="0" VPOS="194" WIDTH="572" HEIGHT="10441">
+				<TextBlock ID="P6_TB00001" HPOS="161" VPOS="189" WIDTH="151" HEIGHT="170" STYLEREFS="TXT_0 PAR_CENTER">
+					<TextLine ID="P6_TL00001" HPOS="161" VPOS="189" WIDTH="151" HEIGHT="170">
+						<String ID="P6_ST00001" HPOS="161" VPOS="189" WIDTH="151" HEIGHT="170" CONTENT="6" WC="1.00" CC="0"/>
+					</TextLine>
+				</TextBlock>
+			</LeftMargin>
+			<RightMargin ID="P6_RM00001" HPOS="7238" VPOS="194" WIDTH="888" HEIGHT="10441"/>
+			<BottomMargin ID="P6_BM00001" HPOS="0" VPOS="10635" WIDTH="8126" HEIGHT="1431"/>
+			<PrintSpace ID="P6_PS00001" HPOS="572" VPOS="194" WIDTH="6666" HEIGHT="10441">
+				<ComposedBlock ID="P6_CB00001" HPOS="572" VPOS="1082" WIDTH="6666" HEIGHT="9553" STYLEREFS="TXT_1 PAR_LEFT" TYPE="Music">
+					<GraphicalElement ID="P6_CB00001_SUB" HPOS="572" VPOS="1082" WIDTH="6666" HEIGHT="9553"/>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
