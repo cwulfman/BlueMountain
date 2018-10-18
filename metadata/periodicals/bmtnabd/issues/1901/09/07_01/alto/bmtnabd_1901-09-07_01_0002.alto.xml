@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/v2/alto-2-0.xsd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<Description>
+		<MeasurementUnit>inch1200</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>//fileserver7/IN2/PUL-DaliborMusicJournal/1901/09/07_01/00000272.tif</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCRPROCESSING_1">
+			<preProcessingStep>
+				<processingSoftware>
+					<softwareCreator>CCS Content Conversion Specialists GmbH, Hamburg, Germany</softwareCreator>
+					<softwareName>CCS docWorks</softwareName>
+					<softwareVersion>7.0-1.16</softwareVersion>
+				</processingSoftware>
+			</preProcessingStep>
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareCreator>ABBYY (BIT Software), Russia</softwareCreator>
+					<softwareName>FineReader</softwareName>
+					<softwareVersion>11.0</softwareVersion>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Styles>
+		<TextStyle ID="TXT_0" FONTSIZE="7" FONTFAMILY="Times New Roman" FONTSTYLE="bold"/>
+		<TextStyle ID="TXT_1" FONTSIZE="9" FONTFAMILY="Times New Roman"/>
+		<ParagraphStyle ID="PAR_RIGHT" ALIGN="Right"/>
+		<ParagraphStyle ID="PAR_LEFT" ALIGN="Left"/>
+	</Styles>
+	<Layout>
+		<Page ID="P2" PHYSICAL_IMG_NR="2" HEIGHT="13574" WIDTH="10888" PC="0.980">
+			<TopMargin ID="P2_TM00001" HPOS="0" VPOS="0" WIDTH="10890" HEIGHT="737"/>
+			<LeftMargin ID="P2_LM00001" HPOS="0" VPOS="737" WIDTH="0" HEIGHT="11301"/>
+			<RightMargin ID="P2_RM00001" HPOS="10885" VPOS="737" WIDTH="5" HEIGHT="11301"/>
+			<BottomMargin ID="P2_BM00001" HPOS="0" VPOS="12038" WIDTH="10890" HEIGHT="1535"/>
+			<PrintSpace ID="P2_PS00001" HPOS="0" VPOS="737" WIDTH="10885" HEIGHT="11301">
+				<TextBlock ID="P2_TB00001" HPOS="5131" VPOS="9439" WIDTH="1328" HEIGHT="104" STYLEREFS="TXT_0 PAR_RIGHT">
+					<TextLine ID="P2_TL00001" HPOS="5135" VPOS="9449" WIDTH="1324" HEIGHT="85">
+						<String ID="P2_ST00001" HPOS="5135" VPOS="9449" WIDTH="472" HEIGHT="80" CONTENT="Dvořákův" WC="0.99" CC="47322040"/>
+						<SP ID="P2_SP00001" HPOS="5608" VPOS="9529" WIDTH="66"/>
+						<String ID="P2_ST00002" HPOS="5674" VPOS="9463" WIDTH="213" HEIGHT="71" CONTENT="otec" WC="0.96" CC="6606"/>
+						<SP ID="P2_SP00002" HPOS="5887" VPOS="9534" WIDTH="66"/>
+						<String ID="P2_ST00003" HPOS="5953" VPOS="9454" WIDTH="506" HEIGHT="76" CONTENT="František." WC="1.00" CC="0003151004"/>
+					</TextLine>
+				</TextBlock>
+				<ComposedBlock ID="P2_CB00001" HPOS="3756" VPOS="3420" WIDTH="4375" HEIGHT="5532" STYLEREFS="TXT_1 PAR_LEFT" TYPE="Illustration">
+					<GraphicalElement ID="P2_CB00001_SUB" HPOS="3756" VPOS="3420" WIDTH="4375" HEIGHT="5532"/>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
