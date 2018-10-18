@@ -42,7 +42,7 @@
 					</relatedItem>
 					<relatedItem type="constituent" ID="c001">
 						<titleInfo lang="cze">
-							<title>Obsah:</title>
+							<title>Časopis pro všecky obory umění hudebního.</title>
 						</titleInfo>
 						<typeOfResource>text</typeOfResource>
 						<language>
@@ -57,7 +57,7 @@
 					</relatedItem>
 					<relatedItem type="constituent" ID="c002">
 						<titleInfo lang="cze">
-							<title>Richard Wagner na českém jevišti.</title>
+							<title>Obsah:</title>
 						</titleInfo>
 						<typeOfResource>text</typeOfResource>
 						<language>
@@ -72,6 +72,21 @@
 					</relatedItem>
 					<relatedItem type="constituent" ID="c003">
 						<titleInfo lang="cze">
+							<title>Richard Wagner na českém jevišti.</title>
+						</titleInfo>
+						<typeOfResource>text</typeOfResource>
+						<language>
+							<languageTerm authority="iso639-2b">cze</languageTerm>
+						</language>
+						<part>
+							<extent unit="page">
+								<start>1</start>
+							</extent>
+						</part>
+						<genre type="CCS">TextContent</genre>
+					</relatedItem>
+					<relatedItem type="constituent" ID="c004">
+						<titleInfo lang="cze">
 							<title>Tannhäuser a zápas pěvců na Wartburce.</title>
 						</titleInfo>
 						<typeOfResource>text</typeOfResource>
@@ -85,7 +100,7 @@
 						</part>
 						<genre type="CCS">TextContent</genre>
 					</relatedItem>
-					<relatedItem type="constituent" ID="c004">
+					<relatedItem type="constituent" ID="c005">
 						<titleInfo lang="cze">
 							<title>Jednání prvé.</title>
 						</titleInfo>
@@ -100,7 +115,7 @@
 						</part>
 						<genre type="CCS">TextContent</genre>
 					</relatedItem>
-					<relatedItem type="constituent" ID="c005">
+					<relatedItem type="constituent" ID="c006">
 						<titleInfo lang="cze">
 							<title>Ústav pro vzdělání varhaníků a ředitelů kůru.</title>
 						</titleInfo>
@@ -115,7 +130,7 @@
 						</part>
 						<genre type="CCS">TextContent</genre>
 					</relatedItem>
-					<relatedItem type="constituent" ID="c006">
+					<relatedItem type="constituent" ID="c007">
 						<titleInfo lang="cze">
 							<title>Drobné zprávy.</title>
 						</titleInfo>
@@ -130,7 +145,7 @@
 						</part>
 						<genre type="CCS">TextContent</genre>
 					</relatedItem>
-					<relatedItem type="constituent" ID="c007">
+					<relatedItem type="constituent" ID="c008">
 						<titleInfo lang="cze">
 							<title>Hlasy časopisův.</title>
 						</titleInfo>
@@ -144,19 +159,6 @@
 							</extent>
 						</part>
 						<genre type="CCS">TextContent</genre>
-					</relatedItem>
-					<relatedItem type="constituent" ID="c008">
-						<titleInfo>
-							<title>[Advertisement]</title>
-						</titleInfo>
-						<genre>advertisement</genre>
-						<typeOfResource>text</typeOfResource>
-						<part>
-							<extent unit="page">
-								<start>7</start>
-							</extent>
-						</part>
-						<genre type="CCS">SponsoredAdvertisement</genre>
 					</relatedItem>
 					<relatedItem type="constituent" ID="c009">
 						<titleInfo>
@@ -179,12 +181,25 @@
 						<typeOfResource>text</typeOfResource>
 						<part>
 							<extent unit="page">
-								<start>8</start>
+								<start>7</start>
 							</extent>
 						</part>
 						<genre type="CCS">SponsoredAdvertisement</genre>
 					</relatedItem>
 					<relatedItem type="constituent" ID="c011">
+						<titleInfo>
+							<title>[Advertisement]</title>
+						</titleInfo>
+						<genre>advertisement</genre>
+						<typeOfResource>text</typeOfResource>
+						<part>
+							<extent unit="page">
+								<start>8</start>
+							</extent>
+						</part>
+						<genre type="CCS">SponsoredAdvertisement</genre>
+					</relatedItem>
+					<relatedItem type="constituent" ID="c012">
 						<titleInfo>
 							<title>[Advertisement]</title>
 						</titleInfo>
@@ -218,7 +233,7 @@
 								</mix:PhotometricInterpretation>
 							</mix:Format>
 							<mix:File>
-								<mix:ImageIdentifier imageIdentifierLocation="//f14/OUT2/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1880/08/01_01/alto">bmtnabd_1880-08-01_01_0001.jp2</mix:ImageIdentifier>
+								<mix:ImageIdentifier imageIdentifierLocation="//fileserver3/OUT6/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1880/08/01_01/alto">bmtnabd_1880-08-01_01_0001.jp2</mix:ImageIdentifier>
 								<mix:FileSize>4105230</mix:FileSize>
 								<mix:Orientation>1</mix:Orientation>
 								<mix:DisplayOrientation>1</mix:DisplayOrientation>
@@ -229,7 +244,7 @@
 							<mix:SourceID/>
 							<mix:ImageProducer/>
 							<mix:Host>
-								<mix:HostComputer>DWP8</mix:HostComputer>
+								<mix:HostComputer>DWP14</mix:HostComputer>
 								<mix:OperatingSystem>windows</mix:OperatingSystem>
 								<mix:OSVersion>7 SP1</mix:OSVersion>
 							</mix:Host>
@@ -291,7 +306,7 @@
 								</mix:PhotometricInterpretation>
 							</mix:Format>
 							<mix:File>
-								<mix:ImageIdentifier imageIdentifierLocation="//f14/OUT2/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1880/08/01_01/alto">bmtnabd_1880-08-01_01_0002.jp2</mix:ImageIdentifier>
+								<mix:ImageIdentifier imageIdentifierLocation="//fileserver3/OUT6/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1880/08/01_01/alto">bmtnabd_1880-08-01_01_0002.jp2</mix:ImageIdentifier>
 								<mix:FileSize>4127175</mix:FileSize>
 								<mix:Orientation>1</mix:Orientation>
 								<mix:DisplayOrientation>1</mix:DisplayOrientation>
@@ -302,7 +317,7 @@
 							<mix:SourceID/>
 							<mix:ImageProducer/>
 							<mix:Host>
-								<mix:HostComputer>DWP8</mix:HostComputer>
+								<mix:HostComputer>DWP14</mix:HostComputer>
 								<mix:OperatingSystem>windows</mix:OperatingSystem>
 								<mix:OSVersion>7 SP1</mix:OSVersion>
 							</mix:Host>
@@ -364,7 +379,7 @@
 								</mix:PhotometricInterpretation>
 							</mix:Format>
 							<mix:File>
-								<mix:ImageIdentifier imageIdentifierLocation="//f14/OUT2/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1880/08/01_01/alto">bmtnabd_1880-08-01_01_0003.jp2</mix:ImageIdentifier>
+								<mix:ImageIdentifier imageIdentifierLocation="//fileserver3/OUT6/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1880/08/01_01/alto">bmtnabd_1880-08-01_01_0003.jp2</mix:ImageIdentifier>
 								<mix:FileSize>4104881</mix:FileSize>
 								<mix:Orientation>1</mix:Orientation>
 								<mix:DisplayOrientation>1</mix:DisplayOrientation>
@@ -375,7 +390,7 @@
 							<mix:SourceID/>
 							<mix:ImageProducer/>
 							<mix:Host>
-								<mix:HostComputer>DWP8</mix:HostComputer>
+								<mix:HostComputer>DWP14</mix:HostComputer>
 								<mix:OperatingSystem>windows</mix:OperatingSystem>
 								<mix:OSVersion>7 SP1</mix:OSVersion>
 							</mix:Host>
@@ -437,8 +452,8 @@
 								</mix:PhotometricInterpretation>
 							</mix:Format>
 							<mix:File>
-								<mix:ImageIdentifier imageIdentifierLocation="//f14/OUT2/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1880/08/01_01/alto">bmtnabd_1880-08-01_01_0004.jp2</mix:ImageIdentifier>
-								<mix:FileSize>4134371</mix:FileSize>
+								<mix:ImageIdentifier imageIdentifierLocation="//fileserver3/OUT6/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1880/08/01_01/alto">bmtnabd_1880-08-01_01_0004.jp2</mix:ImageIdentifier>
+								<mix:FileSize>4134373</mix:FileSize>
 								<mix:Orientation>1</mix:Orientation>
 								<mix:DisplayOrientation>1</mix:DisplayOrientation>
 							</mix:File>
@@ -448,7 +463,7 @@
 							<mix:SourceID/>
 							<mix:ImageProducer/>
 							<mix:Host>
-								<mix:HostComputer>DWP8</mix:HostComputer>
+								<mix:HostComputer>DWP14</mix:HostComputer>
 								<mix:OperatingSystem>windows</mix:OperatingSystem>
 								<mix:OSVersion>7 SP1</mix:OSVersion>
 							</mix:Host>
@@ -510,8 +525,8 @@
 								</mix:PhotometricInterpretation>
 							</mix:Format>
 							<mix:File>
-								<mix:ImageIdentifier imageIdentifierLocation="//f14/OUT2/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1880/08/01_01/alto">bmtnabd_1880-08-01_01_0005.jp2</mix:ImageIdentifier>
-								<mix:FileSize>4134370</mix:FileSize>
+								<mix:ImageIdentifier imageIdentifierLocation="//fileserver3/OUT6/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1880/08/01_01/alto">bmtnabd_1880-08-01_01_0005.jp2</mix:ImageIdentifier>
+								<mix:FileSize>4134373</mix:FileSize>
 								<mix:Orientation>1</mix:Orientation>
 								<mix:DisplayOrientation>1</mix:DisplayOrientation>
 							</mix:File>
@@ -521,7 +536,7 @@
 							<mix:SourceID/>
 							<mix:ImageProducer/>
 							<mix:Host>
-								<mix:HostComputer>DWP8</mix:HostComputer>
+								<mix:HostComputer>DWP14</mix:HostComputer>
 								<mix:OperatingSystem>windows</mix:OperatingSystem>
 								<mix:OSVersion>7 SP1</mix:OSVersion>
 							</mix:Host>
@@ -583,7 +598,7 @@
 								</mix:PhotometricInterpretation>
 							</mix:Format>
 							<mix:File>
-								<mix:ImageIdentifier imageIdentifierLocation="//f14/OUT2/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1880/08/01_01/alto">bmtnabd_1880-08-01_01_0006.jp2</mix:ImageIdentifier>
+								<mix:ImageIdentifier imageIdentifierLocation="//fileserver3/OUT6/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1880/08/01_01/alto">bmtnabd_1880-08-01_01_0006.jp2</mix:ImageIdentifier>
 								<mix:FileSize>4136199</mix:FileSize>
 								<mix:Orientation>1</mix:Orientation>
 								<mix:DisplayOrientation>1</mix:DisplayOrientation>
@@ -594,7 +609,7 @@
 							<mix:SourceID/>
 							<mix:ImageProducer/>
 							<mix:Host>
-								<mix:HostComputer>DWP8</mix:HostComputer>
+								<mix:HostComputer>DWP14</mix:HostComputer>
 								<mix:OperatingSystem>windows</mix:OperatingSystem>
 								<mix:OSVersion>7 SP1</mix:OSVersion>
 							</mix:Host>
@@ -656,7 +671,7 @@
 								</mix:PhotometricInterpretation>
 							</mix:Format>
 							<mix:File>
-								<mix:ImageIdentifier imageIdentifierLocation="//f14/OUT2/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1880/08/01_01/alto">bmtnabd_1880-08-01_01_0007.jp2</mix:ImageIdentifier>
+								<mix:ImageIdentifier imageIdentifierLocation="//fileserver3/OUT6/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1880/08/01_01/alto">bmtnabd_1880-08-01_01_0007.jp2</mix:ImageIdentifier>
 								<mix:FileSize>4099851</mix:FileSize>
 								<mix:Orientation>1</mix:Orientation>
 								<mix:DisplayOrientation>1</mix:DisplayOrientation>
@@ -667,7 +682,7 @@
 							<mix:SourceID/>
 							<mix:ImageProducer/>
 							<mix:Host>
-								<mix:HostComputer>DWP8</mix:HostComputer>
+								<mix:HostComputer>DWP14</mix:HostComputer>
 								<mix:OperatingSystem>windows</mix:OperatingSystem>
 								<mix:OSVersion>7 SP1</mix:OSVersion>
 							</mix:Host>
@@ -729,7 +744,7 @@
 								</mix:PhotometricInterpretation>
 							</mix:Format>
 							<mix:File>
-								<mix:ImageIdentifier imageIdentifierLocation="//f14/OUT2/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1880/08/01_01/alto">bmtnabd_1880-08-01_01_0008.jp2</mix:ImageIdentifier>
+								<mix:ImageIdentifier imageIdentifierLocation="//fileserver3/OUT6/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1880/08/01_01/alto">bmtnabd_1880-08-01_01_0008.jp2</mix:ImageIdentifier>
 								<mix:FileSize>4136882</mix:FileSize>
 								<mix:Orientation>1</mix:Orientation>
 								<mix:DisplayOrientation>1</mix:DisplayOrientation>
@@ -740,7 +755,7 @@
 							<mix:SourceID/>
 							<mix:ImageProducer/>
 							<mix:Host>
-								<mix:HostComputer>DWP8</mix:HostComputer>
+								<mix:HostComputer>DWP14</mix:HostComputer>
 								<mix:OperatingSystem>windows</mix:OperatingSystem>
 								<mix:OSVersion>7 SP1</mix:OSVersion>
 							</mix:Host>
@@ -789,59 +804,59 @@
 	</amdSec>
 	<fileSec>
 		<fileGrp ID="IMGGRP" USE="Images">
-			<file ID="IMG00001" ADMID="techmd1" GROUPID="page1" CREATED="2018-07-18T08:32:16" MIMETYPE="image/jp2" SEQ="1" CHECKSUM="09305808b3ef2e76525f31bc9f7763c78bfd3f27" CHECKSUMTYPE="SHA-1" SIZE="4105230">
+			<file ID="IMG00001" ADMID="techmd1" GROUPID="page1" CREATED="2018-09-14T12:58:13" MIMETYPE="image/jp2" SEQ="1" CHECKSUM="09305808b3ef2e76525f31bc9f7763c78bfd3f27" CHECKSUMTYPE="SHA-1" SIZE="4105230">
 				<FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnabd/issues/1880/08/01_01/delivery/bmtnabd_1880-08-01_01_0001.jp2"/>
 			</file>
-			<file ID="IMG00002" ADMID="techmd2" GROUPID="page2" CREATED="2018-07-18T08:32:32" MIMETYPE="image/jp2" SEQ="2" CHECKSUM="8f2697d3358b54a55782c557ac4b061d0e4ee615" CHECKSUMTYPE="SHA-1" SIZE="4127175">
+			<file ID="IMG00002" ADMID="techmd2" GROUPID="page2" CREATED="2018-09-14T12:58:36" MIMETYPE="image/jp2" SEQ="2" CHECKSUM="8f2697d3358b54a55782c557ac4b061d0e4ee615" CHECKSUMTYPE="SHA-1" SIZE="4127175">
 				<FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnabd/issues/1880/08/01_01/delivery/bmtnabd_1880-08-01_01_0002.jp2"/>
 			</file>
-			<file ID="IMG00003" ADMID="techmd3" GROUPID="page3" CREATED="2018-07-18T08:32:49" MIMETYPE="image/jp2" SEQ="3" CHECKSUM="ce001647afa1fa91feb1227a9f81f3476a1e36a5" CHECKSUMTYPE="SHA-1" SIZE="4104881">
+			<file ID="IMG00003" ADMID="techmd3" GROUPID="page3" CREATED="2018-09-14T12:58:59" MIMETYPE="image/jp2" SEQ="3" CHECKSUM="ce001647afa1fa91feb1227a9f81f3476a1e36a5" CHECKSUMTYPE="SHA-1" SIZE="4104881">
 				<FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnabd/issues/1880/08/01_01/delivery/bmtnabd_1880-08-01_01_0003.jp2"/>
 			</file>
-			<file ID="IMG00004" ADMID="techmd4" GROUPID="page4" CREATED="2018-07-18T08:33:06" MIMETYPE="image/jp2" SEQ="4" CHECKSUM="51804786f01f4c746da4c267808329adea492ed4" CHECKSUMTYPE="SHA-1" SIZE="4134371">
+			<file ID="IMG00004" ADMID="techmd4" GROUPID="page4" CREATED="2018-09-14T12:59:23" MIMETYPE="image/jp2" SEQ="4" CHECKSUM="88bbacf5f6b2217f9f7c781125e35916e53df7f0" CHECKSUMTYPE="SHA-1" SIZE="4134373">
 				<FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnabd/issues/1880/08/01_01/delivery/bmtnabd_1880-08-01_01_0004.jp2"/>
 			</file>
-			<file ID="IMG00005" ADMID="techmd5" GROUPID="page5" CREATED="2018-07-18T08:33:20" MIMETYPE="image/jp2" SEQ="5" CHECKSUM="742f1add5091f983c13be31ed2af637dbb9a056f" CHECKSUMTYPE="SHA-1" SIZE="4134370">
+			<file ID="IMG00005" ADMID="techmd5" GROUPID="page5" CREATED="2018-09-14T12:59:50" MIMETYPE="image/jp2" SEQ="5" CHECKSUM="f3829252c3a6b5487710ebc4b8df1f2ad4d9b676" CHECKSUMTYPE="SHA-1" SIZE="4134373">
 				<FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnabd/issues/1880/08/01_01/delivery/bmtnabd_1880-08-01_01_0005.jp2"/>
 			</file>
-			<file ID="IMG00006" ADMID="techmd6" GROUPID="page6" CREATED="2018-07-18T08:33:41" MIMETYPE="image/jp2" SEQ="6" CHECKSUM="edd7371acc168298940204fc7f23741d777e3bf5" CHECKSUMTYPE="SHA-1" SIZE="4136199">
+			<file ID="IMG00006" ADMID="techmd6" GROUPID="page6" CREATED="2018-09-14T13:00:12" MIMETYPE="image/jp2" SEQ="6" CHECKSUM="edd7371acc168298940204fc7f23741d777e3bf5" CHECKSUMTYPE="SHA-1" SIZE="4136199">
 				<FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnabd/issues/1880/08/01_01/delivery/bmtnabd_1880-08-01_01_0006.jp2"/>
 			</file>
-			<file ID="IMG00007" ADMID="techmd7" GROUPID="page7" CREATED="2018-07-18T08:34:00" MIMETYPE="image/jp2" SEQ="7" CHECKSUM="86fcb2d41d5e10c64b7778efba8bc5c6ecbcd879" CHECKSUMTYPE="SHA-1" SIZE="4099851">
+			<file ID="IMG00007" ADMID="techmd7" GROUPID="page7" CREATED="2018-09-14T13:00:39" MIMETYPE="image/jp2" SEQ="7" CHECKSUM="86fcb2d41d5e10c64b7778efba8bc5c6ecbcd879" CHECKSUMTYPE="SHA-1" SIZE="4099851">
 				<FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnabd/issues/1880/08/01_01/delivery/bmtnabd_1880-08-01_01_0007.jp2"/>
 			</file>
-			<file ID="IMG00008" ADMID="techmd8" GROUPID="page8" CREATED="2018-07-18T08:34:17" MIMETYPE="image/jp2" SEQ="8" CHECKSUM="10d8f64bbaaab559ca85053f8e3adb4b21744019" CHECKSUMTYPE="SHA-1" SIZE="4136882">
+			<file ID="IMG00008" ADMID="techmd8" GROUPID="page8" CREATED="2018-09-14T13:01:01" MIMETYPE="image/jp2" SEQ="8" CHECKSUM="10d8f64bbaaab559ca85053f8e3adb4b21744019" CHECKSUMTYPE="SHA-1" SIZE="4136882">
 				<FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnabd/issues/1880/08/01_01/delivery/bmtnabd_1880-08-01_01_0008.jp2"/>
 			</file>
 		</fileGrp>
 		<fileGrp ID="ALTOGRP" USE="OCR">
-			<file ID="ALTO00001" GROUPID="page1" CREATED="2018-07-18T08:34:32" MIMETYPE="text/xml" CHECKSUM="aeb8c77701edd001e18d2fab690b378e6a91aa29" CHECKSUMTYPE="SHA-1" SIZE="144092">
+			<file ID="ALTO00001" GROUPID="page1" CREATED="2018-09-14T13:01:12" MIMETYPE="text/xml" CHECKSUM="6cbb9145d48d34319e56554276964781ce90741e" CHECKSUMTYPE="SHA-1" SIZE="144101">
 				<FLocat LOCTYPE="URL" xlink:href="file://./alto/bmtnabd_1880-08-01_01_0001.alto.xml"/>
 			</file>
-			<file ID="ALTO00002" GROUPID="page2" CREATED="2018-07-18T08:34:33" MIMETYPE="text/xml" CHECKSUM="029f0ff3a64bae45685a398cf2b0fa142e82677d" CHECKSUMTYPE="SHA-1" SIZE="151971">
+			<file ID="ALTO00002" GROUPID="page2" CREATED="2018-09-14T13:01:13" MIMETYPE="text/xml" CHECKSUM="29d70adf6933ea69c1956cd000f0820a5d47efa4" CHECKSUMTYPE="SHA-1" SIZE="151991">
 				<FLocat LOCTYPE="URL" xlink:href="file://./alto/bmtnabd_1880-08-01_01_0002.alto.xml"/>
 			</file>
-			<file ID="ALTO00003" GROUPID="page3" CREATED="2018-07-18T08:34:33" MIMETYPE="text/xml" CHECKSUM="845ee1de69aa9d2a369ec8d8047c0dcb13662d6f" CHECKSUMTYPE="SHA-1" SIZE="148018">
+			<file ID="ALTO00003" GROUPID="page3" CREATED="2018-09-14T13:01:14" MIMETYPE="text/xml" CHECKSUM="161561f33ddd6103e3fde3765ce6c24f45caaf96" CHECKSUMTYPE="SHA-1" SIZE="148038">
 				<FLocat LOCTYPE="URL" xlink:href="file://./alto/bmtnabd_1880-08-01_01_0003.alto.xml"/>
 			</file>
-			<file ID="ALTO00004" GROUPID="page4" CREATED="2018-07-18T08:34:33" MIMETYPE="text/xml" CHECKSUM="123b768d6805be5217dd1811a923b8c1e83ce595" CHECKSUMTYPE="SHA-1" SIZE="141374">
+			<file ID="ALTO00004" GROUPID="page4" CREATED="2018-09-14T13:01:16" MIMETYPE="text/xml" CHECKSUM="26fe867c10eb038635676cb56de8891d26eeb3e4" CHECKSUMTYPE="SHA-1" SIZE="141394">
 				<FLocat LOCTYPE="URL" xlink:href="file://./alto/bmtnabd_1880-08-01_01_0004.alto.xml"/>
 			</file>
-			<file ID="ALTO00005" GROUPID="page5" CREATED="2018-07-18T08:34:34" MIMETYPE="text/xml" CHECKSUM="9f3417dc844282edda8477b0cfd43d020bcc4fc3" CHECKSUMTYPE="SHA-1" SIZE="212121">
+			<file ID="ALTO00005" GROUPID="page5" CREATED="2018-09-14T13:01:18" MIMETYPE="text/xml" CHECKSUM="d95189f71c2f85389dede279341633a4bfb39331" CHECKSUMTYPE="SHA-1" SIZE="212141">
 				<FLocat LOCTYPE="URL" xlink:href="file://./alto/bmtnabd_1880-08-01_01_0005.alto.xml"/>
 			</file>
-			<file ID="ALTO00006" GROUPID="page6" CREATED="2018-07-18T08:34:34" MIMETYPE="text/xml" CHECKSUM="faf65c153b7dc765b49c48d3f0825be189f8d00e" CHECKSUMTYPE="SHA-1" SIZE="250536">
+			<file ID="ALTO00006" GROUPID="page6" CREATED="2018-09-14T13:01:20" MIMETYPE="text/xml" CHECKSUM="6f99d74155193b360f3401e3a01fc5c61970b266" CHECKSUMTYPE="SHA-1" SIZE="250556">
 				<FLocat LOCTYPE="URL" xlink:href="file://./alto/bmtnabd_1880-08-01_01_0006.alto.xml"/>
 			</file>
-			<file ID="ALTO00007" GROUPID="page7" CREATED="2018-07-18T08:34:35" MIMETYPE="text/xml" CHECKSUM="0b0216c61ae0d6b51d37f5315c15e5b99dae8ebd" CHECKSUMTYPE="SHA-1" SIZE="213023">
+			<file ID="ALTO00007" GROUPID="page7" CREATED="2018-09-14T13:01:22" MIMETYPE="text/xml" CHECKSUM="8baaef9b541e2e78769a1fecce2ccdd33a30ad7b" CHECKSUMTYPE="SHA-1" SIZE="213043">
 				<FLocat LOCTYPE="URL" xlink:href="file://./alto/bmtnabd_1880-08-01_01_0007.alto.xml"/>
 			</file>
-			<file ID="ALTO00008" GROUPID="page8" CREATED="2018-07-18T08:34:35" MIMETYPE="text/xml" CHECKSUM="ed7fbc2551b2a86f9186e03c0be7bb03c46a8f3c" CHECKSUMTYPE="SHA-1" SIZE="149863">
+			<file ID="ALTO00008" GROUPID="page8" CREATED="2018-09-14T13:01:23" MIMETYPE="text/xml" CHECKSUM="6039d39b771b6b1a13a6d89e7c89838cc884959a" CHECKSUMTYPE="SHA-1" SIZE="149883">
 				<FLocat LOCTYPE="URL" xlink:href="file://./alto/bmtnabd_1880-08-01_01_0008.alto.xml"/>
 			</file>
 		</fileGrp>
 		<fileGrp ID="PDFGRP" USE="PDF">
-			<file ID="PDF_ISSUELEVEL" CREATED="2018-07-18T08:34:56" MIMETYPE="application/pdf" CHECKSUM="fcc2f6f003bb4a9b1d88ad3646613ca2fe7b8850" CHECKSUMTYPE="SHA-1" SIZE="2476838">
+			<file ID="PDF_ISSUELEVEL" CREATED="2018-09-14T13:02:12" MIMETYPE="application/pdf" CHECKSUM="cd95e25ffb875139c8f90c3073dcf739d6338954" CHECKSUMTYPE="SHA-1" SIZE="2477351">
 				<FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnabd/issues/1880/08/01_01/bmtnabd_1880-08-01_01.pdf"/>
 			</file>
 		</fileGrp>
@@ -940,31 +955,11 @@
 					</div>
 					<div ID="L.1.1.1.5" TYPE="GenericPubInfo" ORDER="5">
 						<fptr>
-							<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00007"/>
-						</fptr>
-					</div>
-					<div ID="L.1.1.1.6" TYPE="GenericPubInfo" ORDER="6">
-						<fptr>
-							<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00008"/>
-						</fptr>
-					</div>
-					<div ID="L.1.1.1.7" TYPE="GenericPubInfo" ORDER="7">
-						<fptr>
-							<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00009"/>
-						</fptr>
-					</div>
-					<div ID="L.1.1.1.8" TYPE="GenericPubInfo" ORDER="8">
-						<fptr>
-							<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00010"/>
-						</fptr>
-					</div>
-					<div ID="L.1.1.1.9" TYPE="GenericPubInfo" ORDER="9">
-						<fptr>
 							<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00002"/>
 						</fptr>
 					</div>
 				</div>
-				<div ID="L.1.1.2" TYPE="TextContent" ORDER="2" DMDID="c001" LABEL="Obsah:">
+				<div ID="L.1.1.2" TYPE="TextContent" ORDER="2" DMDID="c001" LABEL="Časopis pro všecky obory umění hudebního.">
 					<div ID="L.1.1.2.1" TYPE="Head">
 						<fptr>
 							<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00001"/>
@@ -972,20 +967,28 @@
 					</div>
 					<div ID="L.1.1.2.2" TYPE="Copy">
 						<div ID="L.1.1.2.2.1" TYPE="BodyContent">
-							<div ID="L.1.1.2.2.1.1" TYPE="Paragraph" ORDER="1">
-								<div ID="L.1.1.2.2.1.1.1" TYPE="Text">
-									<fptr>
-										<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00002"/>
-									</fptr>
-								</div>
+							<div ID="L.1.1.2.2.1.1" TYPE="Text" ORDER="1">
+								<fptr>
+									<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00002"/>
+								</fptr>
+							</div>
+							<div ID="L.1.1.2.2.1.2" TYPE="Text" ORDER="2">
+								<fptr>
+									<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00003"/>
+								</fptr>
+							</div>
+							<div ID="L.1.1.2.2.1.3" TYPE="Text" ORDER="3">
+								<fptr>
+									<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00004"/>
+								</fptr>
 							</div>
 						</div>
 					</div>
 				</div>
-				<div ID="L.1.1.3" TYPE="TextContent" ORDER="3" DMDID="c002" LABEL="Richard Wagner na českém jevišti.">
+				<div ID="L.1.1.3" TYPE="TextContent" ORDER="3" DMDID="c002" LABEL="Obsah:">
 					<div ID="L.1.1.3.1" TYPE="Head">
 						<fptr>
-							<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00003"/>
+							<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00005"/>
 						</fptr>
 					</div>
 					<div ID="L.1.1.3.2" TYPE="Copy">
@@ -993,37 +996,55 @@
 							<div ID="L.1.1.3.2.1.1" TYPE="Paragraph" ORDER="1">
 								<div ID="L.1.1.3.2.1.1.1" TYPE="Text">
 									<fptr>
-										<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00004"/>
+										<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00006"/>
 									</fptr>
 								</div>
-							</div>
-							<div ID="L.1.1.3.2.1.2" TYPE="Paragraph" ORDER="2">
-								<div ID="L.1.1.3.2.1.2.1" TYPE="Text">
-									<fptr>
-										<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00005"/>
-									</fptr>
-								</div>
-							</div>
-						</div>
-						<div ID="L.1.1.3.2.2" TYPE="Footnote">
-							<div ID="L.1.1.3.2.2.1" TYPE="Text">
-								<fptr>
-									<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00006"/>
-								</fptr>
 							</div>
 						</div>
 					</div>
 				</div>
-				<div ID="L.1.1.4" TYPE="TextContent" ORDER="4" DMDID="c003" LABEL="Tannhäuser a zápas pěvců na Wartburce.">
+				<div ID="L.1.1.4" TYPE="TextContent" ORDER="4" DMDID="c003" LABEL="Richard Wagner na českém jevišti.">
 					<div ID="L.1.1.4.1" TYPE="Head">
 						<fptr>
-							<area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00002"/>
+							<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00007"/>
 						</fptr>
 					</div>
 					<div ID="L.1.1.4.2" TYPE="Copy">
 						<div ID="L.1.1.4.2.1" TYPE="BodyContent">
 							<div ID="L.1.1.4.2.1.1" TYPE="Paragraph" ORDER="1">
 								<div ID="L.1.1.4.2.1.1.1" TYPE="Text">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00008"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="L.1.1.4.2.1.2" TYPE="Paragraph" ORDER="2">
+								<div ID="L.1.1.4.2.1.2.1" TYPE="Text">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00009"/>
+									</fptr>
+								</div>
+							</div>
+						</div>
+						<div ID="L.1.1.4.2.2" TYPE="Footnote">
+							<div ID="L.1.1.4.2.2.1" TYPE="Text">
+								<fptr>
+									<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00010"/>
+								</fptr>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div ID="L.1.1.5" TYPE="TextContent" ORDER="5" DMDID="c004" LABEL="Tannhäuser a zápas pěvců na Wartburce.">
+					<div ID="L.1.1.5.1" TYPE="Head">
+						<fptr>
+							<area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00002"/>
+						</fptr>
+					</div>
+					<div ID="L.1.1.5.2" TYPE="Copy">
+						<div ID="L.1.1.5.2.1" TYPE="BodyContent">
+							<div ID="L.1.1.5.2.1.1" TYPE="Paragraph" ORDER="1">
+								<div ID="L.1.1.5.2.1.1.1" TYPE="Text">
 									<fptr>
 										<area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00003"/>
 									</fptr>
@@ -1032,26 +1053,26 @@
 						</div>
 					</div>
 				</div>
-				<div ID="L.1.1.5" TYPE="TextContent" ORDER="5" DMDID="c004" LABEL="Jednání prvé.">
-					<div ID="L.1.1.5.1" TYPE="Head">
+				<div ID="L.1.1.6" TYPE="TextContent" ORDER="6" DMDID="c005" LABEL="Jednání prvé.">
+					<div ID="L.1.1.6.1" TYPE="Head">
 						<fptr>
 							<area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00004"/>
 						</fptr>
 					</div>
-					<div ID="L.1.1.5.2" TYPE="Copy">
-						<div ID="L.1.1.5.2.1" TYPE="BodyContent">
-							<div ID="L.1.1.5.2.1.1" TYPE="MinorHead" ORDER="1">
+					<div ID="L.1.1.6.2" TYPE="Copy">
+						<div ID="L.1.1.6.2.1" TYPE="BodyContent">
+							<div ID="L.1.1.6.2.1.1" TYPE="MinorHead" ORDER="1">
 								<fptr>
 									<area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00005"/>
 								</fptr>
 							</div>
-							<div ID="L.1.1.5.2.1.2" TYPE="MinorHead" ORDER="2">
+							<div ID="L.1.1.6.2.1.2" TYPE="MinorHead" ORDER="2">
 								<fptr>
 									<area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00006"/>
 								</fptr>
 							</div>
-							<div ID="L.1.1.5.2.1.3" TYPE="Paragraph" ORDER="3">
-								<div ID="L.1.1.5.2.1.3.1" TYPE="Text">
+							<div ID="L.1.1.6.2.1.3" TYPE="Paragraph" ORDER="3">
+								<div ID="L.1.1.6.2.1.3.1" TYPE="Text">
 									<fptr>
 										<seq>
 											<area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00007"/>
@@ -1060,27 +1081,27 @@
 									</fptr>
 								</div>
 							</div>
-							<div ID="L.1.1.5.2.1.4" TYPE="Paragraph" ORDER="4">
-								<div ID="L.1.1.5.2.1.4.1" TYPE="Text">
+							<div ID="L.1.1.6.2.1.4" TYPE="Paragraph" ORDER="4">
+								<div ID="L.1.1.6.2.1.4.1" TYPE="Text">
 									<fptr>
 										<area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00009"/>
 									</fptr>
 								</div>
 							</div>
-							<div ID="L.1.1.5.2.1.5" TYPE="Paragraph" ORDER="5">
-								<div ID="L.1.1.5.2.1.5.1" TYPE="Text">
+							<div ID="L.1.1.6.2.1.5" TYPE="Paragraph" ORDER="5">
+								<div ID="L.1.1.6.2.1.5.1" TYPE="Text">
 									<fptr>
 										<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00001"/>
 									</fptr>
 								</div>
 							</div>
-							<div ID="L.1.1.5.2.1.6" TYPE="MinorHead" ORDER="6">
+							<div ID="L.1.1.6.2.1.6" TYPE="MinorHead" ORDER="6">
 								<fptr>
 									<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00002"/>
 								</fptr>
 							</div>
-							<div ID="L.1.1.5.2.1.7" TYPE="Paragraph" ORDER="7">
-								<div ID="L.1.1.5.2.1.7.1" TYPE="Text">
+							<div ID="L.1.1.6.2.1.7" TYPE="Paragraph" ORDER="7">
+								<div ID="L.1.1.6.2.1.7.1" TYPE="Text">
 									<fptr>
 										<seq>
 											<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00003"/>
@@ -1089,13 +1110,13 @@
 									</fptr>
 								</div>
 							</div>
-							<div ID="L.1.1.5.2.1.8" TYPE="MinorHead" ORDER="8">
+							<div ID="L.1.1.6.2.1.8" TYPE="MinorHead" ORDER="8">
 								<fptr>
 									<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00001"/>
 								</fptr>
 							</div>
-							<div ID="L.1.1.5.2.1.9" TYPE="Paragraph" ORDER="9">
-								<div ID="L.1.1.5.2.1.9.1" TYPE="Text">
+							<div ID="L.1.1.6.2.1.9" TYPE="Paragraph" ORDER="9">
+								<div ID="L.1.1.6.2.1.9.1" TYPE="Text">
 									<fptr>
 										<seq>
 											<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00002"/>
@@ -1104,8 +1125,8 @@
 									</fptr>
 								</div>
 							</div>
-							<div ID="L.1.1.5.2.1.10" TYPE="Paragraph" ORDER="10">
-								<div ID="L.1.1.5.2.1.10.1" TYPE="Text">
+							<div ID="L.1.1.6.2.1.10" TYPE="Paragraph" ORDER="10">
+								<div ID="L.1.1.6.2.1.10.1" TYPE="Text">
 									<fptr>
 										<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00004"/>
 									</fptr>
@@ -1114,16 +1135,16 @@
 						</div>
 					</div>
 				</div>
-				<div ID="L.1.1.6" TYPE="TextContent" ORDER="6" DMDID="c005" LABEL="Ústav pro vzdělání varhaníků a ředitelů kůru.">
-					<div ID="L.1.1.6.1" TYPE="Head">
+				<div ID="L.1.1.7" TYPE="TextContent" ORDER="7" DMDID="c006" LABEL="Ústav pro vzdělání varhaníků a ředitelů kůru.">
+					<div ID="L.1.1.7.1" TYPE="Head">
 						<fptr>
 							<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00001"/>
 						</fptr>
 					</div>
-					<div ID="L.1.1.6.2" TYPE="Copy">
-						<div ID="L.1.1.6.2.1" TYPE="BodyContent">
-							<div ID="L.1.1.6.2.1.1" TYPE="Paragraph" ORDER="1">
-								<div ID="L.1.1.6.2.1.1.1" TYPE="Text">
+					<div ID="L.1.1.7.2" TYPE="Copy">
+						<div ID="L.1.1.7.2.1" TYPE="BodyContent">
+							<div ID="L.1.1.7.2.1.1" TYPE="Paragraph" ORDER="1">
+								<div ID="L.1.1.7.2.1.1.1" TYPE="Text">
 									<fptr>
 										<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00002"/>
 									</fptr>
@@ -1132,16 +1153,16 @@
 						</div>
 					</div>
 				</div>
-				<div ID="L.1.1.7" TYPE="TextContent" ORDER="7" DMDID="c006" LABEL="Drobné zprávy.">
-					<div ID="L.1.1.7.1" TYPE="Head">
+				<div ID="L.1.1.8" TYPE="TextContent" ORDER="8" DMDID="c007" LABEL="Drobné zprávy.">
+					<div ID="L.1.1.8.1" TYPE="Head">
 						<fptr>
 							<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00003"/>
 						</fptr>
 					</div>
-					<div ID="L.1.1.7.2" TYPE="Copy">
-						<div ID="L.1.1.7.2.1" TYPE="BodyContent">
-							<div ID="L.1.1.7.2.1.1" TYPE="Paragraph" ORDER="1">
-								<div ID="L.1.1.7.2.1.1.1" TYPE="Text">
+					<div ID="L.1.1.8.2" TYPE="Copy">
+						<div ID="L.1.1.8.2.1" TYPE="BodyContent">
+							<div ID="L.1.1.8.2.1.1" TYPE="Paragraph" ORDER="1">
+								<div ID="L.1.1.8.2.1.1.1" TYPE="Text">
 									<fptr>
 										<seq>
 											<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00004"/>
@@ -1155,16 +1176,16 @@
 						</div>
 					</div>
 				</div>
-				<div ID="L.1.1.8" TYPE="TextContent" ORDER="8" DMDID="c007" LABEL="Hlasy časopisův.">
-					<div ID="L.1.1.8.1" TYPE="Head">
+				<div ID="L.1.1.9" TYPE="TextContent" ORDER="9" DMDID="c008" LABEL="Hlasy časopisův.">
+					<div ID="L.1.1.9.1" TYPE="Head">
 						<fptr>
 							<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00002"/>
 						</fptr>
 					</div>
-					<div ID="L.1.1.8.2" TYPE="Copy">
-						<div ID="L.1.1.8.2.1" TYPE="BodyContent">
-							<div ID="L.1.1.8.2.1.1" TYPE="Paragraph" ORDER="1">
-								<div ID="L.1.1.8.2.1.1.1" TYPE="Text">
+					<div ID="L.1.1.9.2" TYPE="Copy">
+						<div ID="L.1.1.9.2.1" TYPE="BodyContent">
+							<div ID="L.1.1.9.2.1.1" TYPE="Paragraph" ORDER="1">
+								<div ID="L.1.1.9.2.1.1.1" TYPE="Text">
 									<fptr>
 										<seq>
 											<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00003"/>
@@ -1177,23 +1198,23 @@
 						</div>
 					</div>
 				</div>
-				<div ID="L.1.1.9" TYPE="SponsoredAdvertisement" LABEL="Sponsored Advertisements">
-					<div ID="L.1.1.9.1" TYPE="SponsoredAd" DMDID="c008">
+				<div ID="L.1.1.10" TYPE="SponsoredAdvertisement" LABEL="Sponsored Advertisements">
+					<div ID="L.1.1.10.1" TYPE="SponsoredAd" DMDID="c009">
 						<fptr>
 							<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_CB00001"/>
 						</fptr>
 					</div>
-					<div ID="L.1.1.9.2" TYPE="SponsoredAd" DMDID="c009">
+					<div ID="L.1.1.10.2" TYPE="SponsoredAd" DMDID="c010">
 						<fptr>
 							<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_CB00002"/>
 						</fptr>
 					</div>
-					<div ID="L.1.1.9.3" TYPE="SponsoredAd" DMDID="c010">
+					<div ID="L.1.1.10.3" TYPE="SponsoredAd" DMDID="c011">
 						<fptr>
 							<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_CB00001"/>
 						</fptr>
 					</div>
-					<div ID="L.1.1.9.4" TYPE="SponsoredAd" DMDID="c011">
+					<div ID="L.1.1.10.4" TYPE="SponsoredAd" DMDID="c012">
 						<fptr>
 							<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_CB00002"/>
 						</fptr>

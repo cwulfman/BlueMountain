@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3">
+   <recordInfo>
+      <recordIdentifier>urn:PUL:BlueMountain:dmd:bmtnabd_1880-02-01_01</recordIdentifier>
+   </recordInfo>
+   <identifier type="bmtn">urn:PUL:BlueMountain:bmtnabd_1880-02-01_01</identifier>
+   <typeOfResource>text</typeOfResource>
+   <genre>Periodicals-Issue</genre>
+   <titleInfo>
+      <title>Dalibor</title>
+      <subTitle>Časopis pro všecky obory uměni hudebniho.  S přílohami hudebnimi. Orgán "Matice hudebni" v Praze.</subTitle>
+   </titleInfo>
+   <part type="issue">
+      <detail type="volume">
+         <number>2</number>
+         <caption>Ročnik II.</caption>
+      </detail>
+      <detail type="number">
+         <number>4</number>
+         <caption>Číslo 4.</caption>
+      </detail>
+   </part>
+   <originInfo>
+      <dateIssued>1. února 1880.</dateIssued>
+      <dateIssued keyDate="yes">1880-02-01</dateIssued>
+   </originInfo>
+   <relatedItem xmlns:xlink="http://www.w3.org/1999/xlink"
+                type="host"
+                xlink:type="simple"
+                xlink:href="urn:PUL:bluemountain:bmtnabd">
+      <recordInfo>
+         <recordIdentifier>urn:PUL:bluemountain:dmd:bmtnabd</recordIdentifier>
+      </recordInfo>
+   </relatedItem>
+</mods>

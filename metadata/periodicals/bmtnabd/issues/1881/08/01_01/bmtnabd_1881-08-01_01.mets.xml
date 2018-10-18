@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/ http://schema.ccs-gmbh.com/docworks/version20/mix_jp2.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" xmlns="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:local="http://diglib.princeton.edu" xmlns:mods="http://www.loc.gov/mods/v3" TYPE="Magazine" OBJID="urn:PUL:periodicals:bluemountain:bmtnabd_1881-08-01_01">
+	<metsHdr>
+		<agent ROLE="CREATOR" TYPE="ORGANIZATION">
+			<name>Princeton University Library, Digital Initiatives</name>
+			<note>docWORKS-ID: 869607</note>
+		</agent>
+		<metsDocumentID TYPE="URN">urn:PUL:bluemountain:td:bmtnabd_1881-08-01_01</metsDocumentID>
+	</metsHdr>
+	<dmdSec ID="dmd1">
+		<mdWrap MDTYPE="MODS">
+			<xmlData>
+				<mods xmlns="http://www.loc.gov/mods/v3">
+					<recordInfo>
+						<recordIdentifier>urn:PUL:BlueMountain:dmd:bmtnabd_1881-08-01_01</recordIdentifier>
+					</recordInfo>
+					<identifier type="bmtn">urn:PUL:BlueMountain:bmtnabd_1881-08-01_01</identifier>
+					<typeOfResource>text</typeOfResource>
+					<genre>Periodicals-Issue</genre>
+					<titleInfo>
+						<title>Dalibor</title>
+						<subTitle>Časopis pro všecky obory uměni hudebniho.  S přílohami hudebnimi. Orgán Matice hudebni v Praze.</subTitle>
+					</titleInfo>
+					<part type="issue">
+						<detail type="number">
+							<number>22</number>
+							<caption>Číslo 22.</caption>
+						</detail>
+						<detail type="volume">
+							<number>3</number>
+							<caption>Ročnik III.</caption>
+						</detail>
+					</part>
+					<originInfo>
+						<dateIssued>1. srpna 1881.</dateIssued>
+						<dateIssued keyDate="yes">1881-08-01</dateIssued>
+					</originInfo>
+					<relatedItem xmlns:xlink="http://www.w3.org/1999/xlink" type="host" xlink:type="simple" xlink:href="urn:PUL:bluemountain:bmtnabd">
+						<recordInfo>
+							<recordIdentifier>urn:PUL:bluemountain:dmd:bmtnabd</recordIdentifier>
+						</recordInfo>
+					</relatedItem>
+					<relatedItem type="constituent" ID="c001">
+						<titleInfo lang="cze">
+							<title>Časopis pro všecky obory umění hudebního. S přílohami hudebními.</title>
+						</titleInfo>
+						<typeOfResource>text</typeOfResource>
+						<language>
+							<languageTerm authority="iso639-2b">cze</languageTerm>
+						</language>
+						<part>
+							<extent unit="page">
+								<start>1</start>
+							</extent>
+						</part>
+						<genre type="CCS">TextContent</genre>
+					</relatedItem>
+					<relatedItem type="constituent" ID="c002">
+						<titleInfo lang="cze">
+							<title>OBSAH:</title>
+						</titleInfo>
+						<typeOfResource>text</typeOfResource>
+						<language>
+							<languageTerm authority="iso639-2b">cze</languageTerm>
+						</language>
+						<part>
+							<extent unit="page">
+								<start>1</start>
+							</extent>
+						</part>
+						<genre type="CCS">TextContent</genre>
+					</relatedItem>
+					<relatedItem type="constituent" ID="c003">
+						<titleInfo lang="cze">
+							<title>Programy našich kapel.</title>
+						</titleInfo>
+						<typeOfResource>text</typeOfResource>
+						<language>
+							<languageTerm authority="iso639-2b">cze</languageTerm>
+						</language>
+						<part>
+							<extent unit="page">
+								<list>1-3</list>
+							</extent>
+						</part>
+						<genre type="CCS">TextContent</genre>
+					</relatedItem>
+					<relatedItem type="constituent" ID="c004">
+						<titleInfo lang="cze">
+							<title>FEUILLETON.</title>
+						</titleInfo>
+						<name type="personal">
+							<displayForm>Rossini</displayForm>
+							<role>
+								<roleTerm type="code" authority="marcrelator">cre</roleTerm>
+							</role>
+						</name>
+						<typeOfResource>text</typeOfResource>
+						<language>
+							<languageTerm authority="iso639-2b">cze</languageTerm>
+						</language>
+						<part>
+							<extent unit="page">
+								<start>3</start>
+							</extent>
+						</part>
+						<genre type="CCS">TextContent</genre>
+					</relatedItem>
+					<relatedItem type="constituent" ID="c005">
+						<titleInfo lang="cze">
+							<title>Kritický oznamovatel.</title>
+						</titleInfo>
+						<name type="personal">
+							<displayForm>K. Knittl</displayForm>
+							<role>
+								<roleTerm type="code" authority="marcrelator">cre</roleTerm>
+							</role>
+						</name>
+						<typeOfResource>text</typeOfResource>
+						<language>
+							<languageTerm authority="iso639-2b">cze</languageTerm>
+						</language>
+						<part>
+							<extent unit="page">
+								<list>3-4</list>
+							</extent>
+						</part>
+						<genre type="CCS">TextContent</genre>
+						<relatedItem type="constituent" ID="c006">
+							<titleInfo>
+								<title>Untitled Image</title>
+							</titleInfo>
+							<typeOfResource>still image</typeOfResource>
+							<part>
+								<extent unit="page">
+									<start>3</start>
+								</extent>
+							</part>
+							<genre type="CCS">Music</genre>
+						</relatedItem>
+					</relatedItem>
+					<relatedItem type="constituent" ID="c007">
+						<titleInfo lang="cze">
+							<title>Česká zpěvohra.</title>
+						</titleInfo>
+						<name type="personal">
+							<displayForm>Em. Chvála</displayForm>
+							<role>
+								<roleTerm type="code" authority="marcrelator">cre</roleTerm>
+							</role>
+						</name>
+						<typeOfResource>text</typeOfResource>
+						<language>
+							<languageTerm authority="iso639-2b">cze</languageTerm>
+						</language>
+						<part>
+							<extent unit="page">
+								<list>4-6</list>
+							</extent>
+						</part>
+						<genre type="CCS">TextContent</genre>
+						<relatedItem type="constituent" ID="c008">
+							<titleInfo lang="cze">
+								<title>Drobné zprávy.</title>
+							</titleInfo>
+							<typeOfResource>text</typeOfResource>
+							<language>
+								<languageTerm authority="iso639-2b">cze</languageTerm>
+							</language>
+							<part>
+								<extent unit="page">
+									<list>4-6</list>
+								</extent>
+							</part>
+							<genre type="CCS">TextContent</genre>
+						</relatedItem>
+					</relatedItem>
+					<relatedItem type="constituent" ID="c009">
+						<titleInfo lang="cze">
+							<title>Úmrtí.</title>
+						</titleInfo>
+						<typeOfResource>text</typeOfResource>
+						<language>
+							<languageTerm authority="iso639-2b">cze</languageTerm>
+						</language>
+						<part>
+							<extent unit="page">
+								<list>6-7</list>
+							</extent>
+						</part>
+						<genre type="CCS">TextContent</genre>
+						<relatedItem type="constituent" ID="c010">
+							<titleInfo lang="cze">
+								<title>Dopisy.</title>
+							</titleInfo>
+							<typeOfResource>text</typeOfResource>
+							<language>
+								<languageTerm authority="iso639-2b">cze</languageTerm>
+							</language>
+							<part>
+								<extent unit="page">
+									<list>6-7</list>
+								</extent>
+							</part>
+							<genre type="CCS">TextContent</genre>
+						</relatedItem>
+					</relatedItem>
+					<relatedItem type="constituent" ID="c011">
+						<titleInfo lang="cze">
+							<title>Z ruchu hudebního.</title>
+						</titleInfo>
+						<typeOfResource>text</typeOfResource>
+						<language>
+							<languageTerm authority="iso639-2b">cze</languageTerm>
+						</language>
+						<part>
+							<extent unit="page">
+								<start>7</start>
+							</extent>
+						</part>
+						<genre type="CCS">TextContent</genre>
+						<relatedItem type="constituent" ID="c012">
+							<titleInfo lang="cze">
+								<title>Hlídka časopisů.</title>
+							</titleInfo>
+							<typeOfResource>text</typeOfResource>
+							<language>
+								<languageTerm authority="iso639-2b">cze</languageTerm>
+							</language>
+							<part>
+								<extent unit="page">
+									<start>7</start>
+								</extent>
+							</part>
+							<genre type="CCS">TextContent</genre>
+						</relatedItem>
+						<relatedItem type="constituent" ID="c013">
+							<titleInfo lang="cze">
+								<title>Nové hudebniny a knihy.</title>
+							</titleInfo>
+							<typeOfResource>text</typeOfResource>
+							<language>
+								<languageTerm authority="iso639-2b">cze</languageTerm>
+							</language>
+							<part>
+								<extent unit="page">
+									<start>7</start>
+								</extent>
+							</part>
+							<genre type="CCS">TextContent</genre>
+						</relatedItem>
+						<relatedItem type="constituent" ID="c014">
+							<titleInfo lang="cze">
+								<title>Listárna redakce a administrace.</title>
+							</titleInfo>
+							<typeOfResource>text</typeOfResource>
+							<language>
+								<languageTerm authority="iso639-2b">cze</languageTerm>
+							</language>
+							<part>
+								<extent unit="page">
+									<start>7</start>
+								</extent>
+							</part>
+							<genre type="CCS">TextContent</genre>
+						</relatedItem>
+					</relatedItem>
+					<relatedItem type="constituent" ID="c015">
+						<titleInfo lang="cze">
+							<title>Klarinetista,</title>
+						</titleInfo>
+						<typeOfResource>text</typeOfResource>
+						<language>
+							<languageTerm authority="iso639-2b">cze</languageTerm>
+						</language>
+						<part>
+							<extent unit="page">
+								<start>7</start>
+							</extent>
+						</part>
+						<genre type="CCS">TextContent</genre>
+					</relatedItem>
+					<relatedItem type="constituent" ID="c016">
+						<titleInfo>
+							<title>[Advertisement]</title>
+						</titleInfo>
+						<genre>advertisement</genre>
+						<typeOfResource>text</typeOfResource>
+						<part>
+							<extent unit="page">
+								<start>8</start>
+							</extent>
+						</part>
+						<genre type="CCS">SponsoredAdvertisement</genre>
+					</relatedItem>
+					<relatedItem type="constituent" ID="c017">
+						<titleInfo>
+							<title>[Advertisement]</title>
+						</titleInfo>
+						<genre>advertisement</genre>
+						<typeOfResource>text</typeOfResource>
+						<part>
+							<extent unit="page">
+								<start>8</start>
+							</extent>
+						</part>
+						<genre type="CCS">SponsoredAdvertisement</genre>
+					</relatedItem>
+				</mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<amdSec>
+		<techMD ID="techmd1">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/jp2</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>34712</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>2</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//f14/OUT2/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1881/08/01_01/alto">bmtnabd_1881-08-01_01_0001.jp2</mix:ImageIdentifier>
+								<mix:FileSize>4155134</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>METAe_Serial</mix:SourceType>
+							<mix:SourceID/>
+							<mix:ImageProducer/>
+							<mix:Host>
+								<mix:HostComputer>DB1-2</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>7 SP1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource/>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer/>
+									<mix:ScannerModel>
+										<mix:ScannerModelName/>
+										<mix:ScannerModelNumber/>
+										<mix:ScannerModelSerialNo/>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWorks</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo/>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0423333</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>600</mix:XphysScanResolution>
+										<mix:YphysScanResolution>600</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>5091</mix:ImageWidth>
+								<mix:ImageLength>6529</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./PUL-DaliborMusicJournal/1881/08/01_01/00000181.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+		<techMD ID="techmd2">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/jp2</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>34712</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>2</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//f14/OUT2/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1881/08/01_01/alto">bmtnabd_1881-08-01_01_0002.jp2</mix:ImageIdentifier>
+								<mix:FileSize>4184701</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>METAe_Serial</mix:SourceType>
+							<mix:SourceID/>
+							<mix:ImageProducer/>
+							<mix:Host>
+								<mix:HostComputer>DB1-2</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>7 SP1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource/>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer/>
+									<mix:ScannerModel>
+										<mix:ScannerModelName/>
+										<mix:ScannerModelNumber/>
+										<mix:ScannerModelSerialNo/>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWorks</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo/>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0423333</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>600</mix:XphysScanResolution>
+										<mix:YphysScanResolution>600</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>5126</mix:ImageWidth>
+								<mix:ImageLength>6542</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./PUL-DaliborMusicJournal/1881/08/01_01/00000182.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+		<techMD ID="techmd3">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/jp2</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>34712</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>2</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//f14/OUT2/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1881/08/01_01/alto">bmtnabd_1881-08-01_01_0003.jp2</mix:ImageIdentifier>
+								<mix:FileSize>4192939</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>METAe_Serial</mix:SourceType>
+							<mix:SourceID/>
+							<mix:ImageProducer/>
+							<mix:Host>
+								<mix:HostComputer>DB1-2</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>7 SP1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource/>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer/>
+									<mix:ScannerModel>
+										<mix:ScannerModelName/>
+										<mix:ScannerModelNumber/>
+										<mix:ScannerModelSerialNo/>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWorks</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo/>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0423333</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>600</mix:XphysScanResolution>
+										<mix:YphysScanResolution>600</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>5127</mix:ImageWidth>
+								<mix:ImageLength>6542</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./PUL-DaliborMusicJournal/1881/08/01_01/00000183.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+		<techMD ID="techmd4">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/jp2</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>34712</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>2</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//f14/OUT2/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1881/08/01_01/alto">bmtnabd_1881-08-01_01_0004.jp2</mix:ImageIdentifier>
+								<mix:FileSize>4184485</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>METAe_Serial</mix:SourceType>
+							<mix:SourceID/>
+							<mix:ImageProducer/>
+							<mix:Host>
+								<mix:HostComputer>DB1-2</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>7 SP1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource/>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer/>
+									<mix:ScannerModel>
+										<mix:ScannerModelName/>
+										<mix:ScannerModelNumber/>
+										<mix:ScannerModelSerialNo/>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWorks</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo/>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0423333</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>600</mix:XphysScanResolution>
+										<mix:YphysScanResolution>600</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>5126</mix:ImageWidth>
+								<mix:ImageLength>6529</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./PUL-DaliborMusicJournal/1881/08/01_01/00000184.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+		<techMD ID="techmd5">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/jp2</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>34712</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>2</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//f14/OUT2/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1881/08/01_01/alto">bmtnabd_1881-08-01_01_0005.jp2</mix:ImageIdentifier>
+								<mix:FileSize>4185297</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>METAe_Serial</mix:SourceType>
+							<mix:SourceID/>
+							<mix:ImageProducer/>
+							<mix:Host>
+								<mix:HostComputer>DB1-2</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>7 SP1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource/>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer/>
+									<mix:ScannerModel>
+										<mix:ScannerModelName/>
+										<mix:ScannerModelNumber/>
+										<mix:ScannerModelSerialNo/>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWorks</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo/>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0423333</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>600</mix:XphysScanResolution>
+										<mix:YphysScanResolution>600</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>5127</mix:ImageWidth>
+								<mix:ImageLength>6529</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./PUL-DaliborMusicJournal/1881/08/01_01/00000185.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+		<techMD ID="techmd6">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/jp2</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>34712</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>2</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//f14/OUT2/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1881/08/01_01/alto">bmtnabd_1881-08-01_01_0006.jp2</mix:ImageIdentifier>
+								<mix:FileSize>4214095</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>METAe_Serial</mix:SourceType>
+							<mix:SourceID/>
+							<mix:ImageProducer/>
+							<mix:Host>
+								<mix:HostComputer>DB1-2</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>7 SP1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource/>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer/>
+									<mix:ScannerModel>
+										<mix:ScannerModelName/>
+										<mix:ScannerModelNumber/>
+										<mix:ScannerModelSerialNo/>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWorks</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo/>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0423333</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>600</mix:XphysScanResolution>
+										<mix:YphysScanResolution>600</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>5161</mix:ImageWidth>
+								<mix:ImageLength>6531</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./PUL-DaliborMusicJournal/1881/08/01_01/00000186.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+		<techMD ID="techmd7">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/jp2</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>34712</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>2</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//f14/OUT2/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1881/08/01_01/alto">bmtnabd_1881-08-01_01_0007.jp2</mix:ImageIdentifier>
+								<mix:FileSize>4214342</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>METAe_Serial</mix:SourceType>
+							<mix:SourceID/>
+							<mix:ImageProducer/>
+							<mix:Host>
+								<mix:HostComputer>DB1-2</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>7 SP1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource/>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer/>
+									<mix:ScannerModel>
+										<mix:ScannerModelName/>
+										<mix:ScannerModelNumber/>
+										<mix:ScannerModelSerialNo/>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWorks</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo/>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0423333</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>600</mix:XphysScanResolution>
+										<mix:YphysScanResolution>600</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>5161</mix:ImageWidth>
+								<mix:ImageLength>6531</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./PUL-DaliborMusicJournal/1881/08/01_01/00000187.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+		<techMD ID="techmd8">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/jp2</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>34712</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>2</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//f14/OUT2/PUL-DaliborMusicJournal/Dalibor/bmtnabd/issues/1881/08/01_01/alto">bmtnabd_1881-08-01_01_0008.jp2</mix:ImageIdentifier>
+								<mix:FileSize>4131400</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>METAe_Serial</mix:SourceType>
+							<mix:SourceID/>
+							<mix:ImageProducer/>
+							<mix:Host>
+								<mix:HostComputer>DB1-2</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>7 SP1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource/>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer/>
+									<mix:ScannerModel>
+										<mix:ScannerModelName/>
+										<mix:ScannerModelNumber/>
+										<mix:ScannerModelSerialNo/>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWorks</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo/>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0423333</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>600</mix:XphysScanResolution>
+										<mix:YphysScanResolution>600</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>5054</mix:ImageWidth>
+								<mix:ImageLength>6538</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./PUL-DaliborMusicJournal/1881/08/01_01/00000188.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+	</amdSec>
+	<fileSec>
+		<fileGrp ID="IMGGRP" USE="Images">
+			<file ID="IMG00001" ADMID="techmd1" GROUPID="page1" CREATED="2018-08-31T04:39:55" MIMETYPE="image/jp2" SEQ="1" CHECKSUM="55c3bff17bc7c174ce8da67cf866ef2cd7608873" CHECKSUMTYPE="SHA-1" SIZE="4155134">
+				<FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnabd/issues/1881/08/01_01/delivery/bmtnabd_1881-08-01_01_0001.jp2"/>
+			</file>
+			<file ID="IMG00002" ADMID="techmd2" GROUPID="page2" CREATED="2018-08-31T04:40:26" MIMETYPE="image/jp2" SEQ="2" CHECKSUM="23b98023b69e6cdc3dfd9be41358955135cf4cf9" CHECKSUMTYPE="SHA-1" SIZE="4184701">
+				<FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnabd/issues/1881/08/01_01/delivery/bmtnabd_1881-08-01_01_0002.jp2"/>
+			</file>
+			<file ID="IMG00003" ADMID="techmd3" GROUPID="page3" CREATED="2018-08-31T04:41:04" MIMETYPE="image/jp2" SEQ="3" CHECKSUM="df7f2d3a68719bce437ecb0d0cbe771b1b69ae60" CHECKSUMTYPE="SHA-1" SIZE="4192939">
+				<FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnabd/issues/1881/08/01_01/delivery/bmtnabd_1881-08-01_01_0003.jp2"/>
+			</file>
+			<file ID="IMG00004" ADMID="techmd4" GROUPID="page4" CREATED="2018-08-31T04:41:44" MIMETYPE="image/jp2" SEQ="4" CHECKSUM="badbdfdbe4d54ab24d3739600480110dbfd89649" CHECKSUMTYPE="SHA-1" SIZE="4184485">
+				<FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnabd/issues/1881/08/01_01/delivery/bmtnabd_1881-08-01_01_0004.jp2"/>
+			</file>
+			<file ID="IMG00005" ADMID="techmd5" GROUPID="page5" CREATED="2018-08-31T04:42:32" MIMETYPE="image/jp2" SEQ="5" CHECKSUM="46430ba3ba12975e4fc1d15a03975b8866bbbdd8" CHECKSUMTYPE="SHA-1" SIZE="4185297">
+				<FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnabd/issues/1881/08/01_01/delivery/bmtnabd_1881-08-01_01_0005.jp2"/>
+			</file>
+			<file ID="IMG00006" ADMID="techmd6" GROUPID="page6" CREATED="2018-08-31T04:43:17" MIMETYPE="image/jp2" SEQ="6" CHECKSUM="345746551bb014068896d09fbe612b42ed08792c" CHECKSUMTYPE="SHA-1" SIZE="4214095">
+				<FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnabd/issues/1881/08/01_01/delivery/bmtnabd_1881-08-01_01_0006.jp2"/>
+			</file>
+			<file ID="IMG00007" ADMID="techmd7" GROUPID="page7" CREATED="2018-08-31T04:44:04" MIMETYPE="image/jp2" SEQ="7" CHECKSUM="17638d8d3410884d18c3a103108005c2bea01931" CHECKSUMTYPE="SHA-1" SIZE="4214342">
+				<FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnabd/issues/1881/08/01_01/delivery/bmtnabd_1881-08-01_01_0007.jp2"/>
+			</file>
+			<file ID="IMG00008" ADMID="techmd8" GROUPID="page8" CREATED="2018-08-31T04:44:57" MIMETYPE="image/jp2" SEQ="8" CHECKSUM="bac3844cf21458bbe9867099eb818936c2f95c63" CHECKSUMTYPE="SHA-1" SIZE="4131400">
+				<FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnabd/issues/1881/08/01_01/delivery/bmtnabd_1881-08-01_01_0008.jp2"/>
+			</file>
+		</fileGrp>
+		<fileGrp ID="ALTOGRP" USE="OCR">
+			<file ID="ALTO00001" GROUPID="page1" CREATED="2018-08-31T04:45:26" MIMETYPE="text/xml" CHECKSUM="819497a14341fe24d6c36ca2d453a2bee8502743" CHECKSUMTYPE="SHA-1" SIZE="156644">
+				<FLocat LOCTYPE="URL" xlink:href="file://./alto/bmtnabd_1881-08-01_01_0001.alto.xml"/>
+			</file>
+			<file ID="ALTO00002" GROUPID="page2" CREATED="2018-08-31T04:45:27" MIMETYPE="text/xml" CHECKSUM="21cf443eb62595255af08c29e4f0f6a028577e13" CHECKSUMTYPE="SHA-1" SIZE="199660">
+				<FLocat LOCTYPE="URL" xlink:href="file://./alto/bmtnabd_1881-08-01_01_0002.alto.xml"/>
+			</file>
+			<file ID="ALTO00003" GROUPID="page3" CREATED="2018-08-31T04:45:28" MIMETYPE="text/xml" CHECKSUM="121fb691b76af60c08aed6f2156783f876db00c3" CHECKSUMTYPE="SHA-1" SIZE="165687">
+				<FLocat LOCTYPE="URL" xlink:href="file://./alto/bmtnabd_1881-08-01_01_0003.alto.xml"/>
+			</file>
+			<file ID="ALTO00004" GROUPID="page4" CREATED="2018-08-31T04:45:29" MIMETYPE="text/xml" CHECKSUM="75feb17d9df41c156965b31cbf6c7998626a94c0" CHECKSUMTYPE="SHA-1" SIZE="238386">
+				<FLocat LOCTYPE="URL" xlink:href="file://./alto/bmtnabd_1881-08-01_01_0004.alto.xml"/>
+			</file>
+			<file ID="ALTO00005" GROUPID="page5" CREATED="2018-08-31T04:45:30" MIMETYPE="text/xml" CHECKSUM="2577bb46c97511ab5af934011326bb8a26a4a25d" CHECKSUMTYPE="SHA-1" SIZE="266771">
+				<FLocat LOCTYPE="URL" xlink:href="file://./alto/bmtnabd_1881-08-01_01_0005.alto.xml"/>
+			</file>
+			<file ID="ALTO00006" GROUPID="page6" CREATED="2018-08-31T04:45:31" MIMETYPE="text/xml" CHECKSUM="eea1ef76e25aacf881cff3348e7699577bbab69d" CHECKSUMTYPE="SHA-1" SIZE="256539">
+				<FLocat LOCTYPE="URL" xlink:href="file://./alto/bmtnabd_1881-08-01_01_0006.alto.xml"/>
+			</file>
+			<file ID="ALTO00007" GROUPID="page7" CREATED="2018-08-31T04:45:33" MIMETYPE="text/xml" CHECKSUM="55d76caca985ae7c6b1597aaef008dc318b80f67" CHECKSUMTYPE="SHA-1" SIZE="194407">
+				<FLocat LOCTYPE="URL" xlink:href="file://./alto/bmtnabd_1881-08-01_01_0007.alto.xml"/>
+			</file>
+			<file ID="ALTO00008" GROUPID="page8" CREATED="2018-08-31T04:45:33" MIMETYPE="text/xml" CHECKSUM="bb35a4d132c69998258417d1a43b65f9e50a2155" CHECKSUMTYPE="SHA-1" SIZE="101170">
+				<FLocat LOCTYPE="URL" xlink:href="file://./alto/bmtnabd_1881-08-01_01_0008.alto.xml"/>
+			</file>
+		</fileGrp>
+		<fileGrp ID="PDFGRP" USE="PDF">
+			<file ID="PDF_ISSUELEVEL" CREATED="2018-08-31T04:46:15" MIMETYPE="application/pdf" CHECKSUM="e964fba5d385fcb24df6f2efbb6bfa48f2e9d140" CHECKSUMTYPE="SHA-1" SIZE="2857782">
+				<FLocat LOCTYPE="URL" xlink:href="file:///usr/share/BlueMountain/astore/periodicals/bmtnabd/issues/1881/08/01_01/bmtnabd_1881-08-01_01.pdf"/>
+			</file>
+		</fileGrp>
+	</fileSec>
+	<structMap LABEL="Physical Structure" TYPE="PHYSICAL">
+		<div ID="DIVP1" LABEL="" TYPE="Magazine" DMDID="dmd1">
+			<div ID="DIVP2" ORDER="1" ORDERLABEL="1" TYPE="INSIDE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00001"/>
+						<area FILEID="ALTO00001" BETYPE="IDREF" BEGIN="P1"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP3" ORDER="2" ORDERLABEL="2" LABEL="172" TYPE="INSIDE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00002"/>
+						<area FILEID="ALTO00002" BETYPE="IDREF" BEGIN="P2"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP4" ORDER="3" ORDERLABEL="3" LABEL="173" TYPE="INSIDE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00003"/>
+						<area FILEID="ALTO00003" BETYPE="IDREF" BEGIN="P3"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP5" ORDER="4" ORDERLABEL="4" LABEL="174" TYPE="INSIDE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00004"/>
+						<area FILEID="ALTO00004" BETYPE="IDREF" BEGIN="P4"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP6" ORDER="5" ORDERLABEL="5" LABEL="175" TYPE="INSIDE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00005"/>
+						<area FILEID="ALTO00005" BETYPE="IDREF" BEGIN="P5"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP7" ORDER="6" ORDERLABEL="6" LABEL="176" TYPE="INSIDE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00006"/>
+						<area FILEID="ALTO00006" BETYPE="IDREF" BEGIN="P6"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP8" ORDER="7" ORDERLABEL="7" LABEL="177" TYPE="INSIDE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00007"/>
+						<area FILEID="ALTO00007" BETYPE="IDREF" BEGIN="P7"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP9" ORDER="8" ORDERLABEL="8" LABEL="178" TYPE="INSIDE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00008"/>
+						<area FILEID="ALTO00008" BETYPE="IDREF" BEGIN="P8"/>
+					</par>
+				</fptr>
+			</div>
+		</div>
+	</structMap>
+	<structMap LABEL="Logical Structure" TYPE="LOGICAL">
+		<div ID="L.1" TYPE="Magazine" LABEL="Dalibor">
+			<div ID="L.1.1" TYPE="Issue" LABEL="Dalibor no. 22 01.08.1881">
+				<div ID="L.1.1.1" TYPE="PublicationInfo" LABEL="Publication Information">
+					<div ID="L.1.1.1.1" TYPE="GenericPubInfo" ORDER="1">
+						<fptr>
+							<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00012"/>
+						</fptr>
+					</div>
+					<div ID="L.1.1.1.2" TYPE="GenericPubInfo" ORDER="2">
+						<fptr>
+							<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00013"/>
+						</fptr>
+					</div>
+					<div ID="L.1.1.1.3" TYPE="GenericPubInfo" ORDER="3">
+						<fptr>
+							<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00014"/>
+						</fptr>
+					</div>
+					<div ID="L.1.1.1.4" TYPE="GenericPubInfo" ORDER="4">
+						<fptr>
+							<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00015"/>
+						</fptr>
+					</div>
+					<div ID="L.1.1.1.5" TYPE="GenericPubInfo" ORDER="5">
+						<fptr>
+							<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00002"/>
+						</fptr>
+					</div>
+				</div>
+				<div ID="L.1.1.2" TYPE="TextContent" ORDER="2" DMDID="c001" LABEL="Časopis pro všecky obory umění hudebního. S přílohami hudebními.">
+					<div ID="L.1.1.2.1" TYPE="Head">
+						<fptr>
+							<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00001"/>
+						</fptr>
+					</div>
+					<div ID="L.1.1.2.2" TYPE="Copy">
+						<div ID="L.1.1.2.2.1" TYPE="BodyContent">
+							<div ID="L.1.1.2.2.1.1" TYPE="Paragraph" ORDER="1">
+								<div ID="L.1.1.2.2.1.1.1" TYPE="Text">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00002"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="L.1.1.2.2.1.2" TYPE="Paragraph" ORDER="2">
+								<div ID="L.1.1.2.2.1.2.1" TYPE="Text">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00003"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="L.1.1.2.2.1.3" TYPE="Paragraph" ORDER="3">
+								<div ID="L.1.1.2.2.1.3.1" TYPE="Text">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00004"/>
+									</fptr>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div ID="L.1.1.3" TYPE="TextContent" ORDER="3" DMDID="c002" LABEL="OBSAH:">
+					<div ID="L.1.1.3.1" TYPE="Head">
+						<fptr>
+							<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00005"/>
+						</fptr>
+					</div>
+					<div ID="L.1.1.3.2" TYPE="Copy">
+						<div ID="L.1.1.3.2.1" TYPE="BodyContent">
+							<div ID="L.1.1.3.2.1.1" TYPE="Paragraph" ORDER="1">
+								<div ID="L.1.1.3.2.1.1.1" TYPE="Text">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00006"/>
+									</fptr>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div ID="L.1.1.4" TYPE="TextContent" ORDER="4" DMDID="c003" LABEL="Programy našich kapel.">
+					<div ID="L.1.1.4.1" TYPE="Head">
+						<fptr>
+							<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00007"/>
+						</fptr>
+					</div>
+					<div ID="L.1.1.4.2" TYPE="Copy">
+						<div ID="L.1.1.4.2.1" TYPE="BodyContent">
+							<div ID="L.1.1.4.2.1.1" TYPE="MinorHead" ORDER="1">
+								<fptr>
+									<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00008"/>
+								</fptr>
+							</div>
+							<div ID="L.1.1.4.2.1.2" TYPE="Paragraph" ORDER="2">
+								<div ID="L.1.1.4.2.1.2.1" TYPE="Text">
+									<fptr>
+										<seq>
+											<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00009"/>
+											<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00010"/>
+										</seq>
+									</fptr>
+								</div>
+							</div>
+							<div ID="L.1.1.4.2.1.3" TYPE="MinorHead" ORDER="3">
+								<fptr>
+									<area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00011"/>
+								</fptr>
+							</div>
+							<div ID="L.1.1.4.2.1.4" TYPE="Paragraph" ORDER="4">
+								<div ID="L.1.1.4.2.1.4.1" TYPE="Text">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00001"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="L.1.1.4.2.1.5" TYPE="Paragraph" ORDER="5">
+								<div ID="L.1.1.4.2.1.5.1" TYPE="Text">
+									<fptr>
+										<seq>
+											<area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00002"/>
+											<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00001"/>
+										</seq>
+									</fptr>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div ID="L.1.1.5" TYPE="TextContent" ORDER="5" DMDID="c004" LABEL="FEUILLETON.">
+					<div ID="L.1.1.5.1" TYPE="Head">
+						<fptr>
+							<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00002"/>
+						</fptr>
+					</div>
+					<div ID="L.1.1.5.2" TYPE="Byline">
+						<fptr>
+							<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00006"/>
+						</fptr>
+					</div>
+					<div ID="L.1.1.5.3" TYPE="Copy">
+						<div ID="L.1.1.5.3.1" TYPE="BodyContent">
+							<div ID="L.1.1.5.3.1.1" TYPE="Paragraph" ORDER="1">
+								<div ID="L.1.1.5.3.1.1.1" TYPE="Text">
+									<fptr>
+										<seq>
+											<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00003"/>
+											<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00004"/>
+											<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00005"/>
+										</seq>
+									</fptr>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div ID="L.1.1.6" TYPE="TextContent" ORDER="6" DMDID="c005" LABEL="Kritický oznamovatel.">
+					<div ID="L.1.1.6.1" TYPE="Head">
+						<fptr>
+							<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00007"/>
+						</fptr>
+					</div>
+					<div ID="L.1.1.6.2" TYPE="Byline">
+						<fptr>
+							<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00002"/>
+						</fptr>
+					</div>
+					<div ID="L.1.1.6.3" TYPE="Music" ORDER="1" DMDID="c006" LABEL="Untitled">
+						<div ID="L.1.1.6.3.1" TYPE="Image">
+							<fptr>
+								<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_CB00001"/>
+							</fptr>
+						</div>
+					</div>
+					<div ID="L.1.1.6.4" TYPE="Copy">
+						<div ID="L.1.1.6.4.1" TYPE="BodyContent">
+							<div ID="L.1.1.6.4.1.1" TYPE="Paragraph" ORDER="1">
+								<div ID="L.1.1.6.4.1.1.1" TYPE="Text">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00008"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="L.1.1.6.4.1.2" TYPE="Paragraph" ORDER="2">
+								<div ID="L.1.1.6.4.1.2.1" TYPE="Text">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00001"/>
+									</fptr>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div ID="L.1.1.7" TYPE="TextContent" ORDER="7" DMDID="c007" LABEL="Česká zpěvohra.">
+					<div ID="L.1.1.7.1" TYPE="Head">
+						<fptr>
+							<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00003"/>
+						</fptr>
+					</div>
+					<div ID="L.1.1.7.2" TYPE="Byline">
+						<fptr>
+							<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00007"/>
+						</fptr>
+					</div>
+					<div ID="L.1.1.7.3" TYPE="Copy">
+						<div ID="L.1.1.7.3.1" TYPE="BodyContent">
+							<div ID="L.1.1.7.3.1.1" TYPE="Paragraph" ORDER="1">
+								<div ID="L.1.1.7.3.1.1.1" TYPE="Text">
+									<fptr>
+										<seq>
+											<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00004"/>
+											<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00005"/>
+											<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00006"/>
+										</seq>
+									</fptr>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div ID="L.1.1.7.4" TYPE="TextContent" ORDER="1" DMDID="c008" LABEL="Drobné zprávy.">
+						<div ID="L.1.1.7.4.1" TYPE="Head">
+							<fptr>
+								<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00008"/>
+							</fptr>
+						</div>
+						<div ID="L.1.1.7.4.2" TYPE="Copy">
+							<div ID="L.1.1.7.4.2.1" TYPE="BodyContent">
+								<div ID="L.1.1.7.4.2.1.1" TYPE="Paragraph" ORDER="1">
+									<div ID="L.1.1.7.4.2.1.1.1" TYPE="Text">
+										<fptr>
+											<seq>
+												<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00009"/>
+												<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00001"/>
+												<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00002"/>
+											</seq>
+										</fptr>
+									</div>
+								</div>
+								<div ID="L.1.1.7.4.2.1.2" TYPE="Paragraph" ORDER="2">
+									<div ID="L.1.1.7.4.2.1.2.1" TYPE="Text">
+										<fptr>
+											<seq>
+												<area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00001"/>
+												<area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00002"/>
+											</seq>
+										</fptr>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div ID="L.1.1.8" TYPE="TextContent" ORDER="8" DMDID="c009" LABEL="Úmrtí.">
+					<div ID="L.1.1.8.1" TYPE="Head">
+						<fptr>
+							<area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00003"/>
+						</fptr>
+					</div>
+					<div ID="L.1.1.8.2" TYPE="Copy">
+						<div ID="L.1.1.8.2.1" TYPE="BodyContent">
+							<div ID="L.1.1.8.2.1.1" TYPE="Paragraph" ORDER="1">
+								<div ID="L.1.1.8.2.1.1.1" TYPE="Text">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00004"/>
+									</fptr>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div ID="L.1.1.8.3" TYPE="TextContent" ORDER="1" DMDID="c010" LABEL="Dopisy.">
+						<div ID="L.1.1.8.3.1" TYPE="Head">
+							<fptr>
+								<area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00005"/>
+							</fptr>
+						</div>
+						<div ID="L.1.1.8.3.2" TYPE="Copy">
+							<div ID="L.1.1.8.3.2.1" TYPE="BodyContent">
+								<div ID="L.1.1.8.3.2.1.1" TYPE="Paragraph" ORDER="1">
+									<div ID="L.1.1.8.3.2.1.1.1" TYPE="Text">
+										<fptr>
+											<seq>
+												<area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00006"/>
+												<area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00007"/>
+												<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00001"/>
+											</seq>
+										</fptr>
+									</div>
+								</div>
+							</div>
+							<div ID="L.1.1.8.3.2.2" TYPE="Footnote">
+								<div ID="L.1.1.8.3.2.2.1" TYPE="Text">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00002"/>
+									</fptr>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div ID="L.1.1.9" TYPE="TextContent" ORDER="9" DMDID="c011" LABEL="Z ruchu hudebního.">
+					<div ID="L.1.1.9.1" TYPE="Head">
+						<fptr>
+							<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00003"/>
+						</fptr>
+					</div>
+					<div ID="L.1.1.9.2" TYPE="Copy">
+						<div ID="L.1.1.9.2.1" TYPE="BodyContent">
+							<div ID="L.1.1.9.2.1.1" TYPE="Paragraph" ORDER="1">
+								<div ID="L.1.1.9.2.1.1.1" TYPE="Text">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00004"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="L.1.1.9.2.1.2" TYPE="Paragraph" ORDER="2">
+								<div ID="L.1.1.9.2.1.2.1" TYPE="Text">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00005"/>
+									</fptr>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div ID="L.1.1.9.3" TYPE="TextContent" ORDER="1" DMDID="c012" LABEL="Hlídka časopisů.">
+						<div ID="L.1.1.9.3.1" TYPE="Head">
+							<fptr>
+								<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00006"/>
+							</fptr>
+						</div>
+						<div ID="L.1.1.9.3.2" TYPE="Copy">
+							<div ID="L.1.1.9.3.2.1" TYPE="BodyContent">
+								<div ID="L.1.1.9.3.2.1.1" TYPE="Paragraph" ORDER="1">
+									<div ID="L.1.1.9.3.2.1.1.1" TYPE="Text">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00007"/>
+										</fptr>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div ID="L.1.1.9.4" TYPE="TextContent" ORDER="2" DMDID="c013" LABEL="Nové hudebniny a knihy.">
+						<div ID="L.1.1.9.4.1" TYPE="Head">
+							<fptr>
+								<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00008"/>
+							</fptr>
+						</div>
+						<div ID="L.1.1.9.4.2" TYPE="Copy">
+							<div ID="L.1.1.9.4.2.1" TYPE="BodyContent">
+								<div ID="L.1.1.9.4.2.1.1" TYPE="Paragraph" ORDER="1">
+									<div ID="L.1.1.9.4.2.1.1.1" TYPE="Text">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00009"/>
+										</fptr>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div ID="L.1.1.9.5" TYPE="TextContent" ORDER="3" DMDID="c014" LABEL="Listárna redakce a administrace.">
+						<div ID="L.1.1.9.5.1" TYPE="Head">
+							<fptr>
+								<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00010"/>
+							</fptr>
+						</div>
+						<div ID="L.1.1.9.5.2" TYPE="Copy">
+							<div ID="L.1.1.9.5.2.1" TYPE="BodyContent">
+								<div ID="L.1.1.9.5.2.1.1" TYPE="Paragraph" ORDER="1">
+									<div ID="L.1.1.9.5.2.1.1.1" TYPE="Text">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00011"/>
+										</fptr>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div ID="L.1.1.10" TYPE="TextContent" ORDER="10" DMDID="c015" LABEL="Klarinetista,">
+					<div ID="L.1.1.10.1" TYPE="Head">
+						<fptr>
+							<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00012"/>
+						</fptr>
+					</div>
+					<div ID="L.1.1.10.2" TYPE="Copy">
+						<div ID="L.1.1.10.2.1" TYPE="BodyContent">
+							<div ID="L.1.1.10.2.1.1" TYPE="Paragraph" ORDER="1">
+								<div ID="L.1.1.10.2.1.1.1" TYPE="Text">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00013"/>
+									</fptr>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div ID="L.1.1.11" TYPE="SponsoredAdvertisement" LABEL="Sponsored Advertisements">
+					<div ID="L.1.1.11.1" TYPE="SponsoredAd" DMDID="c016">
+						<fptr>
+							<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_CB00001"/>
+						</fptr>
+					</div>
+					<div ID="L.1.1.11.2" TYPE="SponsoredAd" DMDID="c017">
+						<fptr>
+							<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_CB00002"/>
+						</fptr>
+					</div>
+				</div>
+			</div>
+		</div>
+	</structMap>
+</mets>
